@@ -1,0 +1,9 @@
+{
+  "name": "first btc pump fun",
+  "symbol": "COINGEN",
+  "uri": "https://ipfs.io/ipfs/QmYXXVFYYY9Lo8a6BJzMKhE6ipQWqo9QkfgKCfEDAcMhof",
+  "mint": "F8zv5iXjBJ8hVD5iZU9HeMBuc7CKbSmiYLuYBPRHpump",
+  "bondingCurve": "CN1scZ94hGB5Kg6Z9mA9BgCFnygEc2AQBAimpFzRUYEn",
+  "associatedBondingCurve": "6yuHnx7nyZcKjcDP81zNJFhD4kCZgPSYxKQ2cH73rzFF",
+  "user": "3SzchD4DmXdpYSCJQzgtBypERvdTF3YMG9Sgh6LL19fx"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "BRB",
+  "symbol": "0,00000001",
+  "uri": "https://ipfs.io/ipfs/QmbCkoQF11cRpPprPGfeYHms7Cn1ZCr3d93N5Pox3RAGmc",
+  "mint": "3MvKuu1KZ19esnFYFrLGjxJq87YC8LHm2jTgkanQVirK",
+  "bondingCurve": "JBEwtiRooSL2wYWAvrodybArTwQ5L1GnTMc28QLbqvNP",
+  "associatedBondingCurve": "3xsa9CVQKmc3DcfS2SuhVopMZdWHePocskq73w3Q3bmt",
+  "user": "6bRthSq46s9Me11VSX4zxacnGiKHncqvSTLuTBEwDEs6"
+}

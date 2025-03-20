@@ -1,0 +1,9 @@
+{
+  "name": "trenchism",
+  "symbol": "TRENCHISM",
+  "uri": "https://ipfs.io/ipfs/QmYzsKgaSgKNDsRA6DctDtYu751ajiAuTqutV2bMmAToAZ",
+  "mint": "Ar5a8EBtBb9tEshFR1cxBa9qyNUPq4qxoaFWqiJK5923",
+  "bondingCurve": "5TwW2VRr4oAYaayNuhopZBtMRc9cGbzoA8cnyXBQoMRL",
+  "associatedBondingCurve": "8wvXixRSWkZWKsSYCi9rGjg1E4rBN2H1caiL795c1ju9",
+  "user": "3NXc779WMo8d4Qh78YppGyQrHWguQnhBfZkLtAkp7m7j"
+}

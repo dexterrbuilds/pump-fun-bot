@@ -1,0 +1,9 @@
+{
+  "name": "Broccolis Sister (Carrot)",
+  "symbol": "(Carrot)",
+  "uri": "https://ipfs.io/ipfs/QmaVNvum4KYzSAgG2Xh8RqB38wFoigswWvsbPDZmZL7AtX",
+  "mint": "7UDZEmbj7KHVHaoRnXqcfcAqcCs3sD54cDPWjNqhMseW",
+  "bondingCurve": "E4BqrKV92vgBtfb3UmTzKYgV5kP4ta1wZrQc48Yv5EBR",
+  "associatedBondingCurve": "G1822MkxLGpwTQxuBQQwv12fis6DfbvGZTjB4CuRyBHy",
+  "user": "2YZrDXDcqNqaSi2uL2YmdBxwyCkWqrY1FjMHQZCtNMUF"
+}

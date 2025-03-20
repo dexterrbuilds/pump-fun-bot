@@ -1,0 +1,9 @@
+{
+  "name": "Bolz Currency",
+  "symbol": "Bolz",
+  "uri": "https://ipfs.io/ipfs/QmY7YG4ibSvVZ5BzARvY9Y5RtnzW2BS2qdUJDtdSEdqyKk",
+  "mint": "HQj3r6aTVcojdfdMSBMViEcugAWfh7Vzxb85r7NqGd44",
+  "bondingCurve": "5tJF5LCgCfkdqjBgw9ADm2GG9QQkjnPqyarfvWbLHfSd",
+  "associatedBondingCurve": "8NZnpuPMxhseaWBTpkYQgMT2WhQpvQcdqHuSx3z3uRfX",
+  "user": "8jXCkrYdKoukhHcFYpwnBj6SF1owM2kfpYh1UiU8yTZW"
+}

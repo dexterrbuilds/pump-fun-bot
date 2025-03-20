@@ -1,0 +1,9 @@
+{
+  "name": "Bug",
+  "symbol": "BUG",
+  "uri": "https://ipfs.io/ipfs/QmQb4Ksa9hxME8k5S5v933Mu38Yjqu1SWNFf3UWVzF6HaG",
+  "mint": "4oC6kjTsQWmSRCkz3KvxQU3NfvyHkLZnbmVA3K4jny1X",
+  "bondingCurve": "oSQuHFS79PYRSXLg2fiB8gpunXSRxU4GqxBv7fY8if6",
+  "associatedBondingCurve": "2yXKcbcbrAEhW4s2H2L3hRXQUXw8dDcJm2k9N2kRbS12",
+  "user": "F7jrVaDrVFSHPcBJzSsYfgYmy2ynd8oTcbmio4EEtcWw"
+}

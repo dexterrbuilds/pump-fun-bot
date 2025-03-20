@@ -1,0 +1,9 @@
+{
+  "name": "smol poo",
+  "symbol": "maltpoo",
+  "uri": "https://ipfs.io/ipfs/QmQ93oPkQQrk2xYvgxin55ZqB95SpekbqfoJnh4bbvigVc",
+  "mint": "Bg1SXEoVqj216x9Yhy2mRCRjfT1pHfbzf7THR1qZpump",
+  "bondingCurve": "EFEhBfU5zmu9kDdFHKadyrpdPbWhXeoKr6cMsQNs14jR",
+  "associatedBondingCurve": "JA1ijyTLL42gr6erf3z4Hg5K2kzjo1Po1JkY3xUcnjka",
+  "user": "4NJce7fgMdaTfy4fZZoP4rikaeF3nRPdeePrPZY2kfC2"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Scary Berry",
+  "symbol": "Scarebear",
+  "uri": "https://ipfs.io/ipfs/QmQSwU2YuuoaYCHdeFW3DUAW1ig3e3yAGW5ujxJfUNdg8D",
+  "mint": "C3UPBjPfAqtPw5P8EBUADyf3FeGLpThGk3Kh9nB4eZFa",
+  "bondingCurve": "ACnBeg1zxjhvqXBE57UWgC28Aqb88waMJWwAymWtYkz8",
+  "associatedBondingCurve": "2cZMRCpNaJaam7RCFB5eSHTnkzyc2xdijEXGBm2pGUWb",
+  "user": "DMFPZC914cBLtPaJdxryjrsvxU39CnFfzaNs85EKCn5c"
+}

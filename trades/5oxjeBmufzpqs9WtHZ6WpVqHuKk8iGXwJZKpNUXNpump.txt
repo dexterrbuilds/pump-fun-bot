@@ -1,0 +1,9 @@
+{
+  "name": "fully retarded",
+  "symbol": "FR",
+  "uri": "https://ipfs.io/ipfs/QmeFeGhP6BKuxQ2AVjiLxwZcFmod3tibuSNXw9FxtK45ER",
+  "mint": "5oxjeBmufzpqs9WtHZ6WpVqHuKk8iGXwJZKpNUXNpump",
+  "bondingCurve": "4SKb7qT65YEsWhQZrPk1GqNRgEQM5gpUUHTvwxvQn8Vw",
+  "associatedBondingCurve": "F96MydQjrhQQ8cGNjJqhD5ek95Ggvbxi8CS41YRsJQaU",
+  "user": "76giPXCn4Fou7zAz8s951PKRfmpD8i8Vf5n1bUSWtRrb"
+}

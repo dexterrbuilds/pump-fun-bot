@@ -1,0 +1,9 @@
+{
+  "name": "Doug",
+  "symbol": "Dug",
+  "uri": "https://ipfs.io/ipfs/QmfFHxXzphbsgDeipeHu2mUdNjjUGXheGQHRkA9BLRK1s5",
+  "mint": "4QVjRTRGAnGx8V3xBivjLTYDripj9xWHx8jWED5HvodB",
+  "bondingCurve": "JAyhWzqo9QKbvUwkiYzwKZ1cX7oPnnauBsFDy3jpZwES",
+  "associatedBondingCurve": "2ghHbpHZhMsVsooYawW9F6jtHE6QRgHiu3JCJLWD9jUz",
+  "user": "Dj8FrGbTVrwBZ6L9c7CLrgjLUwnw3aYkQ4y6ZCYoJAdm"
+}

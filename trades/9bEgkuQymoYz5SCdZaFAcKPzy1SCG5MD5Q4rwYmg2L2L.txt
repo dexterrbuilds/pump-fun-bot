@@ -1,0 +1,9 @@
+{
+  "name": "knowledge cutoff date",
+  "symbol": "KCD",
+  "uri": "https://metadata.pumployer.fun/data/cf7b3bcf-99b6-40ce-9a17-69dc9c1ff187.json",
+  "mint": "9bEgkuQymoYz5SCdZaFAcKPzy1SCG5MD5Q4rwYmg2L2L",
+  "bondingCurve": "6a77kdHGJCVWpUfFbtaJX7dDNdGhUM6MK86q9aGrFAgs",
+  "associatedBondingCurve": "2sWvwJ7zk8Tad1exgHd2BwYVVEBXVsjZF5vLWuqqqK29",
+  "user": "9Fvj7n89g9kfDUJmBQJ2oFso9vdWiqh4h9kyzSBs3Peo"
+}

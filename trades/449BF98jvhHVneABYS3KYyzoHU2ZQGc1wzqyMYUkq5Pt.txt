@@ -1,0 +1,9 @@
+{
+  "name": "LMAGN",
+  "symbol": "LMAGN",
+  "uri": "https://ipfs.io/ipfs/QmXW82ViLcezReCQFUpQkAygkzauWT1MUzVETguc6qQA6F",
+  "mint": "449BF98jvhHVneABYS3KYyzoHU2ZQGc1wzqyMYUkq5Pt",
+  "bondingCurve": "9g9hS4VajLrYKaxFSVreMN1E6EWxbCkb6z7QLE55JahY",
+  "associatedBondingCurve": "3W3M7VPAQFTJ5D32uwGNBd2xnpmsophT2ABpWwjsXZ6o",
+  "user": "3aM8rx9WyFANRY8TimSyYWf6JoKcHnGA6QcrYqvJuy4A"
+}

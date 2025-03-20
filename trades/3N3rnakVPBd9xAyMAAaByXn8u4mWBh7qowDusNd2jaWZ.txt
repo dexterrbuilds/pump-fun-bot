@@ -1,0 +1,9 @@
+{
+  "name": "Moneycoin",
+  "symbol": "MONEYCOIN",
+  "uri": "https://ipfs.io/ipfs/QmRLmzJzteThR9d3HB9S54pPJhpuvPdxxyapDxYjmnLoN9",
+  "mint": "3N3rnakVPBd9xAyMAAaByXn8u4mWBh7qowDusNd2jaWZ",
+  "bondingCurve": "GsKeNxQ1J8mg4vk3TBK9cCh9Jm5ytKWqqVmvSCtWSkKM",
+  "associatedBondingCurve": "oYAyP2o9hkFmzoH8UD4qi5beZKVcMXbaJUeNm6jPyRs",
+  "user": "fZdjhhow6c67TPEadHC4hfx3ZjeXW69nwypjLLqN9yE"
+}

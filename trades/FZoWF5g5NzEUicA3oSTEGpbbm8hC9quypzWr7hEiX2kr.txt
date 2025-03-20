@@ -1,0 +1,9 @@
+{
+  "name": "FIRST BTC ANIMAL HODLER",
+  "symbol": "PERRY",
+  "uri": "https://ipfs.io/ipfs/QmU3p66bxMMCJLD96v8dRY1XczE7YJYhDWCCBX1uyhsJYE",
+  "mint": "FZoWF5g5NzEUicA3oSTEGpbbm8hC9quypzWr7hEiX2kr",
+  "bondingCurve": "5d7AKcBTcS3Bc9sbV6WcYGJGKJmHDEab4ZJ4uuNnMm1W",
+  "associatedBondingCurve": "BfHyBjR9SonEH3WF8JEyx88eeayf6JYdiV7fX5joEdQZ",
+  "user": "6CJaE44gQo8XKu45QBcf92UFb8r63mm1ib5tuQTk958S"
+}

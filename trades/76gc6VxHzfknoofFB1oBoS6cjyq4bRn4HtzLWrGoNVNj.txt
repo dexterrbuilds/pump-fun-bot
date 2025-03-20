@@ -1,0 +1,9 @@
+{
+  "name": "RANDX",
+  "symbol": "RANDX",
+  "uri": "https://ipfs.io/ipfs/Qmeu7je7zaiLJwj6G3qAbESmxbGQm24zS2snc2hM7zzxHR",
+  "mint": "76gc6VxHzfknoofFB1oBoS6cjyq4bRn4HtzLWrGoNVNj",
+  "bondingCurve": "2gah4KFAWAoFYAxspiqr8rnr1qHS4pcUhc3MScstZhhh",
+  "associatedBondingCurve": "EpDJrz3xoxEG6wA3hQgCv53NXj75u9PPpwHfCcHMZG2q",
+  "user": "Exc8WfyFA9AWUwMXe9owqfjRoFZq7y9LJ2Ggsn3icAEG"
+}

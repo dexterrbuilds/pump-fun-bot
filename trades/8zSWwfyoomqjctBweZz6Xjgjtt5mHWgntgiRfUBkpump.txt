@@ -1,0 +1,9 @@
+{
+  "name": "Pump vs Poverty",
+  "symbol": "PVP",
+  "uri": "https://ipfs.io/ipfs/QmUSjDL2VK5eSzhfGM3sJkhW3RUMFWNUbEAEwEv3zdkexF",
+  "mint": "8zSWwfyoomqjctBweZz6Xjgjtt5mHWgntgiRfUBkpump",
+  "bondingCurve": "D4wDLy1oLAAFERy4vzxbn3vmuqK2JVSZogFSXX1bVR9W",
+  "associatedBondingCurve": "7j4HbxZ8ugUJe9jHm9wnHwCzfo8L167ifShiZTXkQCdP",
+  "user": "H1Ykv7Z3znqiiztrkJchzsDM8gm1gV7A4GUKKH91LDmJ"
+}

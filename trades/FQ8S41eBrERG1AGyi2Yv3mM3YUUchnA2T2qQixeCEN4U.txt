@@ -1,0 +1,9 @@
+{
+  "name": "True ",
+  "symbol": "TRUE",
+  "uri": "https://metadata.pumployer.fun/data/df10722c-01dd-45eb-89ef-4688c4ff3b2a.json",
+  "mint": "FQ8S41eBrERG1AGyi2Yv3mM3YUUchnA2T2qQixeCEN4U",
+  "bondingCurve": "A6GSCN5Y3bqzcWJe4kHKXx5vDc2qBxqnMZBMZGcTsgqV",
+  "associatedBondingCurve": "9ys2T7vv1qMifcDiVN5LvMLVwT4tZbdGLAkmpukMy421",
+  "user": "9Fvj7n89g9kfDUJmBQJ2oFso9vdWiqh4h9kyzSBs3Peo"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "HappyBulldog",
+  "symbol": "BULLY",
+  "uri": "https://ipfs.io/ipfs/QmRDqWtAYPBEu7z6oALDkgstYRrhpYV9NeAr3jcW7HV9px",
+  "mint": "WS42mRytGLNtgmjMKy2iG2hW2xgo7E8wLMoUweb8UiM",
+  "bondingCurve": "4PnRmxT6FBeMd3d5DMrh6orpeyqiHL8aTkgZhTRJGFn5",
+  "associatedBondingCurve": "3TLX6qoC3LTdjdr4A92rCfgggyoTtirnoqbaF5VAFLYH",
+  "user": "GWqcS7Ypi7U6GYrpyL2M3UssjEGXPDrJpegSxGjqFAnR"
+}

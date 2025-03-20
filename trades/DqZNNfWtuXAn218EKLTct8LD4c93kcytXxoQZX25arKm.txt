@@ -1,0 +1,9 @@
+{
+  "name": "Saitama",
+  "symbol": "SAT",
+  "uri": "https://ipfs.io/ipfs/QmZXyDdFjwBgb2EfUsLZ587NKQYy3X2Cinp2D6mB3HLNk4",
+  "mint": "DqZNNfWtuXAn218EKLTct8LD4c93kcytXxoQZX25arKm",
+  "bondingCurve": "ApZHUkYB6rPdnKT3L9PYfcgzHSZ3EwfoCEKHBHpUtAkJ",
+  "associatedBondingCurve": "Gqw7VSC1UJLYDSMZajsjC3kPwhdGJ6DBkGFXzyGPZduB",
+  "user": "5MZT7Lm6RMV9dTGJHiPmRfwbaUYCUrwJWCF6ZbpNM9Ha"
+}

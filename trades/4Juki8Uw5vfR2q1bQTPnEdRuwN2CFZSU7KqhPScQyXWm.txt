@@ -1,0 +1,9 @@
+{
+  "name": "SQUIRREL KILLED BY POLICE",
+  "symbol": "PETER",
+  "uri": "https://ipfs.io/ipfs/QmPVDLqjSMti9D4hfVemsNUvUHqwFXfCs2hGcVPqWHYLYB",
+  "mint": "4Juki8Uw5vfR2q1bQTPnEdRuwN2CFZSU7KqhPScQyXWm",
+  "bondingCurve": "F7pX2VpSSeThQYRWXhRcNg6vay9azHdWwdJdTykzEgzX",
+  "associatedBondingCurve": "AHNGwfacEEqAZ8cGTCDNe58RGhjGurH3iovTwW7jWcSD",
+  "user": "BDwG24T8gn4NTpRc3ynmcd2pnpH464GXqRaYXpMKJZTW"
+}

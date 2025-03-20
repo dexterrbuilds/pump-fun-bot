@@ -1,0 +1,9 @@
+{
+  "name": "OFFICIAL MARK CUBAN",
+  "symbol": "CUBAN",
+  "uri": "https://ipfs.io/ipfs/Qmb5G5UvgyiYf622yYBAVii6HH2w43bsCR2CvPJnRhj4FJ",
+  "mint": "3zygATNM4ExizqRgBccSUJchnhF7HQRsK4ASdzg3niz7",
+  "bondingCurve": "AP6GgF4ZQ1vwGjfk4Bza4V2vwDwq1hvdEVoLSqZZobZ",
+  "associatedBondingCurve": "AzW9YjR5NTHw6R1eTiZWMKCUsF4EWChpC8L3cVLRzfqt",
+  "user": "8GbxiCZrB7grKsG8nERqapZco3v5iCTtcH9eCkB1fLmD"
+}

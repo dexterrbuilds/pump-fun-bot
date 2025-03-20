@@ -1,0 +1,9 @@
+{
+  "name": "FGGD",
+  "symbol": "FGGF",
+  "uri": "https://ipfs.io/ipfs/QmNzbETnPbnKWxNfHiPz4TCYk1GVqoCYXKL8eEmdNsEthY",
+  "mint": "8mGGoJwqmCsfAFkmd6ua2fsb8oiHfVvZ8CK6FVZVpump",
+  "bondingCurve": "2fqDcCGHUNEm6f7KdDXxxKPmEYqPVp3P3JnTexUXZaqr",
+  "associatedBondingCurve": "46pqXZYekfad4L9Ag2UyDUEyvdoASE8mqRDS312EBm6T",
+  "user": "ED5PqE9r82ekH2C2MQqJvkyV6xwoeiVbquaHv4q8ucAy"
+}

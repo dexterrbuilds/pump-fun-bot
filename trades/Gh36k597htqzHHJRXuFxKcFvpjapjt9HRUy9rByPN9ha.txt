@@ -1,0 +1,9 @@
+{
+  "name": "PAINS MOTHER",
+  "symbol": "PAINS MOM",
+  "uri": "https://ipfs.io/ipfs/QmUwNz9tFf98FA1byG1ooBQaMQD4Ejpe5JzLsM1DNixjsa",
+  "mint": "Gh36k597htqzHHJRXuFxKcFvpjapjt9HRUy9rByPN9ha",
+  "bondingCurve": "HpS1XqMRLBQvWrC2htpsZaACQ2jrAcahijM9weYEfzQ6",
+  "associatedBondingCurve": "HpX3KF3T9Fi17VFRy654oc14AtV6KyfhGkAv7PcbxGk8",
+  "user": "9yuEAimDC6fswN25Wn75aP1DUbMwX5e6x4kaijE1b9Vt"
+}

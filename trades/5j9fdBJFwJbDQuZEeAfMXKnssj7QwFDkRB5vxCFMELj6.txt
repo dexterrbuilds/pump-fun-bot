@@ -1,0 +1,9 @@
+{
+  "name": "thunder",
+  "symbol": "thunder",
+  "uri": "https://ipfs.io/ipfs/QmWoducrePiPs1zz1RsmWvrtQLP8bVjqrsSd9dcgFbBVJi",
+  "mint": "5j9fdBJFwJbDQuZEeAfMXKnssj7QwFDkRB5vxCFMELj6",
+  "bondingCurve": "8ekrqYXnZxfApPergLfh8UyoYfGewy4SYe2YYnsCBiqu",
+  "associatedBondingCurve": "FcMMQLqvLPPqmdPzBCFVG6zJuCNR5YkDvAnpUwbB4yV6",
+  "user": "6dtSTWLzTGFa9X17zqpHWCmGmt5pmKrX4qr2719L8c2V"
+}

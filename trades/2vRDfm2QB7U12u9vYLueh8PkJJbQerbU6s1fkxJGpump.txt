@@ -1,0 +1,9 @@
+{
+  "name": "SEC CYBER UNIT",
+  "symbol": "SCU",
+  "uri": "https://ipfs.io/ipfs/QmXzaqAFfZmFyaVT1i3oD9QQ1gThRuJRtvHkqFpooneG1r",
+  "mint": "2vRDfm2QB7U12u9vYLueh8PkJJbQerbU6s1fkxJGpump",
+  "bondingCurve": "ALuFesg7QVLmSwGhcriNfwpLcYMMAccNb8NTk859DnBT",
+  "associatedBondingCurve": "U3pNpFgJzGVc5h3accymvFSfL1FuMZ68iikWrf1qfF3",
+  "user": "Hz3H53NLDapnhjnbme46ryPBc6KkEij9o7AUuxcwZM9s"
+}

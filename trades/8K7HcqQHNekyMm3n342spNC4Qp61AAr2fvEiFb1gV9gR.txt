@@ -1,0 +1,9 @@
+{
+  "name": "Exactly",
+  "symbol": "Exactly",
+  "uri": "https://ipfs.io/ipfs/QmaRX217a27cJSARe66M9S9zkxdrvYLk15mAjbuH3TdBE7",
+  "mint": "8K7HcqQHNekyMm3n342spNC4Qp61AAr2fvEiFb1gV9gR",
+  "bondingCurve": "4Twi3tQA5zHjifYLba9FKtMN2kgvy5ewk8x6EqULZX7U",
+  "associatedBondingCurve": "FEEndXmWrVevGYrP8erQNbBvcCktWMhN97UerWxsdNGd",
+  "user": "FytsBaVUnpJKenc6PZpECdRA6ytVgAgMYcFRKM91M77d"
+}

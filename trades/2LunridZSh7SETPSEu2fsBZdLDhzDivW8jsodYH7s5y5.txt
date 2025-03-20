@@ -1,0 +1,9 @@
+{
+  "name": "Patrick",
+  "symbol": "PFP",
+  "uri": "https://ipfs.io/ipfs/QmRtPfm7Q1Qn588gN8779J9h1Pk1h9PGPu93sQVSk1CRPm",
+  "mint": "2LunridZSh7SETPSEu2fsBZdLDhzDivW8jsodYH7s5y5",
+  "bondingCurve": "GLkHsuApsB39L8DtyUF1FuwETp3VQ8TarX3eJwTtcM3P",
+  "associatedBondingCurve": "DZU36EVqyu6W1muzPL1yLHwLvtDqgrR3S3FkAgvb3vrJ",
+  "user": "zx6u6wxgKkPTFiatYerdjJQp5QM9wWfyt9YJMXofwB8"
+}

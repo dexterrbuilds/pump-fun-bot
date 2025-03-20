@@ -1,0 +1,9 @@
+{
+  "name": "ROLLCOIN",
+  "symbol": "0.02",
+  "uri": "https://ipfs.io/ipfs/QmWSoDuyzAtDTFNKgh1DkxxRVL9zo5m6ffHN8BNaqWfm1r",
+  "mint": "BgjZm7v5eL8HAjwik2o7BtSiZuHH6ced9jNVndrgAASY",
+  "bondingCurve": "EbPZScmP9bHhdiWBsyGqrKqunMHdDzVtaigSjyKNFKSQ",
+  "associatedBondingCurve": "CVs8GdjSTebhYC9L99nPyNADSpGGuErogBZQBBR1gUh3",
+  "user": "28hcriJR8V7YB4vT2g2Rh51CwbWD7ypBQQE9jGz7XjEL"
+}

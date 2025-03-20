@@ -1,0 +1,9 @@
+{
+  "name": "CETU\u2018s Leade",
+  "symbol": "Laura",
+  "uri": "https://ipfs.io/ipfs/QmWYE53B8cib5zU4KdSbLDfGBSc3SZVRQBXG554wxCHLQB",
+  "mint": "2KBY6sjF16kQPThFjQV7WQC7vUfFJ9k5ZR3cAUcsxUUo",
+  "bondingCurve": "3vpXYctzVpGLeyijLGq32od7H6sWqpSo8781pL4pZPCh",
+  "associatedBondingCurve": "BrnNgJDztJZRRfcWQAvwHyXQhpuA6dpaitZBeX77VmLt",
+  "user": "3yifwUtNdYWJGeXHrzPWLoyv9mR9Uc3Nn5AW23qTSdGk"
+}

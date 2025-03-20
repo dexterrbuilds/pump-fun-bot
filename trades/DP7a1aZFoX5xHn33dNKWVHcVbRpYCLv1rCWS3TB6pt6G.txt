@@ -1,0 +1,9 @@
+{
+  "name": "Zizian cult ",
+  "symbol": "Zizian ",
+  "uri": "https://ipfs.io/ipfs/QmWQDgu4ciGL2B8sEH7iUPUnGRsUN9NdST2zBZAaKC2iV4",
+  "mint": "DP7a1aZFoX5xHn33dNKWVHcVbRpYCLv1rCWS3TB6pt6G",
+  "bondingCurve": "8bHCzHyT4m3gks1xh8WaUsRdQcXp1otP4ewKMaX9LdW7",
+  "associatedBondingCurve": "8zqrfobN3xYkmKmoCZSBpWTM1Apj4VVg8ULuU7DtX3n6",
+  "user": "FvsAhro8HpEBAb7q9HTnMAkP1X3CfvNrHG5McgPumWvV"
+}

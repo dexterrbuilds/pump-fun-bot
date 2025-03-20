@@ -1,0 +1,9 @@
+{
+  "name": "Satoshi Nakomoto Coin",
+  "symbol": "0.0001",
+  "uri": "https://ipfs.io/ipfs/Qmdq5onQRiLeNS2xEu5KRemzaNPJq1HvxSqN2JgXJmj6wa",
+  "mint": "FNEaSETsFkrETfqUxHUsSwW3YuWZmrAPXAsQ38adpump",
+  "bondingCurve": "FJRP6DMFzKyKiXBS9FL8scbowru8BdbLSdkXb1CFdTbM",
+  "associatedBondingCurve": "HVT6deaRHENaJUvBNhfbQqxB9GL5aPujTPfiURgQp8sk",
+  "user": "JDMRUUYYYTu2wQHVsZcxqj5Adrj9Dmy19J7aCBwxzHi2"
+}

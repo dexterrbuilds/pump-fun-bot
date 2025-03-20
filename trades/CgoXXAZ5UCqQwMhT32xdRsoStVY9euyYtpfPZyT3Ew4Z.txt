@@ -1,0 +1,9 @@
+{
+  "name": "Civ The Bear",
+  "symbol": "CIV",
+  "uri": "https://ipfs.io/ipfs/QmXyYsF9G9vevPkFAXKv6kSL3J2Hh7GpkVK5Vzu5inyxef",
+  "mint": "CgoXXAZ5UCqQwMhT32xdRsoStVY9euyYtpfPZyT3Ew4Z",
+  "bondingCurve": "4bzqFcdG4dNjokH3y45wh3R4iQcUPRGR4nHFZqmXQMRw",
+  "associatedBondingCurve": "DXC8v25FK1BLSfMAdFkkxxd38WaxTLoXrqGDHc6Ycw4w",
+  "user": "2gaZqCqPBijBbWDLXfLbCHttX7php8FqwwxgdQVpbKAw"
+}

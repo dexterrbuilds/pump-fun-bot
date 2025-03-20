@@ -1,0 +1,9 @@
+{
+  "name": "BOEING MUSK",
+  "symbol": "BAM",
+  "uri": "https://ipfs.io/ipfs/QmXdEWo3s1k6hAG8La4VrCt8a1nFJzHuJupzrxxgXUnApf",
+  "mint": "2tiZDEBCkDJVpV5q6h5mneymeqSUHJyXV1QWwyoqpump",
+  "bondingCurve": "8Lf8cGkmWGo4W4ESJjmLkQMsYSF4te2haFVtZnUHJwL2",
+  "associatedBondingCurve": "64vwkF9ndR6RvJyYtcr8bCuuLVXrh44bm59ZZx1mUtE1",
+  "user": "AjR7sUm8WAp1tnYmSpzaG9eWhsbQhJEPQdppPzyBVzcr"
+}

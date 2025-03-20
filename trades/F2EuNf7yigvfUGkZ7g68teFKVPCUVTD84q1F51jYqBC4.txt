@@ -1,0 +1,9 @@
+{
+  "name": "LEROYPOSTCOIN",
+  "symbol": "LeroyPost",
+  "uri": "https://ipfs.io/ipfs/Qmd2YJ8tdAf2eWAwuLp14H55fsGWfXm2ZosKnb3uAwVVYN",
+  "mint": "F2EuNf7yigvfUGkZ7g68teFKVPCUVTD84q1F51jYqBC4",
+  "bondingCurve": "GcHf6PqHy7WBWV3XpwMoYwCADagVMscCA4QPkUAxkntE",
+  "associatedBondingCurve": "FRtBmr84Bt3TeyX4rFJaStrLR8gowy2x9eBv7YU7ZC2n",
+  "user": "FmnHaxwv6GceZ9oq91tnsm1v4jptWR6ajHGFXgTXsGpV"
+}

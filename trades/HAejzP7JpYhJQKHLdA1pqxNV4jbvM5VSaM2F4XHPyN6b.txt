@@ -1,0 +1,9 @@
+{
+  "name": "First ever pump dog",
+  "symbol": "pump dog",
+  "uri": "https://ipfs.io/ipfs/QmU4ZxqiMpzJdNsryBx5PPYEx24cZRFhAapHfpDh6ato7i",
+  "mint": "HAejzP7JpYhJQKHLdA1pqxNV4jbvM5VSaM2F4XHPyN6b",
+  "bondingCurve": "FV7fy4Rg9W8a9UYxCk9LRZikwxa4EAP9iau41gtuzGQe",
+  "associatedBondingCurve": "444xyS6U2aShQPT9WanXZz4Ws3pWSVy7yQzsc5euW1Q8",
+  "user": "5YQSkX2mKLuRLbbcZKcvcKX4Z56XYT2vvXAMgSkktmDN"
+}

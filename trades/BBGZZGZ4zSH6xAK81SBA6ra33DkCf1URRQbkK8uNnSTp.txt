@@ -1,0 +1,9 @@
+{
+  "name": "TrumpVerse",
+  "symbol": "TRUMPVERSE",
+  "uri": "http://149.51.224.102:81/json/f3470603-327b-4dbc-847e-9ac600d18de4",
+  "mint": "BBGZZGZ4zSH6xAK81SBA6ra33DkCf1URRQbkK8uNnSTp",
+  "bondingCurve": "J8LioNwxEn6sB6k1Lsr1yv6gGkim36dYstiUn4nVyMmv",
+  "associatedBondingCurve": "Fctfhyasj3DW8ebLdujqhMXnUDYcxgHxeH2UYypfW51m",
+  "user": "97PcmVULLCJHqta7SohkvFrkfzCjdQYVZQxdJoczCViY"
+}

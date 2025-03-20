@@ -1,0 +1,9 @@
+{
+  "name": "NEW DISNEY MASCOT",
+  "symbol": "Duffy",
+  "uri": "https://ipfs.io/ipfs/QmXmxJaBuCty3UuGeEEqR6ZcuBkMX1CbtXjXMq9NMofJ6n",
+  "mint": "59g1qjv64tgZJxAzbJeL6se8pJinhsb9jN5CpFLc17M5",
+  "bondingCurve": "2474tEGutrHFQG2oWops1eQWeV2Fv5QEVdC7YFgz2EUa",
+  "associatedBondingCurve": "7Euo9FVydUPccRxPzwp6NQMxAj7R8aqYmMGyNzwczL5z",
+  "user": "2azAMafTEyVLVakTnc9FQZqCoaQPYD7YNNKcCqQBtToR"
+}

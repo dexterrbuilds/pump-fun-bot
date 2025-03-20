@@ -1,0 +1,9 @@
+{
+  "name": "ChillPet",
+  "symbol": "$CHP",
+  "uri": "https://ipfs.io/ipfs/QmSah4GLBFoA5UuzkAzD1TxzUAj9wMNUARZDitcgbNzG93",
+  "mint": "EKCVQLtwxrgJnKYZZEsMtbFcg1rm4Zd1GEn7xDQgBzyF",
+  "bondingCurve": "DH279zzsGv2YVjZNg2dKtBC7o3B2AqbVrJcgrqoZargT",
+  "associatedBondingCurve": "UztVYzMpisNCDTygwjN2XYBrJJTfTCWqiVmjPrJFxup",
+  "user": "HjRauMwQ9vNwzfqgbcXNYPfhwYK5EoWQcF69Mih3iGhF"
+}

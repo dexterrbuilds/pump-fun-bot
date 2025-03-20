@@ -1,0 +1,9 @@
+{
+  "name": "Crypto Assets and Cyber Unit",
+  "symbol": "CACU",
+  "uri": "https://ipfs.io/ipfs/QmQMinRrsFacRvq7WqYfxR3zv3kpqP2oRiMs6M9tqaP6SK",
+  "mint": "5Bi67AVLMFWju9RDyAEfmFfgjbt86yFZikB1mN9saw9E",
+  "bondingCurve": "vJCMc5KJFPpiGe2McgQ3fzuC2mByF7vWRW2mc2BSXrF",
+  "associatedBondingCurve": "GukxR24me2wumQ3JYaT39LdqNCkA4DDHThKp2rF8YG88",
+  "user": "HTM87R4mgjDdiF6Yfn8duK9vbDmZxiPCTRbGvm7eCAJY"
+}

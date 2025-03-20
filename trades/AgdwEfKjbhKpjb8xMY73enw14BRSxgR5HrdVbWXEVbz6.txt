@@ -1,0 +1,9 @@
+{
+  "name": "Franklin Crypto Index ETF",
+  "symbol": "EZPZ",
+  "uri": "https://metadata.pumployer.fun/data/232b54bd-6357-475c-9a69-a82854ada296.json",
+  "mint": "AgdwEfKjbhKpjb8xMY73enw14BRSxgR5HrdVbWXEVbz6",
+  "bondingCurve": "9wJbQK8GBjb2s3R1VVQLNVrvcDQEbo9e4FQ7bS1NqYrG",
+  "associatedBondingCurve": "6R1rtEQyNfKWGp4yG9wk4Mn2YQ8hwfgUjFBpfN2kdiKb",
+  "user": "6d22FozaKK239PoBYVffkYKA1QPQZE8fC7AQkpmHQfjp"
+}

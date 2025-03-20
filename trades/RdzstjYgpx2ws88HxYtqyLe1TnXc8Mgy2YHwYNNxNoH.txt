@@ -1,0 +1,9 @@
+{
+  "name": "Helix",
+  "symbol": "Helix",
+  "uri": "https://ipfs.io/ipfs/QmbyTU2jTPYdjG9bErUKdvsiY5VkPaMrNp2vK5a1bGHQwp",
+  "mint": "RdzstjYgpx2ws88HxYtqyLe1TnXc8Mgy2YHwYNNxNoH",
+  "bondingCurve": "6fJhmfjHnuNKThWYa2wAQJC49U6Gq2hYDjSKS3sdwQFv",
+  "associatedBondingCurve": "BjHGH59BtC9ZmyDvEHcBEdMjQsQQTdVPMWdsx1pwSon2",
+  "user": "CR4RPv7TLnLxDWV4J8Qc1maWJUvK1DzokRphUY5dvMWW"
+}

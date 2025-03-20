@@ -1,0 +1,9 @@
+{
+  "name": "CZ\u2019S CAT",
+  "symbol": "CARROT",
+  "uri": "https://ipfs.io/ipfs/QmWDNPeEnfdLXEaofZAvT2uHF5cco1bp9xM5fstXk5pUqo",
+  "mint": "6SjUKuSHNzRaRQtfUwkuX5tKrzCmuynArVEwhWPjpump",
+  "bondingCurve": "D5juBCqz4ksKvrBJoS8JGMMx9F977h6P5WHNezprGXuA",
+  "associatedBondingCurve": "GTeCSyTdr8aY23Q3GjW1r17tRfT8WqjyXsc4wKMXdy7Q",
+  "user": "DJmk6jp5LkvDFzC68jhXDwXi4gbCbVWBGEzrkAY6pTUB"
+}

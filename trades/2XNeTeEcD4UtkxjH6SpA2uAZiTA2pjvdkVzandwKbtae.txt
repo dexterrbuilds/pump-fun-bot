@@ -1,0 +1,9 @@
+{
+  "name": "BiroseGo",
+  "symbol": "BiroseGo",
+  "uri": "https://ipfs.io/ipfs/QmaLNs4KuBCMfES5bBUKqRJ1yvB5GB7MpEcpGC3MCZyUvr",
+  "mint": "2XNeTeEcD4UtkxjH6SpA2uAZiTA2pjvdkVzandwKbtae",
+  "bondingCurve": "5PBzqozCXDePfoq2WMNUQnfHUWoKZhjWJuz55VP1jdZu",
+  "associatedBondingCurve": "51syePaPpjSAhtUZofhBmVoFyo2Wo6NkDspxbjau9gYJ",
+  "user": "CEDfWxpju1oosTNBwGz1AFKmza8nYJmozpmZnMD6Efob"
+}

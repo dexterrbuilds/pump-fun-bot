@@ -1,0 +1,9 @@
+{
+  "name": "METAFART",
+  "symbol": "MF",
+  "uri": "https://ipfs.io/ipfs/QmdR9YK4uAjhRPH1XpnmuRAm7iuxx2dLespAMkt1VMWV7Y",
+  "mint": "EaKwYjsqFXPKPCQvvDBBCmDAUnLNuCdQkqYjJdjNajcL",
+  "bondingCurve": "DJVSKCwFDRMkw5uEiWpcVpnf8Eax9WGMEz3Pwc13qPJ9",
+  "associatedBondingCurve": "mbwQgiFQa6Az6vzFDRYXd8xnEKCPXDnuretfxTWm1uQ",
+  "user": "215pS4FFFrp2kwEqZzdwRJ2N55DF5W4GoK4n3CoGbJhY"
+}

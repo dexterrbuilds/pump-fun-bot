@@ -1,0 +1,9 @@
+{
+  "name": "N C L R ",
+  "symbol": "NCLR",
+  "uri": "https://ipfs.io/ipfs/QmRvsnybSFNXuzB6Td5ZbKkLeron9E2w7pV2r4QbRYd8uz",
+  "mint": "9Zmkkb8FfviVet3sJNtCxSQvwUAJP5cbYokKsCbhhtMw",
+  "bondingCurve": "88boXmQGFk6gC2kNZ1cFUgLdjNP6RTFdCKaTaMBdCNfh",
+  "associatedBondingCurve": "7Z8Du8qJd5pw81qvjViF5VYyJ7TrC4Ft29GL354jacMc",
+  "user": "D3p2GkJ3odxBzX9peKFZykRxXH1xv2zkiWyAXtQysvir"
+}

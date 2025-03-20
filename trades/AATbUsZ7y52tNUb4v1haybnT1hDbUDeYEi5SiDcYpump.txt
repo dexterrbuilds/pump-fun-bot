@@ -1,0 +1,9 @@
+{
+  "name": "iten",
+  "symbol": "brdre",
+  "uri": "https://ipfs.io/ipfs/QmekxjZZGzbVuSXmbKiHBMKXYWYrPLM5hAR2xtkfFynNNq",
+  "mint": "AATbUsZ7y52tNUb4v1haybnT1hDbUDeYEi5SiDcYpump",
+  "bondingCurve": "E8JM1Nt51j6aFpR59avWVSRsCEZvhfnfs7vjQ3EXkpK8",
+  "associatedBondingCurve": "6ri4hcPzLDLtLwLcLNX3DzL1fSpLN5qNTGTyiDCGY9p1",
+  "user": "25RBbmCjyMuq2Xi1oiKFpnAQCixvdxWzpMydm4gZ7vj7"
+}

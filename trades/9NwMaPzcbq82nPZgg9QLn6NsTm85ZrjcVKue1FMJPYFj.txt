@@ -1,0 +1,9 @@
+{
+  "name": "CETU",
+  "symbol": "CETU",
+  "uri": "https://ipfs.io/ipfs/QmUXjxkeq54yP3D2anF9GXz9BCdkPTi85w8bi9dzyxx6tR",
+  "mint": "9NwMaPzcbq82nPZgg9QLn6NsTm85ZrjcVKue1FMJPYFj",
+  "bondingCurve": "A8AVrqHkT6iqjqfPQMBkoiyLRJVa6HcCaZryJFJidH7N",
+  "associatedBondingCurve": "7sSAHw3icitBr76V46BUn3yRTNQCU4hdsxXqwQPsVofv",
+  "user": "3Y2TpStxC7N7WDBoy69HmjBBKYvDcfzK8zAYTpMxrQUX"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Trump Putin Bye Zelenskyy",
+  "symbol": "TPBZ",
+  "uri": "https://ipfs.io/ipfs/QmPCNc59YwwqVQnERjofbuEbVMtPC3M1GjMW5a2vaQbiyV",
+  "mint": "4v8GWYGAZGvxWKR7XpzUyhodWtAs1cGJEcRuG3nnjkjJ",
+  "bondingCurve": "J9enb7H148a1m7kV2PbgVoN9aMkS2aXz7hDn9nGGG61m",
+  "associatedBondingCurve": "3ZQYFDPQWQZyBHyGYvj7695o5hVkRGqhcg44YBpWT4qa",
+  "user": "Gko5dfbTpceFVxr2ugHiaoy8WV1LzgggHZYQMjZkMZfh"
+}

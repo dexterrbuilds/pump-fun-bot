@@ -1,0 +1,9 @@
+{
+  "name": "Cunt Enforce Trust Unit",
+  "symbol": "CETU",
+  "uri": "https://ipfs.io/ipfs/QmYrxxqhY9N4JW2bVpD2G4zK9vMC3dhMLVpmp1MnpEVCSE",
+  "mint": "Nw1vfa4KQXZvdK9zyeMEQAAtH6okBaGSokB7xaCpump",
+  "bondingCurve": "6AYkkyQwnX5vwoqD8WX8rF1Vfj96cNmLdXTcQVXuys6y",
+  "associatedBondingCurve": "48BviNLMYvKdiELsfKYoszn9FKYPxnVbTcUKYrc4EZRG",
+  "user": "4ruPBaEZKaSh59VAwzRR3WLVJiwXQ32JAMJjLGCMVCqo"
+}

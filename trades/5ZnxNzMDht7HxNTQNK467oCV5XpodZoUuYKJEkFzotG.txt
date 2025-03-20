@@ -1,0 +1,9 @@
+{
+  "name": "ELONBOLZ",
+  "symbol": "ELONBOLZ",
+  "uri": "https://ipfs.io/ipfs/QmNt7k8Bb3pL7WavjmRQaK6ccS8eaZ5KqthBnz8knwPRUG",
+  "mint": "5ZnxNzMDht7HxNTQNK467oCV5XpodZoUuYKJEkFzotG",
+  "bondingCurve": "CS9Ut4jHqnsBSvnvpKW8Zgyw4Q2zJDw3zpp1y7fK4s5Z",
+  "associatedBondingCurve": "EfmEADHYkxQxXYiGCUUb1gs8NWWyd5x3EDWviifUjYmp",
+  "user": "9Fft3nHWbEKDHCWJv1ZBfZ3K1Cnx3v3vponsxRoavfFH"
+}

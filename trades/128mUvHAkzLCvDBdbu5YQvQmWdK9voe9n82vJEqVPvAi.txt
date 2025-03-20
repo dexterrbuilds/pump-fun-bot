@@ -1,0 +1,9 @@
+{
+  "name": "Rothschild",
+  "symbol": "Rothschild",
+  "uri": "https://ipfs.io/ipfs/QmUyeERXfn4JCG7kkPrAmWgUaTxJXPWEU7TE19eTWKPkgw",
+  "mint": "128mUvHAkzLCvDBdbu5YQvQmWdK9voe9n82vJEqVPvAi",
+  "bondingCurve": "CU1D3DUrDCe6sGTqND3AyTA9yhTC2RHsECWaLNvTCpvn",
+  "associatedBondingCurve": "FTp5onQJoLDHen2yFo8GxJ4y18LCENGJsYjPtfgx8X7R",
+  "user": "GFPcNVVBmCBCzaoAhjeGkp1w4ugKKRVw3Bp7t55S5VXr"
+}

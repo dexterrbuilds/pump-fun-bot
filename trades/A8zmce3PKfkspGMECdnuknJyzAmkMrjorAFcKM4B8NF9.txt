@@ -1,0 +1,9 @@
+{
+  "name": "Most Honest Dev 2",
+  "symbol": "DEV2",
+  "uri": "https://ipfs.io/ipfs/QmVUvJ2hLu8xqpse994JeSHktrYirFjNcMgAC19RTFUvAq",
+  "mint": "A8zmce3PKfkspGMECdnuknJyzAmkMrjorAFcKM4B8NF9",
+  "bondingCurve": "6rzuMsdGGDTWUKRNs22FgkvBbi1txC4j4D8p1K3Jvrjn",
+  "associatedBondingCurve": "5vCSzWsJ1ssTA8BE4z8JEtH3mgwRwE4nwEuuBvv5v3vG",
+  "user": "CN1oa3DJ3Vm9CvzuGYhgomEhmEatH4hqD7dtH3LFW2E4"
+}

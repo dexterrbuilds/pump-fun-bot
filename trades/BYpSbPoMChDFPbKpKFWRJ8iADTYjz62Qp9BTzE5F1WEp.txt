@@ -1,0 +1,9 @@
+{
+  "name": "CATSIMUS",
+  "symbol": "MAXIMUS",
+  "uri": "https://ipfs.io/ipfs/QmNzq23eUMegDeyrx1B2GgrEQxyVi7LGKYJA7Y2BoZmS6E",
+  "mint": "BYpSbPoMChDFPbKpKFWRJ8iADTYjz62Qp9BTzE5F1WEp",
+  "bondingCurve": "6BqoKESBTECw4YkbZ7KJoT4SUVhj7qXx7koFVFsEs3CU",
+  "associatedBondingCurve": "2kjBtisMVa2sgDSwY5ALhm2ey3WPBPzgVEtnieUhC2Q8",
+  "user": "84TUmKzwEJxKuvmhxJMxwiUzCpz73DqTdVxkXLW2uQdW"
+}

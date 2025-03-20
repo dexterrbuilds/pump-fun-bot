@@ -1,0 +1,9 @@
+{
+  "name": "KAITO",
+  "symbol": "KAITO",
+  "uri": "https://ipfs.io/ipfs/QmQQap6RrzcRJ62GbAU5JLNXkzf1YsNWjwdg5SRXaC9u4p",
+  "mint": "7LBDgyeiFz2CYvDShRVsfUwQnxcE62pZTH4jpa85pump",
+  "bondingCurve": "4aDB2mh8ALpxuZiCCUBWMBGbZuiQuHxLs6RJfaqCYYWV",
+  "associatedBondingCurve": "A1izawyJjzdnAGhzhnRpVm6GSZp64e4RAYw9bTwsp3En",
+  "user": "6zFwPpFdDZsBa8cgzpqmzBCyrRQi3AbcDqwy7g6rC59e"
+}

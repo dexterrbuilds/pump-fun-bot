@@ -1,0 +1,9 @@
+{
+  "name": "Mark Covin",
+  "symbol": "Mark",
+  "uri": "https://ipfs.io/ipfs/Qmdj7XU8HgMAKrMNcwUK4TpAUqJDXHi6UQcqx2qiip4bgw",
+  "mint": "2dQr7AsdWyBBfPe6wN2hwf4du5jMwSKh9544AWxu63Bs",
+  "bondingCurve": "9YTYfiQAY1RfdjTeXDXawGd6oUJ29viUc71CpQdUGgvm",
+  "associatedBondingCurve": "J3rpcLADFYfT4NrfQNEdnjjcWNSmpoK6Kck3RrkuR4wH",
+  "user": "2kkJLiSfMtCRzLLXsMr1WMz6KJgRBKRWuwzGUgQUbvFH"
+}

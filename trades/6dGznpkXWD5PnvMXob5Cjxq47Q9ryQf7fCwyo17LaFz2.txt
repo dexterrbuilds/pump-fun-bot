@@ -1,0 +1,9 @@
+{
+  "name": "SEC Cyber Unit",
+  "symbol": "CYBER",
+  "uri": "https://ipfs.io/ipfs/QmRAKQikmZh44APS69u48nF1KnmjXhf2cGAXozkG6SiuEq",
+  "mint": "6dGznpkXWD5PnvMXob5Cjxq47Q9ryQf7fCwyo17LaFz2",
+  "bondingCurve": "89ygbaaxPLARCztvCduFenb2rRjUggC7gr2zFu6aEv44",
+  "associatedBondingCurve": "BCnkEKLoB49nTbzAi9qhmptLmCnqJwis4MA5Ec3KZLXw",
+  "user": "DMyXaDJr6YtDvZJQdF6rnZpMQ2zNjzHiMgFpWbMG56DG"
+}

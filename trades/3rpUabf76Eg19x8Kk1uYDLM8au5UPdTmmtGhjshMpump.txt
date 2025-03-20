@@ -1,0 +1,9 @@
+{
+  "name": "pup",
+  "symbol": "pup",
+  "uri": "https://ipfs.io/ipfs/QmfSwiD9RJP3u87TgW7kcqAm76Gj5bAiRJQneziErhEPRh",
+  "mint": "3rpUabf76Eg19x8Kk1uYDLM8au5UPdTmmtGhjshMpump",
+  "bondingCurve": "GdC7nUJLrN6KQWhX9itdmk3NYzFbSMcCiJByMqp8WUJN",
+  "associatedBondingCurve": "5AKSJyaVfshCZAu8gxdjjM6aJm8QoGHT3tUZ7hSvJWBx",
+  "user": "C3MQQbkt8MR8tbtZxz4jw3sCrnGf4yVDtr2S7Li83z7T"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Taitiko",
+  "symbol": "TTG",
+  "uri": "https://ipfs.io/ipfs/QmUEPoVE9uhEWTPi3d3eqUivJzBkGX87Nv5brZvjrCPpYi",
+  "mint": "Hxfhh8fLa3njBdnNXTcDw3XVqwVDJztXDXo9VcsD3Skw",
+  "bondingCurve": "2CWex9LZqpndX6FTYvP8cMhoT3J8c1wTXNfoULhqWZyN",
+  "associatedBondingCurve": "6yZm2RinwfN3QRnLdJSXf6JJJmmc2cRcC3XiNNbwFLWm",
+  "user": "Au54C4g19dtQBBYSAu1byM6PFUG117Q4nHyFbAJcB2hx"
+}

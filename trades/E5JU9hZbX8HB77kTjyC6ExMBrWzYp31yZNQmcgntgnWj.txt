@@ -1,0 +1,9 @@
+{
+  "name": "haydone ",
+  "symbol": "haydone",
+  "uri": "https://ipfs.io/ipfs/QmdBvrPFj96AWsDyN5Hxk1eAkqBCq4xxDLcmLEtVnHHJZm",
+  "mint": "E5JU9hZbX8HB77kTjyC6ExMBrWzYp31yZNQmcgntgnWj",
+  "bondingCurve": "8vUvXi7pBenFWZR1AAziQsF2eiHXbVW3i3mejGW8evbZ",
+  "associatedBondingCurve": "22D48k8vPe3AhmGcuTrDsnGYACnvVjFBsCtP3j7KePev",
+  "user": "3E2RR3h6r7Yz4N3dLhcH1B7nhWpceJftFGmDCG5hqvjt"
+}

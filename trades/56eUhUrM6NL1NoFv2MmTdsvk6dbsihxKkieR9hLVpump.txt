@@ -1,0 +1,9 @@
+{
+  "name": "Pope Carrot",
+  "symbol": "POCA",
+  "uri": "https://ipfs.io/ipfs/QmQCdoLcSYyjDXpTq6s8bhfjg6vtGdmLiceaNAa1Wv8z6A",
+  "mint": "56eUhUrM6NL1NoFv2MmTdsvk6dbsihxKkieR9hLVpump",
+  "bondingCurve": "LXJGVZ18JQHfwGRytVhExMetU88Zwvwc3hCn9piu25p",
+  "associatedBondingCurve": "BGHcPftcECNzC3gAim3vXbJCo9zAB1SaDtnC7fnc4Nyk",
+  "user": "HnLhF23Coq2bBMMHCUk8bzb8Lbpwy8uHrQNU4XGWJTaM"
+}

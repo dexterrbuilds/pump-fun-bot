@@ -1,0 +1,9 @@
+{
+  "name": "Cuck",
+  "symbol": "Cuck",
+  "uri": "https://ipfs.io/ipfs/QmavvQ4m1HX2wjg9K8s9PHwWSGo5fjC7G4ck8HAW244QaY",
+  "mint": "6Zt57b5zjWJuekeooJKR6Wn3kjmqpUAwvTggAPcgi8sd",
+  "bondingCurve": "9DWupGzGd5hwq1s9TVvaN9qFyLwDqnSbwLP3E9Qjyf26",
+  "associatedBondingCurve": "5rfcRS2543vdRoQRkgH8oJU9m1UF49hmrUDEFduKULN7",
+  "user": "ASCDYhuxZyepNUQTarF3La96Efp6p2L7U2iuUFXp2ff6"
+}

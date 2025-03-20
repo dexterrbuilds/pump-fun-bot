@@ -1,0 +1,9 @@
+{
+  "name": "first carrot dog ",
+  "symbol": "Maymo",
+  "uri": "https://ipfs.io/ipfs/QmQVhyfjEdVTH82cNLG49aCGvTFwqae7JjegKsF6EiBrcD",
+  "mint": "3xT7S3VBkH3WeaZ82xNNk4p8heYxoR1QnU9ZosRL4yNo",
+  "bondingCurve": "9MePL1wQ2V4QiC4uZD59cdfrQ4yZj4D6FHuxKFLMTgxm",
+  "associatedBondingCurve": "FmJC4KQ71BVcMNU3F62C14hwX9uwB37kV6PWzyCQHqkY",
+  "user": "AwcLp5QX4cdwQ1WeUy1gach6xbijVMhGyuHb7VQ9SarK"
+}

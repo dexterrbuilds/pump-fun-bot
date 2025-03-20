@@ -1,0 +1,9 @@
+{
+  "name": "hairy balls",
+  "symbol": "balls",
+  "uri": "https://ipfs.io/ipfs/QmcfSNcUXk6BNz3N4AEeXF5qEBE5UJXApZXcHxL3Pa7HTH",
+  "mint": "9nfCkC4T1wsq7RPSSj9DgVafJSUgjdoDKDDBVFjXpump",
+  "bondingCurve": "87FaeJhvQAncjFN7eufAAEjsSs99zfjvFghvGNgzYSvp",
+  "associatedBondingCurve": "AViq4qsfkvmeNnsNA6jQFbN3eYZSFWkr7Abn3R3b2Z52",
+  "user": "9nS2utQ38NhpWQybMLDXzmqU1ijfb2UFF6cWVs5j3Xyv"
+}

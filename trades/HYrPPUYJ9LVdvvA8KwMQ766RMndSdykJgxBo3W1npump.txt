@@ -1,0 +1,9 @@
+{
+  "name": "GROK GAME",
+  "symbol": "GROKGAME",
+  "uri": "https://ipfs.io/ipfs/QmX4BsScEoRhB3aYuSqbdbwnQ9f5U4wMTUJD2umWFKuQSv",
+  "mint": "HYrPPUYJ9LVdvvA8KwMQ766RMndSdykJgxBo3W1npump",
+  "bondingCurve": "BWtnRhjhKzBovwAQHM6NtFWTpu655raFAdyRFANq9xNy",
+  "associatedBondingCurve": "4qcfdBbUVhvZ1foCkFYVYXQq6p7vMDr2mGE6riytHqe9",
+  "user": "72tmWVomu4LHHuD7U78eEHoCVTgpoBfkJu2SPVkm5eZ"
+}

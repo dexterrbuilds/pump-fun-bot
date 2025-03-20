@@ -1,0 +1,9 @@
+{
+  "name": "Solana Pay Fixes",
+  "symbol": "SOLPAY",
+  "uri": "https://ipfs.io/ipfs/QmUCKZWouh6MYTKCj5Ud736TWNDQgbGXRabJmSK7WcGPyJ",
+  "mint": "46vHMn6BbYemfztewBozFnEH1ckFJ3poRrPZTzkTpump",
+  "bondingCurve": "6K697EDbYd8oG8DLzHLbYjggExR2EsDqeMuuGnNGxSvN",
+  "associatedBondingCurve": "BMgaAjCFigntqFKH35Wr7A8Sbr5vUeU6Hiiaah1oDVzQ",
+  "user": "5ATv6a8tsfSA8uVBGCc7jngdtv6TUDJ1v8H5dM4xXYUQ"
+}

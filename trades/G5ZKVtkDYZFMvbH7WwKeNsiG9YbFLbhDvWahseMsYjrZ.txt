@@ -1,0 +1,9 @@
+{
+  "name": "Cyber and Emerging Technologies",
+  "symbol": "CETU",
+  "uri": "https://metadata.pumployer.fun/data/1cde6849-6512-4e41-81d3-cdf583e83cea.json",
+  "mint": "G5ZKVtkDYZFMvbH7WwKeNsiG9YbFLbhDvWahseMsYjrZ",
+  "bondingCurve": "iwjAfvJvwntDLgFqAh7RjCBe96JWFWwViLQXKrhvXpf",
+  "associatedBondingCurve": "HVNxeQhDyUxhkNnFDLthDWs6XFUMEwPWdayN4HEFNSGL",
+  "user": "6d22FozaKK239PoBYVffkYKA1QPQZE8fC7AQkpmHQfjp"
+}

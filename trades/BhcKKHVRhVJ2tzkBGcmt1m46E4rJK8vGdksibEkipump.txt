@@ -1,0 +1,9 @@
+{
+  "name": "Hurricane",
+  "symbol": "Hurricane",
+  "uri": "https://ipfs.io/ipfs/QmXQWk6r4nhAj5ex7HixS4wkU6YFCg2GZgPW6U4H66Kbwd",
+  "mint": "BhcKKHVRhVJ2tzkBGcmt1m46E4rJK8vGdksibEkipump",
+  "bondingCurve": "HTtCmkjiXnz33aCANcaLhZy7DRFQzEqPLqcRqcDeakTP",
+  "associatedBondingCurve": "BtUWcCmKnz3NjWNY7NtptwxAbMTGmZ7cECLyU8DSwAXG",
+  "user": "6SHAMQPBJ192gU9CKSB38ZbYaU4h9ZixyYThUuRaU1fJ"
+}

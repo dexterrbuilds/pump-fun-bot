@@ -1,0 +1,9 @@
+{
+  "name": "WISTUT",
+  "symbol": "WISTUT",
+  "uri": "https://ipfs.io/ipfs/QmU9hquj7C1raqvzTAEK4puMdn1NzjMDHzXL935rT1LnFs",
+  "mint": "DuhJcnnt7wnS1Mjm9BU89xorKS5qmEwQd3qWVmkHpump",
+  "bondingCurve": "5pmS2h9mNvCVy9rgB7xNcCqVBakDGaHB6bPpEPTHTAF6",
+  "associatedBondingCurve": "BHGmMSiSfJL2XepdFzp95sqqerRiEE9Jgwfzn25fQ4ao",
+  "user": "Cmsd63GYj5rA16EfednjgVB344fNNZqn6jUbvZJLa4sP"
+}

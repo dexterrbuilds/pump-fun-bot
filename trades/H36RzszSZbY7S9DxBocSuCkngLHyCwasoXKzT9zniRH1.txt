@@ -1,0 +1,9 @@
+{
+  "name": "FART CLUB",
+  "symbol": "1000000000",
+  "uri": "https://ipfs.io/ipfs/QmP9nHasSpu1zHPizxPtB29anqhfadjCH6wEiotdDhdAKV",
+  "mint": "H36RzszSZbY7S9DxBocSuCkngLHyCwasoXKzT9zniRH1",
+  "bondingCurve": "6UYteG2nh4nDjUT8PsrZMN24nHTKex5dwTPagTfojxw8",
+  "associatedBondingCurve": "9cJZHhsFURYRYx6xiHEiFDxSk9KiwDyi85T7w5fVGFxB",
+  "user": "HvFL6FrVBgL8kzaDbg6y22kcKiSCZdVEbLt76tWQnBvZ"
+}

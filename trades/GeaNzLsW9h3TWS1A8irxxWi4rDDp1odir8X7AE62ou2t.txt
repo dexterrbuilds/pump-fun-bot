@@ -1,0 +1,9 @@
+{
+  "name": "WobbleSnoot",
+  "symbol": "WOBL",
+  "uri": "https://ipfs.io/ipfs/Qmb5k6itdmKKbjbkzxjFSKHNWYTK5m5gHhrnrTTqJQdrjc",
+  "mint": "GeaNzLsW9h3TWS1A8irxxWi4rDDp1odir8X7AE62ou2t",
+  "bondingCurve": "BKQ67xgjH7Eqejr3ex7HdPwDZ5ZTpHn3JiwWcSe9jF7e",
+  "associatedBondingCurve": "FuLPEHy5a9ZnLJrFLoMHFGUAWtSps7Mq1GQ6uCjhmeHo",
+  "user": "6YEYWzd6MhfTWdvwrAwTxMR2oxymZPar3ZCKCTvGpSVU"
+}

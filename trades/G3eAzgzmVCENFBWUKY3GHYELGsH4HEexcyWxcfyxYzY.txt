@@ -1,0 +1,9 @@
+{
+  "name": "OFFICIAL YEEZY",
+  "symbol": "YzY",
+  "uri": "https://arweave.net/I3sGZFWKgHQuwO2-BpnEBo_jaftWlYIB21HnTdaofCk",
+  "mint": "G3eAzgzmVCENFBWUKY3GHYELGsH4HEexcyWxcfyxYzY",
+  "bondingCurve": "2mC6y6kCr1rMkshhchVKYvtqr8wDUgdwqa9WYY2kzzYn",
+  "associatedBondingCurve": "EYKiw4wEYXp9MtTvFn3WRr4dxY9hZfr2hwbEx22BTFCT",
+  "user": "bRQAHWAbFYdzuYLxFrb3rFQJHtuJYm472JtLbkpYvUs"
+}

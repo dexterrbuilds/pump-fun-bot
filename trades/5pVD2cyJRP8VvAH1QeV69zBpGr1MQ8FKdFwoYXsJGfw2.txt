@@ -1,0 +1,9 @@
+{
+  "name": "Make Yeezy Shine",
+  "symbol": "0,00000001",
+  "uri": "https://ipfs.io/ipfs/QmZSL1PauR2KyZCpcapG7DDQ8dBcAP6czkgYzdEM73Ckgp",
+  "mint": "5pVD2cyJRP8VvAH1QeV69zBpGr1MQ8FKdFwoYXsJGfw2",
+  "bondingCurve": "2zejZzojnyHHXsVN451LGKYYD4yDsdR8ydTdsWLz1cKh",
+  "associatedBondingCurve": "6BqoMWqTgAXdKVk4zVrKg1EuBgqKLWo16xvSxmA4K5gX",
+  "user": "nKBkS3SxoZK52U4yUQWpDFHE23aAby4rQQBwDjGyd4Z"
+}

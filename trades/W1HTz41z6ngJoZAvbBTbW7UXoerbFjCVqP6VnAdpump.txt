@@ -1,0 +1,9 @@
+{
+  "name": "Santander Bank Official Coin",
+  "symbol": "Santander",
+  "uri": "https://ipfs.io/ipfs/Qmd22AM1AvNub1wFmtaHBtXkuVHcCX35V9icqyHmb4jgeq",
+  "mint": "W1HTz41z6ngJoZAvbBTbW7UXoerbFjCVqP6VnAdpump",
+  "bondingCurve": "3z3VqVyg7Cgs6zuPnzTr6x89qb1W8vV1gh76TYxWMhfP",
+  "associatedBondingCurve": "8U1BfomrJWSapcrZVS6BCxezEfo6MNFVqL8tzFENzDqp",
+  "user": "2VB1Txp4rBvoiudnW2qBs7KAgv4eBowXQFB1JuPYJYD5"
+}

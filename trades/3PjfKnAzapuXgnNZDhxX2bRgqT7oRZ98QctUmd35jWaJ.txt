@@ -1,0 +1,9 @@
+{
+  "name": "OXISAI",
+  "symbol": "OXIS",
+  "uri": "https://ipfs.io/ipfs/QmVjGNNrkiscMyLg8y7mo4n1c4AVbiDg22Rh3bazeMyH5B",
+  "mint": "3PjfKnAzapuXgnNZDhxX2bRgqT7oRZ98QctUmd35jWaJ",
+  "bondingCurve": "65Cbznh47DGwpNhYe6LWBFw22BzUuAMC1Lz5Awsq7oRe",
+  "associatedBondingCurve": "CE4GdDAAwNNrWLUSD6ssURiHHMBaVYTkrXGraSgRr6eP",
+  "user": "6sPRae6mTpL47iLSkpqqvHaeSLAFpzvugZrTJ4Aj7zYq"
+}

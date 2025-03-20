@@ -1,0 +1,9 @@
+{
+  "name": "Pink Fund",
+  "symbol": "PINK FUND",
+  "uri": "https://ipfs.io/ipfs/Qmejc7ZN2UGcynGgcKqHBHvwT7w82uRyuHXNGGRqjzmmnW",
+  "mint": "CTG5soWYeanYqGeh7ESLgjmLbv8gG2XGgaVp6BCpump",
+  "bondingCurve": "AfmETvjPgaZJYyv9qxBPDyYB5uKoD98vTLKvjDDPkLd1",
+  "associatedBondingCurve": "cALyPVm2G8fUBUBiju8Ss5TioeoB6RFdzhLfgSVbJ1w",
+  "user": "AZEE3EpPR9GNTH3P93xBhAMiGAzSFthCv5R6AuV2jE6j"
+}

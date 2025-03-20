@@ -1,0 +1,9 @@
+{
+  "name": "Cyber and Emerging Tech Unit",
+  "symbol": "CETU",
+  "uri": "https://ipfs.io/ipfs/QmVGgbNsWgR5X72HX3vbi5b5PaVZbSvJoWxNzS7Duk8Www",
+  "mint": "2Cp4N6wGjqRhRbvYzwH9x7hAmxabzTTsUNhCsWAp6QFx",
+  "bondingCurve": "EBvVr3ojXceX4T9mJRa28nQAbzrb7auocDy2HUxHU2wS",
+  "associatedBondingCurve": "26P2dTyjwhrVZirJ37jwGSVLc1RGPa3LQok8Umbus4uA",
+  "user": "QprFrhBzfEdtdYKcPHvymRsKdYYbPRVu5EWsTsQzcfR"
+}

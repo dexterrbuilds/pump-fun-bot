@@ -1,0 +1,9 @@
+{
+  "name": "GamerTech Chad",
+  "symbol": "GTC",
+  "uri": "https://ipfs.io/ipfs/QmbHPCQuzew28aUsAiuzRC6GANRTkUa4D6m9aLeKfXUTSY",
+  "mint": "EAwFT5QRYZJXEiZHkMrNDKEm5UudEQMb8nPunDxYsrhq",
+  "bondingCurve": "5rAaYAySEN9jAN8zY9QUX1eM3fvg5ibg9MphBZpJMgeX",
+  "associatedBondingCurve": "8Ta4PhDshH3eKPrd1uzKy8t1ALhneij2cBMSkunAWQaC",
+  "user": "2TCcVsKoUxhPKXXr94eaWQijfFq1MLAa84G2qawtzjPd"
+}

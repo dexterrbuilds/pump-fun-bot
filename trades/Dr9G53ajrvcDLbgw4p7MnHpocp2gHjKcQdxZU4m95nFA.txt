@@ -1,0 +1,9 @@
+{
+  "name": "Huncho",
+  "symbol": "QUAVO",
+  "uri": "https://ipfs.io/ipfs/QmYw7ai3hHBeEh2HxXENReig9ktFs72ygP6ub2aHZcLEKj",
+  "mint": "Dr9G53ajrvcDLbgw4p7MnHpocp2gHjKcQdxZU4m95nFA",
+  "bondingCurve": "4BBK6hWVxDMBEVygbMBqUvtutJSCWDXkXzEr27SzNa1C",
+  "associatedBondingCurve": "HednYL1AWDhpVr2JsEhoTqHh5ENe7amwZynUrwGYWApk",
+  "user": "9MvbirREMDG32bxNLWdm7o3zQDdjJWH9xJkjbWK9Ej6x"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "i will make trenches great again",
+  "symbol": "rugmilei",
+  "uri": "https://ipfs.io/ipfs/QmYUfiRKteH6fKvXdNySHHnkCXUjkW8cZ6tL23Ht7mF1Hh",
+  "mint": "QYx9T5Vyiu5xevMDVzhrFiuThkofNoxeVn9XQvvAQ27",
+  "bondingCurve": "7qjvwPGEgCDSMLrZGwWUsASes5ynGt4Brao2NGtpGLHw",
+  "associatedBondingCurve": "GNThm8GNFEEuPqQcygq2yKgGFWMmR7po7xG2jqGKhTvT",
+  "user": "Eb4FYKYjcFTkt63SekkcsECmk6pT9FPTcZByyWuekaH9"
+}

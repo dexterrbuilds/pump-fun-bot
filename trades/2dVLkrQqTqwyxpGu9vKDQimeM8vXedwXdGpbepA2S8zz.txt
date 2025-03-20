@@ -1,0 +1,9 @@
+{
+  "name": "NEW XAI MASCOT BARTHOLOMEW",
+  "symbol": "BARTH",
+  "uri": "https://ipfs.io/ipfs/QmXr9qfYaLSm3HhE6XpGTGQotNvBfWSeivTEuLsvYhcXTW",
+  "mint": "2dVLkrQqTqwyxpGu9vKDQimeM8vXedwXdGpbepA2S8zz",
+  "bondingCurve": "CeJ21uf6QSVv77XZirBx9jLFktcvNUZwk1ems3FzpJao",
+  "associatedBondingCurve": "67Yhw7cbLAJDnx5j4nTuK2r9wYGJ1FDqF2SZkTq7XRfU",
+  "user": "6LiVtBUFyTuMEr3BHwR4QAh7bg8TDbQv6oSV2U4Jv4sD"
+}

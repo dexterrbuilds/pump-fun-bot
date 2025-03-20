@@ -1,0 +1,9 @@
+{
+  "name": "Smol Government",
+  "symbol": "SmolGov",
+  "uri": "https://ipfs.io/ipfs/QmShfRzwZ74kRemDXzPXmK9eWsCNN3AgQ4483sTBFBbNtU",
+  "mint": "AMayjZpB6qdMuMyubLdnx78RBjkeoqeAyRht64qbpump",
+  "bondingCurve": "376d5ZuTf5ZBHhGp8SA27dxnNHgTK37ffruDX4omum2U",
+  "associatedBondingCurve": "3FsRsEhZu1oxRvyHaxxRoNDdSgAR6VTmyAbdjdU8cUGe",
+  "user": "6JDTkACKT3HhUAKvAbSGYZ4jSfEhnVKwBiGBED5eniCh"
+}

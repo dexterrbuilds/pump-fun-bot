@@ -1,0 +1,9 @@
+{
+  "name": "GIGA CARROT",
+  "symbol": "GARROT",
+  "uri": "https://ipfs.io/ipfs/QmbVJBgL5Q7endzfM6irhKZXxphiN2b85nUqVFUN4ZrjQa",
+  "mint": "4zgJpZynqtExrEZz8k89ienkCvEiyaxNKk2EB4CGiBoQ",
+  "bondingCurve": "2Ph6Yf6mjNuJzF7HNG9vyDoGdTLxQpCxMWAmR2ERuW7v",
+  "associatedBondingCurve": "Hmi63o5UEghJtj5SLYuZBqRu8xQuL93ozYikqXF53MNN",
+  "user": "21jBhsCiHbg5wF9Fh5dbcHpR7ZiRSjZAfGZpsWKWYHCM"
+}

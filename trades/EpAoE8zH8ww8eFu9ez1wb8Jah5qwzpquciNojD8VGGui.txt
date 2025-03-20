@@ -1,0 +1,9 @@
+{
+  "name": "Viagra Coin",
+  "symbol": "VGC",
+  "uri": "https://ipfs.io/ipfs/QmVL2fB4EgzXyBKd5KvMLDNaKyjPQHPAcz3cVCXZ69yj5F",
+  "mint": "EpAoE8zH8ww8eFu9ez1wb8Jah5qwzpquciNojD8VGGui",
+  "bondingCurve": "2w7eXztSE3ynnz2HsTFkQasgrtyyJDCoR4EuvWRafRzM",
+  "associatedBondingCurve": "7gyaTwQ4kHNwNQ8SSSxA7iGqtTSp1DDUEJHXm5RQ51cQ",
+  "user": "ACE7joxr2m7Zew6DSR2WN5BCSLZqyYCy8ciTmaUF1wwY"
+}

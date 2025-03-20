@@ -1,0 +1,9 @@
+{
+  "name": "LayX Framework",
+  "symbol": "LAYX",
+  "uri": "https://ipfs.io/ipfs/QmcQXUdjpUfXKczPxzubAGULCCCyBWWjZBJ1CiCn5Z5m9H",
+  "mint": "EanNmQdYJ5mCFfrJ1Mxi6Ro89jYCjqLsbgQp4PW7pump",
+  "bondingCurve": "FRYQcFL3ASMHfUTAmXm2f9SyP83uNVBVHGtVX4WrFsYo",
+  "associatedBondingCurve": "8TvUKyQWdUMkDF7uexzWgUPLUZiFPPJqQd3m4pAtTCJb",
+  "user": "3ByxNZhUvDe7zCAwEU3nMmhCpQcnCXGVMw7pGVP2eLro"
+}

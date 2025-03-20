@@ -1,0 +1,9 @@
+{
+  "name": "AIGiggle",
+  "symbol": "AGGL",
+  "uri": "https://ipfs.io/ipfs/QmQ2VAhodpEkHFVFApXB4x3b3xmzi4beZ3z5BCLkYAj7vD",
+  "mint": "E6EiXyrddTRKEcaVUi78oqmXxdpqeyk2vBiMjnzrdrNa",
+  "bondingCurve": "4LqLPz4GQW6ufEKQcY3nuqEDdxCMimTgm8nuZPXVZix4",
+  "associatedBondingCurve": "7uBuFx9vCKp3xvKzfsmzr6wezfMHg1xpHSHKsMM5fyvp",
+  "user": "FHz51mGr41EKrvXPjc6h19oXuqxDynVdN3wEMnnGiEZN"
+}

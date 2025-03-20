@@ -1,0 +1,9 @@
+{
+  "name": "ROMANIA",
+  "symbol": "ROMANIA",
+  "uri": "https://metadata.pumployer.fun/data/0b6acdc6-21c1-4fba-86c7-f459905cc2cd.json",
+  "mint": "49RzhueMpvbQ8JwvHUZpoCwFi7cRwXjUfdzk9AatpHz1",
+  "bondingCurve": "BvgUeEQaGU9Ak2ZjNha4SAK9QPPVJKqDNQE4zGi7Yc4s",
+  "associatedBondingCurve": "2NZ9GDUyzfLLdJw5iKTZLJ3SmjrRxMh8bxyVReudNQjd",
+  "user": "9Fvj7n89g9kfDUJmBQJ2oFso9vdWiqh4h9kyzSBs3Peo"
+}

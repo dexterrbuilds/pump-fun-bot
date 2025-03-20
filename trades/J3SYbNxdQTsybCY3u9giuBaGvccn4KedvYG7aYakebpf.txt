@@ -1,0 +1,9 @@
+{
+  "name": "SLOGYA",
+  "symbol": "0.00001",
+  "uri": "https://ipfs.io/ipfs/QmfEZtb5w4cu6bqJ8noyJRVHWX5U8h3jb4LJ1NFcjo9EKZ",
+  "mint": "J3SYbNxdQTsybCY3u9giuBaGvccn4KedvYG7aYakebpf",
+  "bondingCurve": "HxTkFjseCP2XVHm2xtn2PgCRLNXbDijSAU96AjgQwYtx",
+  "associatedBondingCurve": "FGL4mjm3tCjJgVPAMYGk6zyRFziFvESBYk5wY4vKUVTd",
+  "user": "5JZYkZNWhoW21xcg2db7n5oPwYnWWJTXEbEjgsWGSFf1"
+}

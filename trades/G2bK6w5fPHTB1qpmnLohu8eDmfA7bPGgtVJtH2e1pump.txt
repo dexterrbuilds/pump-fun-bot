@@ -1,0 +1,9 @@
+{
+  "name": "Ailendra - DEV-Agents",
+  "symbol": "AILENDRA",
+  "uri": "https://ipfs.io/ipfs/QmSp4TPiBKV5ptBd27GjYvQgn8XwyMVEuAEeCYjHxQAmhX",
+  "mint": "G2bK6w5fPHTB1qpmnLohu8eDmfA7bPGgtVJtH2e1pump",
+  "bondingCurve": "22my2gsUkY72NVGd697oTb8Xrjh3C1Vti11zZumaP93Q",
+  "associatedBondingCurve": "FJ41cGp82CG37NWmpGi38VaDBLSfcUPgDmceSio8xHmj",
+  "user": "4UTgEBhvA7g5XG51K5VdvCYWo1dDfXBBgXkDLqSnFDGc"
+}

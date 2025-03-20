@@ -1,0 +1,9 @@
+{
+  "name": "Smol Volcano",
+  "symbol": "SMOLCANO",
+  "uri": "https://ipfs.io/ipfs/QmWXRPrcVLtDv7zhw3D2MxB1U2yiDdRnStBxUzqmWioNJu",
+  "mint": "CN4oT7q2b2zsGHgw8cBptk2Ged4HiB33b6Ys6wJQpump",
+  "bondingCurve": "8TAQhejSdC9oFrFNFgJJCxRKRdfn81FKyZszRyqvFLkv",
+  "associatedBondingCurve": "HNn8oCLG3pEytVDwRHrqUuwmet27bjsoTZtEAyf8aaWE",
+  "user": "4bXPgijo6JLnprwNHCMJxYyKTQLfS5BUpQUpX9T9oW7D"
+}

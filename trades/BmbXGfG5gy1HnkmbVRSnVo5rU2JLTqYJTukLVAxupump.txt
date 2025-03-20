@@ -1,0 +1,9 @@
+{
+  "name": "6900 Quantum Carrot Fart",
+  "symbol": "Carrot6900",
+  "uri": "https://ipfs.io/ipfs/QmUPRj3rn4t8wUFcHLSnZCXEfvkpzrs4rcLQ8jpMecT6uT",
+  "mint": "BmbXGfG5gy1HnkmbVRSnVo5rU2JLTqYJTukLVAxupump",
+  "bondingCurve": "E1eR9Ahg31QnaJgFWM1qzAiiuGf1NUFvZ3aAmiK213GA",
+  "associatedBondingCurve": "HinRg871W3gLNSAyNQh8BNXjV4A5kWYQdtBqiBy2LsQX",
+  "user": "25H5Xuk7cRtggfkpSFBLvgWXRDbh8rDaR4fezxoixVug"
+}

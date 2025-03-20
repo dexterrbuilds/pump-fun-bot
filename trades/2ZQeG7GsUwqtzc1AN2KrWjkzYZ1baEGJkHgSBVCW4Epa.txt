@@ -1,0 +1,9 @@
+{
+  "name": "First Shitc\u043ein ",
+  "symbol": "FL\u041e\u041eZ",
+  "uri": "https://ipfs.io/ipfs/QmakSvHMte9FVqn74u7F9Gus9wZHVCPSMVjztcQwrVxmED",
+  "mint": "2ZQeG7GsUwqtzc1AN2KrWjkzYZ1baEGJkHgSBVCW4Epa",
+  "bondingCurve": "G3uWBTD8qcrLFm69rMWx6vBghz9yDv3im8YYK6YKwoxU",
+  "associatedBondingCurve": "4sYGRF4XdnoAFerZbRf45GMtgB9CAdVRUFVEPsdgutif",
+  "user": "4zaNgikqPhZaSkBcS6PoQfEyKnxUrnL3SnFKiiiXyxh"
+}

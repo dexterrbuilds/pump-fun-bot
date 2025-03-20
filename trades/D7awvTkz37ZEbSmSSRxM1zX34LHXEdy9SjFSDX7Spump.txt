@@ -1,0 +1,9 @@
+{
+  "name": "MEGA",
+  "symbol": "MEGA",
+  "uri": "https://ipfs.io/ipfs/Qmdhxg78eBVntTGMJEGEf194zGyaqyDCNceJf7hnr9qbMy",
+  "mint": "D7awvTkz37ZEbSmSSRxM1zX34LHXEdy9SjFSDX7Spump",
+  "bondingCurve": "AM1TW36fKGvvmuZijnPTQW4SKNrEQ5buo8P1PvmmqxnP",
+  "associatedBondingCurve": "9yu392jKiZx7gZUaWGBubwSc5Uju2MoaQo5JoAWdTjeT",
+  "user": "dqMVeSZCM6RQjyYwzxeggw9iW9gH9Ni6EHCg8NV9Tur"
+}

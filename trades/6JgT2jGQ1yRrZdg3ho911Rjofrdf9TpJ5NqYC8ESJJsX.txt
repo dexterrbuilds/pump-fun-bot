@@ -1,0 +1,9 @@
+{
+  "name": "DOGE DIVIDEN",
+  "symbol": "20 PERCENT",
+  "uri": "https://ipfs.io/ipfs/QmexyPDKjk3DkEC9txFAFBZKrGHYCUyjj7RpVLtvaVF9VJ",
+  "mint": "6JgT2jGQ1yRrZdg3ho911Rjofrdf9TpJ5NqYC8ESJJsX",
+  "bondingCurve": "4XkYDEJusGKXXMQzpJ4qy8qnqmV6xzY7jJFpQc5Zt9fs",
+  "associatedBondingCurve": "143Nu734AaHc8yMJgZ3VvcjVwALvVT9Y1U2zWFKUgAv7",
+  "user": "Eu4MiMHTTcF2WsRxYdzCNijWJkbMrx1VVopZmJV8cXek"
+}

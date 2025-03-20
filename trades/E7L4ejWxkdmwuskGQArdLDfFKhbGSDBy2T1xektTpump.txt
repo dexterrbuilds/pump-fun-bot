@@ -1,0 +1,9 @@
+{
+  "name": "Grok Creator",
+  "symbol": "heinlein",
+  "uri": "https://ipfs.io/ipfs/QmaZAiWDQmgF4RaVjEt62L737sSYFFFCs7pbPhxWNpnUkp",
+  "mint": "E7L4ejWxkdmwuskGQArdLDfFKhbGSDBy2T1xektTpump",
+  "bondingCurve": "3tyfUVUs2ifLggEJQeYY6wDSVFoSy2PgGwGodUJE3B9w",
+  "associatedBondingCurve": "E8116dxTi5Px34QwortNYgHw8PdBhAMQ6XxS5Z8T43PA",
+  "user": "ATBUQ4pWswdZkcHQkyfr3xZT2v66j8BLJHBeiZN2QtJY"
+}

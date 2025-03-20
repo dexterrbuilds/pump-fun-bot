@@ -1,0 +1,9 @@
+{
+  "name": "grok 3 generated blockchain",
+  "symbol": "GrokChain",
+  "uri": "https://ipfs.io/ipfs/Qmezv53jW9WMnpFE9DsKdny2hanUUh49mfEbBHSFQfJJsv",
+  "mint": "DZRwLfALnBTKnbJZyoEG2L3wz7HMZCTNdy9Dtv5jFreZ",
+  "bondingCurve": "6puWc1V1zYqviTd7ewjZVJWEr89ttCBVjLd2qVMz5dq1",
+  "associatedBondingCurve": "EoP2tiSEuZ3QidGAkEfsxuHdrVPEDSVsgyi1VcbCNaXm",
+  "user": "CMFa2T2Q4o7xThrk1yQShpAobidUtsdQFiyqwnUygkaB"
+}

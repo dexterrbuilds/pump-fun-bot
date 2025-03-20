@@ -1,0 +1,9 @@
+{
+  "name": "This guy is a tyrant",
+  "symbol": "TYRANT",
+  "uri": "https://ipfs.io/ipfs/QmQBvfhpRJeNKLy7BJFoSQc4X5tr3hjA1aBAJAQXMmPhxo",
+  "mint": "8T9avqqmJAn9ho565n6d1EkmNFhn6R6R5rCyo98ppump",
+  "bondingCurve": "ExFSBvjHiEs16GnhsjQBsakxczWPRVsiSHu1oVrqYqt4",
+  "associatedBondingCurve": "XiQQzzseLPeVA2o2CzWruZfpBxpPmpeYwoW2rAg1sxo",
+  "user": "8AWeaZQcZUo3XoHDrJ6CWDi236aY1GfhxuQREwwKgNe3"
+}

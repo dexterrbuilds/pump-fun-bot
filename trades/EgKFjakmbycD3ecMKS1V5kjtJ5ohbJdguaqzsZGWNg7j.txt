@@ -1,0 +1,9 @@
+{
+  "name": "1 in 10 trenchers are",
+  "symbol": "GAY",
+  "uri": "https://metadata.pumplify.eu/data/QmVQymHfG21Wz2RhK6q8hEL1PCjzHQ2LVDDFNmeFahXvPQ",
+  "mint": "EgKFjakmbycD3ecMKS1V5kjtJ5ohbJdguaqzsZGWNg7j",
+  "bondingCurve": "9BYPDqYNohmTCQzJSbUd37Nz5cmJ7hWkcpPXA7RsnpXa",
+  "associatedBondingCurve": "8VySX3aHgqeo6b1JKq9NTb9C7FqU1kGDHxNAMm4Xw66m",
+  "user": "D3sovmjANgA8V27e5rnQft8kV3mocSH8gw9zwth3Ba9g"
+}

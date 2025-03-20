@@ -1,0 +1,9 @@
+{
+  "name": " HUMAN-LIKE ROBOTS",
+  "symbol": "HLR",
+  "uri": "https://ipfs.io/ipfs/QmZmUffQhGXGEmxHkVx1m71AdsCWexjPN4sKJtzHqzFDDC",
+  "mint": "8XQShbzmnhtNqKvTF7GaZKUnGvrYsJyrzDCZVNoZLUpJ",
+  "bondingCurve": "HupwMFVv1TdLMEc5mTh6xLRHg3XUsTMbWwLQEp6ZAteM",
+  "associatedBondingCurve": "9eydgp6BizvvZ6kvQX35xzGr6AUqdDVRjMbjK3fGjaru",
+  "user": "CFRrNuTqzdSKL8YdBjRhjzngZ9nD4X44BsaEpthjp814"
+}

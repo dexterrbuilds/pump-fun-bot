@@ -1,0 +1,9 @@
+{
+  "name": "R\u00e4t",
+  "symbol": "R\u00e4t",
+  "uri": "https://ipfs.io/ipfs/QmRLdYDAN4qGRW1hvF35y9VDwE6kGaJcTfNXWKnV6owkPi",
+  "mint": "9M7i2UTShMVZ9XX2qg76pdgBmKxERkX16xJ3i9cJpump",
+  "bondingCurve": "4zBVrCbctKaVK4QxR3ncGTWee4M3cjhTZLo17SyRRiQW",
+  "associatedBondingCurve": "7u5NJZ1bDnFNH4hHS3uYnFLcmoM4MNMycWzSdAjMUQzw",
+  "user": "HEj6qTfG3ZJR9askT6hMDdfFXnhvqCq79FbUGATixdn3"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "OFFICIAL SEC FARTCOIN",
+  "symbol": "brainfart",
+  "uri": "https://ipfs.io/ipfs/QmPXETuVzG5rfdZ52tAaWguZka7rWEFruL9AN7tmiccqWo",
+  "mint": "CidRBKgm1MX69t2MZdiD1wNT2qESd3acmCUT28CqAcjz",
+  "bondingCurve": "DDZZ7HPrBsarMFh4tFvu4kkmzLhiHKMsSA1GFvWNy1Ns",
+  "associatedBondingCurve": "EDxsgdiHoWHj5zeVWuCmsFs9MvwD2zZtEHv8VNE4wHif",
+  "user": "6qrBcJwVHVAyoXwt5frQaJpuSALQ2EeF88Q9ZAHvPiaQ"
+}

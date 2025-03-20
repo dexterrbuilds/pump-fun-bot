@@ -1,0 +1,9 @@
+{
+  "name": "VP",
+  "symbol": "VP",
+  "uri": "https://metadata.pumployer.fun/data/335e7c2f-01ff-4466-9c66-cc94e454f2bd.json",
+  "mint": "3acwSmeT2PhM6ARfprceRPWZg6u7KVP6UFfEpUr8Mveh",
+  "bondingCurve": "DSpWQysxT77Ks6PD8xNxDp3bUrMkbzEMbWFtwadUWkVh",
+  "associatedBondingCurve": "6CgjtShoBb1foWphnydjPPPUqH1ZqodWTs2HsSGjBwWo",
+  "user": "9Fvj7n89g9kfDUJmBQJ2oFso9vdWiqh4h9kyzSBs3Peo"
+}

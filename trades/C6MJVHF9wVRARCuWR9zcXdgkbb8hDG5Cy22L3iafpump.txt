@@ -1,0 +1,9 @@
+{
+  "name": "My Dog Marshall",
+  "symbol": "Marshall",
+  "uri": "https://ipfs.io/ipfs/QmcUeAcVFqRHaoBbJ9SFbVWnafGTPK7Zny3UmaB2jVeqjd",
+  "mint": "C6MJVHF9wVRARCuWR9zcXdgkbb8hDG5Cy22L3iafpump",
+  "bondingCurve": "DzhGNHbzmrmDybAaJqqauQcrMkSixAVopbGzydFrt83t",
+  "associatedBondingCurve": "CLkpHBRoDRXdwSi5edtz8f8UBPAWhf1qCSgDrH7r7S8X",
+  "user": "69W8CQoXzvv6XojMJu3biuRqcR3qKyWs3qdXJUu4fcir"
+}

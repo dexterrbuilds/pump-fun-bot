@@ -1,0 +1,9 @@
+{
+  "name": "HOW",
+  "symbol": "IDK",
+  "uri": "https://ipfs.io/ipfs/QmQWSQCj3Kz6FwLKURL9FpfVtHbENjWAjGkVQR7g2Lrioq",
+  "mint": "3emNF6oeitchaF53F5Z2ScB9NPpFq9yFxmYxmiVypump",
+  "bondingCurve": "GyTkj7L6ppjtc6UkD8DBMbLvxUFTsTWPyapkuHQXcnBb",
+  "associatedBondingCurve": "9sirqo2Rp8T8zMaHpVpX86zf5kMJPQqujoThuRUCSCtu",
+  "user": "6otgetWz5wmKbtX9Jx8YkpoJCJD1aCd8CQKaaMpJAvgL"
+}

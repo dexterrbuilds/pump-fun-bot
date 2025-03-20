@@ -1,0 +1,9 @@
+{
+  "name": "Fraudsters",
+  "symbol": "FRAUD",
+  "uri": "https://ipfs.io/ipfs/QmS1eRLvm8p4qoqqMbUoh4bKScbtXHTVA2sj69KyQkkS5f",
+  "mint": "7TfWYLTahJiXE3spjmMnfgsX3VKCqZmjj8dqf6GzVE3m",
+  "bondingCurve": "95VyGM8Z9z96ywDGX5MAjHhQNNRE3zvx7razuuRRv57j",
+  "associatedBondingCurve": "DjvgR9PQ35wxxV5zcNcNCNcvbTBeykcAb1CY2KYR7w4E",
+  "user": "6NNUFaawyRx4Psw8WYPcKYVyooPRnBSsv9zbTXjsE8A9"
+}

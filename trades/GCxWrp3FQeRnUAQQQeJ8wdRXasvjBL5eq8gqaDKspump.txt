@@ -1,0 +1,9 @@
+{
+  "name": "Blip",
+  "symbol": "Blip",
+  "uri": "https://ipfs.io/ipfs/QmSqKiTx3AibiYoX7wqXz1REThmJEhvK9LCGWZKQ4rr3Px",
+  "mint": "GCxWrp3FQeRnUAQQQeJ8wdRXasvjBL5eq8gqaDKspump",
+  "bondingCurve": "ACZZiS2ivggzrg9hP6eDF6AnnuKLUQb8topGuuTYD9PB",
+  "associatedBondingCurve": "CvFqGh59rfn2qXXp7oFiSMfrYunTFbVaeNJBHsEBReRF",
+  "user": "FiUYDjS5H21vwNDx6rYDCCGVdM6CLV4UjRRzLQJUJbqw"
+}

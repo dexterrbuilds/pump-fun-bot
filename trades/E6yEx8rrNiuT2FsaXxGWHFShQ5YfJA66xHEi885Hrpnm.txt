@@ -1,0 +1,9 @@
+{
+  "name": " Cyber Emerging Technologies Uni",
+  "symbol": "CETU",
+  "uri": "https://metadata.pumplify.eu/data/QmYtiEoYpCj1Cm4NA4XTj5AG9ur2f2kPbxU48NDxyfEzZs",
+  "mint": "E6yEx8rrNiuT2FsaXxGWHFShQ5YfJA66xHEi885Hrpnm",
+  "bondingCurve": "DTmLN71VEBZ8sV7AhW7gdTRJhNkB5kCm3dZwYxucCJsx",
+  "associatedBondingCurve": "8yNmVpXjLpRPXoEFFAqXm6QkpdbXq6UYe9tsi8G8BQ67",
+  "user": "C88rn1cz1PcRJFh44TuynaWbnRis4xuBRi65sD1Nwxog"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Bretta (Brett's Wife)",
+  "symbol": "BRETTA",
+  "uri": "https://ipfs.io/ipfs/QmRd3YcGRztuuvqemVDGihk9NUT263pRWdpQFJJHUs4Ha9",
+  "mint": "4BPeTbQ8ziD2x2KX28c7QAQW9d1mLbci4Z6kZb4Vpump",
+  "bondingCurve": "5nm6aBTgeRq76Z9o2oBT8ZWdzAKah6TQpuxf44emWKfy",
+  "associatedBondingCurve": "FpELKKM5yJMY6CE8o3cLkaXds9D26hmLawxtMEY7jnES",
+  "user": "C1YWZy2y6nDEvMQFf2yVUgd8BU7PbrdVDcDoXhV1dJBF"
+}

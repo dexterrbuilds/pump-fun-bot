@@ -1,0 +1,9 @@
+{
+  "name": "Banjo Fwog",
+  "symbol": "BANJOFWOG",
+  "uri": "https://ipfs.io/ipfs/QmUsYDq5HHnXL5cWTYFQTFvpXvoDY6x6jtGQZWqYiRzYdT",
+  "mint": "59T8unF6fyJYUD5GZtDq2TJukVRq9faSUFeyBR7heKNP",
+  "bondingCurve": "AkSLvxj5gcVaR6zdLJLFyBokNaCQwKvysX8xgBEf3fzx",
+  "associatedBondingCurve": "4L6LdoRbv5qg1xRzRNcj9es5cyTQNYzDkQbvuhWXrkiE",
+  "user": "5TZNAf4GjguoPcfzpgYecuASoAnm8pm8oKT2FH6KW6SP"
+}

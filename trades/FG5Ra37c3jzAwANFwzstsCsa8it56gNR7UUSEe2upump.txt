@@ -1,0 +1,9 @@
+{
+  "name": "$BSC",
+  "symbol": "$BSC",
+  "uri": "https://ipfs.io/ipfs/QmUf5T5ok4iLzndYwF77YXxLj5MfMKPV8ytRjYgJMfezYp",
+  "mint": "FG5Ra37c3jzAwANFwzstsCsa8it56gNR7UUSEe2upump",
+  "bondingCurve": "Ffwsk3qoKTxXmEPivV7d1qSF9xcNWfprFn6FWZwMbUoA",
+  "associatedBondingCurve": "DjTAcMiyT4uov8hLuensMawKGSeNpMgpjPHGgpcjZJCA",
+  "user": "5LFNmcU4wHgcLSuyv6cXpoets7eCDqbDvEjgirScD23Z"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Jeff bond",
+  "symbol": "JEFF BOND",
+  "uri": "https://metadata.pumplify.eu/data/QmNUeXAj6otdcgsSGiLHGhEPrvyLpDp8aHR4768rhQzYaw",
+  "mint": "BPhM1AE7uKyh7eiNHbsytYw9iB2wsTLrvM7t1D4Xa8cB",
+  "bondingCurve": "CETxiqWSe4Q1pLkmB6rQNDJZLht8PQRwBoGLYT1bC1AH",
+  "associatedBondingCurve": "CLV2wwmEND1WCZ3SapCbpZ6ERw4kNq2rcWdZaRbixKJT",
+  "user": "C88rn1cz1PcRJFh44TuynaWbnRis4xuBRi65sD1Nwxog"
+}

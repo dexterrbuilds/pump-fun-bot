@@ -1,0 +1,9 @@
+{
+  "name": "Ukraine",
+  "symbol": "UKR",
+  "uri": "https://ipfs.io/ipfs/QmQMbxtECqNi4m9avsvZpaDzKQMn2X3yCv5Bb5CcTeRwEo",
+  "mint": "3pCMVjL71junSF8e6ykjG72vFsbkYg1sEoL8M3gG49To",
+  "bondingCurve": "9dXKi9ApCitNKBpVhHCwauejNkko9xYMtkr6yD2U6aYs",
+  "associatedBondingCurve": "DNHFqE4GCx6Z2DDwEzDeVwK9SAv2gUZ3DzDKh2FpY3iz",
+  "user": "E6FXHAT4sEHwQB4wqb8YCcvHEbsKGVD7wr6aEyHeuv99"
+}

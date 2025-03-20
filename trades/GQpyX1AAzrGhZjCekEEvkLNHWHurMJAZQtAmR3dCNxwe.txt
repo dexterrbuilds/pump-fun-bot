@@ -1,0 +1,9 @@
+{
+  "name": "New SEC Crypto Unit",
+  "symbol": "CETU",
+  "uri": "https://ipfs.io/ipfs/QmTKoLPadPHhbAyyL9fxA6BUAboqHXRdcH9jCvcY4C1wBC",
+  "mint": "GQpyX1AAzrGhZjCekEEvkLNHWHurMJAZQtAmR3dCNxwe",
+  "bondingCurve": "6TeBxJiTfCsmdFgogaHpeAx24hyV9zUEPcGsaV1wU8UQ",
+  "associatedBondingCurve": "Cz9ZNdkHv9ayfjfqkCSQmrCyTbXMp1nUqoqMkFfNzcCZ",
+  "user": "6j1votEBDcvqp9rS6zFUnkgpbGvrqzDm35Z3SZsQr15u"
+}

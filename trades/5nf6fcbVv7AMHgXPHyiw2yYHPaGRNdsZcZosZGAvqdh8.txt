@@ -1,0 +1,9 @@
+{
+  "name": "HOLYSMOKINGBUTTHOLEBAGEL",
+  "symbol": "BB",
+  "uri": "https://ipfs.io/ipfs/QmXoRCSaniicoMf54bsAna12Mn4Txm8YVRwmV5SH6rP5Ew",
+  "mint": "5nf6fcbVv7AMHgXPHyiw2yYHPaGRNdsZcZosZGAvqdh8",
+  "bondingCurve": "6KKZB3vJ2EMj8XYHmRYZcDXPWDKscKY2uN9GbMkY3TeP",
+  "associatedBondingCurve": "AYFVjHBy36wEPxMhWAKTZDS88nQhseawV7aBiapTXjTY",
+  "user": "HuWYxoRRU6wAwPUkcL3nrcFDwQnDam9C5jLKAkU7h1dp"
+}

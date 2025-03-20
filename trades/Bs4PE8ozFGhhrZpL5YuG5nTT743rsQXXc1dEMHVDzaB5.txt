@@ -1,0 +1,9 @@
+{
+  "name": "For the Trenches",
+  "symbol": "Residuals",
+  "uri": "https://ipfs.io/ipfs/QmSYk3HEHZG4JLxELq4o2hiqZvV17VMTcEQUsXXUwdYjiJ",
+  "mint": "Bs4PE8ozFGhhrZpL5YuG5nTT743rsQXXc1dEMHVDzaB5",
+  "bondingCurve": "DA7Z6T6Vc5Hd2kFNcdWrXvWu343T7T624XLiJckq8kkz",
+  "associatedBondingCurve": "CTjepFP25gXCLVcMGwgXHD7nr1aaCfc6Z4eYFUfutmdJ",
+  "user": "BzCXXiRQeo9YmrYTS5QDweZcTSmgbYwPbcm3juho1KQq"
+}

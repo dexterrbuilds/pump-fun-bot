@@ -1,0 +1,9 @@
+{
+  "name": "Onion",
+  "symbol": "ONION",
+  "uri": "https://ipfs.io/ipfs/QmSahhsfsxDoiFX2MhCUDV9k67zh2DGJZgwFq1r2B1eJfY",
+  "mint": "G4b2p7sDzTtAx1kWXa6WjQtKye9Dhnt5cub1q61epump",
+  "bondingCurve": "CMXwi84Q5SezxBvjCXQstcx2N83BmhuksMHELGQSiArF",
+  "associatedBondingCurve": "HkrC5EuxXdvsT8aYxL3f1hLUmx8ybAstgcVsfAptu8Lw",
+  "user": "DdCcvMcdK2CUG1NcrA2pdnG9NLKu3qFKw8EQzgpsHdod"
+}

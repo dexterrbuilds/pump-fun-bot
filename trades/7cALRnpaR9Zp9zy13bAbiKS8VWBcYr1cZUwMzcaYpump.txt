@@ -1,0 +1,9 @@
+{
+  "name": "No.1 Tiktok Rabbit",
+  "symbol": "TIANYU",
+  "uri": "https://ipfs.io/ipfs/QmTcuPnW9Z7LU1S7xHUgKThDHKpqBPNY2sXGqHXbRB4mpR",
+  "mint": "7cALRnpaR9Zp9zy13bAbiKS8VWBcYr1cZUwMzcaYpump",
+  "bondingCurve": "xkcyH6FuX4n3WNnLCybgAFH4RLvegswqn2adMZzUeLY",
+  "associatedBondingCurve": "Dm4zWe8hk9haADLRCgevs9Ttm3ZHUY7FXXAMcXkVoK7c",
+  "user": "HxhjQR7z1bVDKSSxCxcMvJBsHmRPhavBYQMDMHc8jVfV"
+}

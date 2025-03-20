@@ -1,0 +1,9 @@
+{
+  "name": "First Photon Coin (2015)",
+  "symbol": "Photon",
+  "uri": "https://ipfs.io/ipfs/QmTLJFJJVsSB1tAe4vCFbckFtgqWXKmUYGZMWsxuDVXm8F",
+  "mint": "55BLS59Y1yvvQnwG8cZD5eqJUKy4646apBFis4Ampump",
+  "bondingCurve": "8LgPcLhP7bHreYNhEoNAh5VE1po2KfJyov6SArvPrwVw",
+  "associatedBondingCurve": "36Nm3Z1wDPG6xorNDZK8sKfjTST9mCL3RPAZwyi6ZMAj",
+  "user": "3SzchD4DmXdpYSCJQzgtBypERvdTF3YMG9Sgh6LL19fx"
+}

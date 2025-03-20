@@ -1,0 +1,9 @@
+{
+  "name": "CUDOS",
+  "symbol": "CUDOS",
+  "uri": "https://ipfs.io/ipfs/QmaXSJxg7QJpxMTiMzPeVBa6dRtnna8MAgAJNqiUYtwCt4",
+  "mint": "BnNezHCLHtoSwXPrEmwWs7RadFoLDDQj47NoTVe7pump",
+  "bondingCurve": "74gimvXbKBpMMWMUjsp7SzrtyV7kNHpGGWtDKiU7dD7r",
+  "associatedBondingCurve": "HHZmCWDCvb8VFA9wyAr5mBjxuJnw4GbQCxcMRGX6PvZi",
+  "user": "DjLHPAoD7dWwJuEf8N8Uu7rFgQGAXAsmLRNsEJU5JE1G"
+}

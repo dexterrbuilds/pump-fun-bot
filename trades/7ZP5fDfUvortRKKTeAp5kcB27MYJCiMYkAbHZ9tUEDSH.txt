@@ -1,0 +1,9 @@
+{
+  "name": "Most Honest Cook",
+  "symbol": "Cook",
+  "uri": "https://ipfs.io/ipfs/QmTyckzBKqhyexw9U8uQxwCEL7MJsm3gTR5v61LoYdaqmS",
+  "mint": "7ZP5fDfUvortRKKTeAp5kcB27MYJCiMYkAbHZ9tUEDSH",
+  "bondingCurve": "EN1rqBopcT6NyYoSVHJteJxTXDMvKmJT4uCga5Q7UbQ6",
+  "associatedBondingCurve": "Ddn7eRVHbUx4gSCWec9ssH6eEwDPQupyn6JDXrAXpdp4",
+  "user": "2465JxDjhnUCaJYXapnKQjwAuUDrGYrzWUqj13WrnH1i"
+}

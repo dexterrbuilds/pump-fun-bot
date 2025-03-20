@@ -1,0 +1,9 @@
+{
+  "name": "CLEVELAND WHITE",
+  "symbol": "whitecleve",
+  "uri": "https://ipfs.io/ipfs/QmfTVGxrJ2be55fnNjdAcArKHXxo7wX36FMU7Wik75bpmJ",
+  "mint": "42ekyNYyWMG3bDViod9GPo2hDXq1B8tDGPEobvU9pump",
+  "bondingCurve": "3X2u9Dq8eYWokAt93pSt8GFbmBzYmPSZZeiVtVyT82n6",
+  "associatedBondingCurve": "FACvnqFQpz19d57ocKNu2QdF2UeQN2qZNxJskGPCUELE",
+  "user": "HtaixdXjVebdHdL7swcktPmhdtFGEks24Q8damGkyLBf"
+}

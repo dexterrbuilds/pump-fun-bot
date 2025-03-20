@@ -1,0 +1,9 @@
+{
+  "name": "SEC Stablecoin",
+  "symbol": "YLDS",
+  "uri": "https://metadata.pumplify.eu/data/QmQkBsCToH6mCK8Qh8S5APnPSEiZceevBQyaaWdprRX6Uj",
+  "mint": "DkZqVUeEzKmbv1wFsD4UhnhCjzGrV41cWwcvgKJMzYzu",
+  "bondingCurve": "EB3NpYbqSnmAQqW5qjEsRy38pVYqo6AkYFG27mHiT9jo",
+  "associatedBondingCurve": "7WXsAuBsmK2k5shW8nD6WWx7KwEC55Tdnyiwk54pXGt6",
+  "user": "C88rn1cz1PcRJFh44TuynaWbnRis4xuBRi65sD1Nwxog"
+}

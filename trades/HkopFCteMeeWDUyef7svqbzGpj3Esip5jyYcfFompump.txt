@@ -1,0 +1,9 @@
+{
+  "name": "CATBATON",
+  "symbol": "CTB",
+  "uri": "https://ipfs.io/ipfs/QmU49oJ4sEMMgG3q2R79GKwTjEKNbQDkBew8AyWJzNztJi",
+  "mint": "HkopFCteMeeWDUyef7svqbzGpj3Esip5jyYcfFompump",
+  "bondingCurve": "8ZhnKaPXpUQeXgnTgr5vNKwm3yLX9LCR4hKwTaYq6yty",
+  "associatedBondingCurve": "3pvy4Hisn4P5wCmeEGA7fxwSPwgFSSAYcugKoyP4VLt8",
+  "user": "48BCgHnyBPT14eNBGcfc1vNGqQ8Yw1cYhKPvN9dWJb81"
+}

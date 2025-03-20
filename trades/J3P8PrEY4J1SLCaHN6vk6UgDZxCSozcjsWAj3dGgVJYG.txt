@@ -1,0 +1,9 @@
+{
+  "name": "NexPT",
+  "symbol": "Nex",
+  "uri": "https://ipfs.io/ipfs/QmeQLt35dijYKi5uQBP6GFQQc4WZAbFjwZEQnpsx3e41aF",
+  "mint": "J3P8PrEY4J1SLCaHN6vk6UgDZxCSozcjsWAj3dGgVJYG",
+  "bondingCurve": "BFmdg4wTbzaKu6q2ZEv49VbtZJp2atEPY2ua5RJLhbWt",
+  "associatedBondingCurve": "8t3ohqJn7zDJFoqsskizrtkk5bWu9hQNrk4GPRHdo9FF",
+  "user": "DxJna1gsfys8w9XjhrpjDx3quBLYN3XPcQbD6p1ZrmAb"
+}

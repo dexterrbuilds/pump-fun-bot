@@ -1,0 +1,9 @@
+{
+  "name": "Infinite Elon Musk Glitch",
+  "symbol": "IEMG",
+  "uri": "https://ipfs.io/ipfs/QmW9ca7VGzrsthvLvTHMHJM5DJYfUebQyWRNWcY8G1ccXS",
+  "mint": "AL1TA4J9yPZ4jfSsX2CDJYjfQNLBMLh5Q78wCVVEcRb2",
+  "bondingCurve": "9yehNEP8eW54bp8QMGG88Wc6H8cJWXQZBHYuqEHnid2o",
+  "associatedBondingCurve": "36eFW9iUqYqqVTcDgRJoKL71QJDmWD1hN6Em8Bn8bqbM",
+  "user": "9fwz9wEVwojCCKbEspPaa944XjL4KgcQraRArsyVvQYs"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "COBIES ALT",
+  "symbol": "COBIES ALT",
+  "uri": "https://ipfs.io/ipfs/QmeEDhveETWKAh9DvKAsP99fQwRkjjP8Vg9HKr6BSouEmZ",
+  "mint": "3zEWF6DgMDhznaWbdFnDz65roEDLTLMCioH2QbCvGmu2",
+  "bondingCurve": "g7pyjhyKHxb6EGSqMzNXQyuAJ8KnywybjfhzgDFkav3",
+  "associatedBondingCurve": "B9bK85nmwPdwMG2361FSMj2mJR9XEWzLKUPwYfQUNvBp",
+  "user": "4Kr8wN4b5VV3p9B9oxdE737oqm2d5pPm7JtLsDpdNKNz"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "DragonElonMars",
+  "symbol": "DEM",
+  "uri": "https://ipfs.io/ipfs/Qmbp361Mg7x5BrnZUN5fmGTy3VfS1UzjRS9Bz6WZFN8rUN",
+  "mint": "AzoSEmDFC3DXk9HewsxEk9qr3T9RbZ9TaEARN2TCpump",
+  "bondingCurve": "7h5ffo7FyrJWBFfen8kbyy4tuVm9TrAEdcrsoWom2vsW",
+  "associatedBondingCurve": "4tghXduBUqtd6X1173cdJsGFzAyRi8K3dwr2dEy2UPq8",
+  "user": "9BEy45CaPvzRFhouvxEkPCpcuYcmUwnd2xmjM5dFEDf2"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "HYPERFUND",
+  "symbol": "HYPER FUND",
+  "uri": "https://ipfs.io/ipfs/QmXy6e1tAn82infr8FmDZjgJQ8gUgnZd6xoB4GQVhDWoaX",
+  "mint": "G6WfT4G2UKttuAc7TwNEpup7dje3AJdEPiqsdaQTbiWq",
+  "bondingCurve": "GEqxj6mUZwNGSXRNx7c65SQ5zd1oeuXyGwygiwQpP8zr",
+  "associatedBondingCurve": "4UUtDjKR3kCEmyaS3TqLzKRMLjaW38rqBoaRQeYduVyv",
+  "user": "2PwymtcGrxLbHpWen6142tzwyP2fqTp9XkMeW5a6ygAQ"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Hi5",
+  "symbol": "Hi5",
+  "uri": "https://ipfs.io/ipfs/QmZNH4aWqHGYJrdpT2m2MhHxWMhi1rX3gFbbJHAfypteRP",
+  "mint": "9ZGjCWXSa2heet9UkpSt257sCyW6fYKSyKYirSmJpump",
+  "bondingCurve": "8YMfSe9inoa54Mow3ZEVQ9voYD3xnPkff39UBPZ4gsjV",
+  "associatedBondingCurve": "A7d57wD8s4SiJafa4K5M1wzdFHC8M9goofd3UG3vuid3",
+  "user": "9BFv4D1L2L3th5dwXWpof6h3u5mnCicMnY28XbvTf6ru"
+}

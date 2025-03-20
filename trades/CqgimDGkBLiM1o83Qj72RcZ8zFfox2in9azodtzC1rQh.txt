@@ -1,0 +1,9 @@
+{
+  "name": "Wojocoin",
+  "symbol": "Wojo",
+  "uri": "https://ipfs.io/ipfs/QmUeKMpXZsWHhdwiMdP6XZWDVQ5d3tbPPaTmxdb8mLaCkL",
+  "mint": "CqgimDGkBLiM1o83Qj72RcZ8zFfox2in9azodtzC1rQh",
+  "bondingCurve": "D1Lyq8JpB5rC3pwf7u7ShFLx6nvfqRTeY2NgEcyHGXcm",
+  "associatedBondingCurve": "4ouzMx5S8Vmt7FcZ9dx13PRxu8DpT88de9ncHpxR6zfK",
+  "user": "4YX3qboZ7hJs545syhTCt4TD5AoncBSuu8KfdJtezK51"
+}

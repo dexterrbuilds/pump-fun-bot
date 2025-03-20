@@ -1,0 +1,9 @@
+{
+  "name": "LSD",
+  "symbol": "LSD",
+  "uri": "https://ipfs.io/ipfs/QmTkCCjWzmoVde61gP5Mfuij1vZfm5GB6r7yAm7ymGk68Q",
+  "mint": "9TFZhhWSYvMQuVB45pGgoWbdXUAkrkS3tCu43PbaX3WW",
+  "bondingCurve": "HJVTH5dtHz5uy7PfARtAyrCzC256Cz8qhTshhgqrZybE",
+  "associatedBondingCurve": "2df6z4Q6F9YQdSkYPc1zViukHAERTwsYvHCJpRmJmosq",
+  "user": "d2ueb4pjVHSRrFimEcsKYUrxMqYLecKSyCLibDLsnGu"
+}

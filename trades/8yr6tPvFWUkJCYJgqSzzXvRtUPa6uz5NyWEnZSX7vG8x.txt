@@ -1,0 +1,9 @@
+{
+  "name": "CoCoin",
+  "symbol": "CCN",
+  "uri": "https://ipfs.io/ipfs/QmfDNw19psz25rCay6LwTPcx7V7e29KrGJru5QpLF3Wo6F",
+  "mint": "8yr6tPvFWUkJCYJgqSzzXvRtUPa6uz5NyWEnZSX7vG8x",
+  "bondingCurve": "9QNQZjS9hv5dLbeZDFKCoRUuezk38kLzNmAMVNAQAKKr",
+  "associatedBondingCurve": "3gkrfV7WFDUeGEH16wPvXmLp5TNd9PGwDoGTtZ8rBDuX",
+  "user": "4KNm93EQRLJZwugFKyUEFWFinpgXvjhZnV9npb2eHLda"
+}

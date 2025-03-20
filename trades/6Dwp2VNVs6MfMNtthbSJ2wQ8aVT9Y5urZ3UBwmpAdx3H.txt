@@ -1,0 +1,9 @@
+{
+  "name": "RIP Crypto Assets and Cyber Unit",
+  "symbol": "RIPCACU",
+  "uri": "https://ipfs.io/ipfs/QmVZtpV17B7WsP75QE8Q863fx1KKVMtyYRAd39v42rnK8k",
+  "mint": "6Dwp2VNVs6MfMNtthbSJ2wQ8aVT9Y5urZ3UBwmpAdx3H",
+  "bondingCurve": "4F7fenZRXJZsAnp2ANZARhCTq1EAnqtSPsJd7WCXB3Fp",
+  "associatedBondingCurve": "A6FhZ59YCy8wCoczgUV4UtC3ui85TfBxeuzLjWjPLeB2",
+  "user": "9RD75soVDSme16NZoaARdvHYXq8gq3A7ZJpQTo9hR2o8"
+}

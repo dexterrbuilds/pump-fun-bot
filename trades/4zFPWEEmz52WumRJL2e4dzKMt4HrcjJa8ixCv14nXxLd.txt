@@ -1,0 +1,9 @@
+{
+  "name": "jail quavo",
+  "symbol": "QuavoSOL",
+  "uri": "https://ipfs.io/ipfs/QmcatcaXvnkqaf6wKcfyy7AbCbja5LLKZekHPtxCwM5rSS",
+  "mint": "4zFPWEEmz52WumRJL2e4dzKMt4HrcjJa8ixCv14nXxLd",
+  "bondingCurve": "91Rwn4GBeKCjaU4CaQtGVvEMsh8YnWpKg1HneybLUxbq",
+  "associatedBondingCurve": "6kfUHDY2erV8ydzLU1fi17VQeQAmBKwqdtnTqyXa7HKp",
+  "user": "8ZpQ9UXzQUfjB3xRWdytLZo61Tw1ebCZLWL8FJTuFwcA"
+}

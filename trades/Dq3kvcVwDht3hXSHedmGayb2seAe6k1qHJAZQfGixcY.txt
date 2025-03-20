@@ -1,0 +1,9 @@
+{
+  "name": "Andreas Mogensen",
+  "symbol": "RETARD",
+  "uri": "https://ipfs.io/ipfs/QmWdkfhGGxAgF2mkSzNoL6YcV7snHXvDEcbcmVkqb1Crur",
+  "mint": "Dq3kvcVwDht3hXSHedmGayb2seAe6k1qHJAZQfGixcY",
+  "bondingCurve": "J5BYVFCs8FB49mSxa9krBV6KEek9tTME6vf7dXgmxFRq",
+  "associatedBondingCurve": "DwdD4RHmF1hq7P2RLQJU1PFY2oyjcmT7exfUiVjYwgR6",
+  "user": "5PBubJfFxePybZLwz8jhvWrvvCykTPJTpnMG7C5yQ9Rk"
+}

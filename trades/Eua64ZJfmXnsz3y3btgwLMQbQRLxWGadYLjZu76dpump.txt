@@ -1,0 +1,9 @@
+{
+  "name": "THE FIRST BITCOIN CARROT",
+  "symbol": "CARROTCOIN",
+  "uri": "https://ipfs.io/ipfs/QmYrpMgLzzS8PfNCpY7ENvy8McEcwkmefQWAcgzrrAbX6F",
+  "mint": "Eua64ZJfmXnsz3y3btgwLMQbQRLxWGadYLjZu76dpump",
+  "bondingCurve": "Coqt1G88uuJC134AJRuqFiU5aqCvvgdDmkKpRNBdh1SW",
+  "associatedBondingCurve": "7cTEhhaMBFeooxisKspzBY8vnJqWabp8RMTstTpFsSWM",
+  "user": "6oC9xXK5KEwC4ECUP289YPiNc8Ei9mPmdis1fu7b16LG"
+}

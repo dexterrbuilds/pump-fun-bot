@@ -1,0 +1,9 @@
+{
+  "name": "Harambe AI",
+  "symbol": "HARAMBE",
+  "uri": "https://ipfs.io/ipfs/QmV4D5XnqtdXCqhNBSWSfiVMcrCWv36WhcHBGfCgaQxiQP",
+  "mint": "HZYeXkpzJMyJPdrnyeaah3G52AP2y8q3k8yhZkRtzhMC",
+  "bondingCurve": "61MVARoNEVKqzNC1ubDco2jEYeCrXBXyCTFg65jJDyy4",
+  "associatedBondingCurve": "GFyCcV7rzD6fR1aBtq26rAnCoJYFPh7bkFyp729PTgqd",
+  "user": "9px1D6Y5tMKqFRrhFdeo2qhNxQxxcbiMsbXzUvutNVtB"
+}

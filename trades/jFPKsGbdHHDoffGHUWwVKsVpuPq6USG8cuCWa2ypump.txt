@@ -1,0 +1,9 @@
+{
+  "name": "dcinside.com",
+  "symbol": "dc",
+  "uri": "https://ipfs.io/ipfs/Qmc8WpLfyjwqR9Ee85aXqEZMYt9SKBkdU7P4QaWtvkCpKN",
+  "mint": "jFPKsGbdHHDoffGHUWwVKsVpuPq6USG8cuCWa2ypump",
+  "bondingCurve": "HjkbAGacFCAwhc8eomK72rXApk8h57GaqMJrWk4ycNNv",
+  "associatedBondingCurve": "CvEwoZCr398bWVmoLmfKNk2mvEkMzLfxJfcFqx1MNiE2",
+  "user": "GNf7j1jHfnRptyPaX2ZeuRXXBt6JM42xdw1fwJdGpaxw"
+}

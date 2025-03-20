@@ -1,0 +1,9 @@
+{
+  "name": "Just a chill carrot",
+  "symbol": "Chillcarot",
+  "uri": "https://ipfs.io/ipfs/QmVMziEFjzTQiBvCJy3qFTFx1g44UYAPeiSn2hiha9nG8C",
+  "mint": "GfHKXc14xg69wGtWzo6MkhfKqNmQWkGpxHodkUwSpump",
+  "bondingCurve": "1Avthm4BZe1Y9v2mjJEFJisnJLikkKddMZyHyq7kfQF",
+  "associatedBondingCurve": "G759xMEiZCwCsd1qnzyxyx54G8HBSPa5cZMbr8hdfDTY",
+  "user": "6yFnBuxnxVfZmk8SReeUA3JiKJKGrhMfPNMTi9fqgKaS"
+}

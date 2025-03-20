@@ -1,0 +1,9 @@
+{
+  "name": "TIGRX",
+  "symbol": "TIGRX",
+  "uri": "https://ipfs.io/ipfs/QmYHcc899GkausfkApMPZC2TudqvJQneTDft8TaNzcvYJ5",
+  "mint": "4UTeEqfb1dY5NrpMoVqe9gxqBZRHFub1ESjGDxfKRVeG",
+  "bondingCurve": "J7aqV8udZciJYVEcjjvYjgLicVuJ6nLezgneb5V5u92b",
+  "associatedBondingCurve": "8tncvZQVw9jsMXVyceHRmSnGK8DQGFoFYcobzu4JJxLc",
+  "user": "Giv8PmEZndiDAn2AFBWgGgUCyJCFCsF1tew8N1hkd59i"
+}

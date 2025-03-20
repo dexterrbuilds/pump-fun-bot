@@ -1,0 +1,9 @@
+{
+  "name": "A Frog",
+  "symbol": "FROG",
+  "uri": "https://ipfs.io/ipfs/QmfS1uiWUiKL94GTPZ5bUcWmJVH13eH3uHikQkWszirTpz",
+  "mint": "8vpWDoCRvY8XANGtU9qFAbxG4vFhEa78A1rHqiTwV59N",
+  "bondingCurve": "3pmaKuDX5ZngPKpc8qexoamgM7tHzZWEjt2LGdtpdevq",
+  "associatedBondingCurve": "6vHUMQyPZJY4dyaqFegZ6kDNBm9oXe3rwx4yaDpUZrwS",
+  "user": "27p3fNE8h48TfxSZ8KcYRrxo4gEHSnzRJUQH8bHD2LoH"
+}

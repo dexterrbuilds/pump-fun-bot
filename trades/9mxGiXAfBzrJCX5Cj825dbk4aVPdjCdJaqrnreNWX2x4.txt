@@ -1,0 +1,9 @@
+{
+  "name": "FIRST SEC PROJECT",
+  "symbol": "GRIT",
+  "uri": "https://ipfs.io/ipfs/QmVv5YYs9sGwUJ1zZ7p9a8E3eUUnfGVqFj5m8SWwHE37Kt",
+  "mint": "9mxGiXAfBzrJCX5Cj825dbk4aVPdjCdJaqrnreNWX2x4",
+  "bondingCurve": "37WNPRKi9PGoHT4W9nhZTuaVzCrZQNRosUGTYnrTUYRA",
+  "associatedBondingCurve": "9tvcKN713JmGLATdG3TZq9eKWCSRCaSv6rBFijNbcFrH",
+  "user": "5Fc5xSLo553uVHdHANneyp6y2JP64Rz6imH11gzu8Eni"
+}

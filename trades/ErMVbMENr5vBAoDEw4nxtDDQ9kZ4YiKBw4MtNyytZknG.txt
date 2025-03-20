@@ -1,0 +1,9 @@
+{
+  "name": "RealBogdanoff",
+  "symbol": "BOGDANOFF",
+  "uri": "https://ipfs.io/ipfs/QmYn4v1pJbcZpSNUdzemqXPVWRkqZrzCJdPmH46T8qmFTG",
+  "mint": "ErMVbMENr5vBAoDEw4nxtDDQ9kZ4YiKBw4MtNyytZknG",
+  "bondingCurve": "EmWpfTaDAnNU4WN3sSSuzAkVLTvHdhjrsVV2UVSzMQUF",
+  "associatedBondingCurve": "6Au9rLMzhSRw9cfuMzaK8t3MhtRm9JVqFWriNFpohoGN",
+  "user": "XNCRedjLZEbxmkzj7zsXis6eMztH7tyMEkbC5jMe8Va"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Fart",
+  "symbol": "Poot ",
+  "uri": "https://ipfs.io/ipfs/QmZxf2bZ6UkZ5ehxVoLSq5M8UwhJJfQ9unWh45saQjzzwT",
+  "mint": "5NzdaiS82Gmn7peDNPZeXfM6EsPXT81XKVXjHRX5pump",
+  "bondingCurve": "GJuQ8DY98hv3k6VsCLhXrKqjcvxCYQbLBjxuesRpHgaD",
+  "associatedBondingCurve": "AhdGVmZeECXvMS4Fzpdo5L15juW12N1opEDzKSWBCsUc",
+  "user": "GJAKjSoCsmRssuwHf6RgV5uY1dS64MCd3Ahaoexged3k"
+}

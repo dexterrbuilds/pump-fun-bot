@@ -1,0 +1,9 @@
+{
+  "name": "homosexual squirrels",
+  "symbol": "HOMONUT",
+  "uri": "https://ipfs.io/ipfs/QmWcBaWk6dbU2hwjk1gqkCknWkueHV61PNFBMJPDU1YH6J",
+  "mint": "As2i7tqpyE5MrLPL7ZostNnkYasMNFacqmfSrQFmyUzH",
+  "bondingCurve": "DtZRVPkhExx73PKahpSYoR9Ku7qiBHuFcBizRTNDRdW6",
+  "associatedBondingCurve": "3VL1gTU4ESCVRSv8doBgBSYmZbEUDukysdk7MgpKhB9p",
+  "user": "2du4cQUrByJ8Bv47kfLZXmhip2QC8ydqKjKS9LnAJHAi"
+}

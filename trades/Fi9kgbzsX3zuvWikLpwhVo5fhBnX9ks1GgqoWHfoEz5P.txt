@@ -1,0 +1,9 @@
+{
+  "name": "fly bobbyr",
+  "symbol": "FBR",
+  "uri": "https://ipfs.io/ipfs/QmeCj9eSYg1nNZtLqv6uSzQMeV4Z41Hy7Mc2ujurTb4wzf",
+  "mint": "Fi9kgbzsX3zuvWikLpwhVo5fhBnX9ks1GgqoWHfoEz5P",
+  "bondingCurve": "38Fcv58aauPW2inr5Ft2z8KBJVA597vLyy4yyqfyEi3v",
+  "associatedBondingCurve": "5XVvLryjKjNUzjViSDknbL5nF6xPPmZJ5hLcpdY2vVhi",
+  "user": "2c8QGzPTXAvrV7PPYp5yZKZvSAZ7a6nmQbF4b6S6omaJ"
+}

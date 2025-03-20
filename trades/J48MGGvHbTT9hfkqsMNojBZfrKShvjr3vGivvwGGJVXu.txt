@@ -1,0 +1,9 @@
+{
+  "name": "Vegetables Language Model",
+  "symbol": "ai16v",
+  "uri": "https://ipfs.io/ipfs/QmVcpw6raQWKzERLA5xzGpivnX39ooPzumiBFtJ1R6DEbz",
+  "mint": "J48MGGvHbTT9hfkqsMNojBZfrKShvjr3vGivvwGGJVXu",
+  "bondingCurve": "3JsP3g7tUPu49exmpatjgVmQNzzfhqCvGUQvLgxu1EQp",
+  "associatedBondingCurve": "6NctEmXAfCb9iGF6gh9GyA7KbnDw2ZqEDNUahQHSvyJn",
+  "user": "FZQ1C2Svdg7C6thpASh26f8AkdgWwpFpxQZQ3nFcQFxt"
+}

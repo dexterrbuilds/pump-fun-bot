@@ -1,0 +1,9 @@
+{
+  "name": "smol fire",
+  "symbol": "fire",
+  "uri": "https://ipfs.io/ipfs/QmR4r9YCVteGVKK8vvobgeu6HQsBkirSo27GVtRfKSh7DD",
+  "mint": "AbPvzGjtKTVT59L4sgn3ubFugpBiYfpxETJFhiUpLWkM",
+  "bondingCurve": "BctvVumfTS4SjxrpbxaEF5KP1YPzhXgtQSfVXgkJmRfY",
+  "associatedBondingCurve": "9WEe9z8mUeKbs8LgqZbsMgiXQ4ArEwx6VvF4Pw6C7kNx",
+  "user": "7pzg7EX4njPsTCR5FxR7ZtZaPaKSdV8QCvwjUAZ9bqr9"
+}

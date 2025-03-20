@@ -1,0 +1,9 @@
+{
+  "name": "chihuahua on road",
+  "symbol": "cor",
+  "uri": "https://ipfs.io/ipfs/QmRip5oRQ7PmF3GHwYGxMJQPjmjozZBydLNLhXS48AyuXv",
+  "mint": "5RS65obXp953DpNprBuesPzSKHLsuans5EbYpbMfpump",
+  "bondingCurve": "8943PTrHmVrpxvNY5vbmvAFdbo5P85hQ3RDXXZ3khULF",
+  "associatedBondingCurve": "8hJ2XeBn6JwpcnR28UkhVZ4P8bdJgAKwBWoRbAzzKzVS",
+  "user": "3JUDMUmbdeZDJ3CtUEESbGJQ5ekMdiTXvwjct3wUEnS1"
+}

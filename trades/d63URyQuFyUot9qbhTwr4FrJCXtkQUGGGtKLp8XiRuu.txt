@@ -1,0 +1,9 @@
+{
+  "name": "DUMPSTER COIN",
+  "symbol": "DUMPSTER",
+  "uri": "https://ipfs.io/ipfs/QmewjUpkZdCp5BK3sv2nDpX5JtFVJr4M4osd1rsLKiDh73",
+  "mint": "d63URyQuFyUot9qbhTwr4FrJCXtkQUGGGtKLp8XiRuu",
+  "bondingCurve": "94YJEMi5VeP6xDiRzc5Q9j1FaHVj8Duu7Vgeb4Q95rJX",
+  "associatedBondingCurve": "AiZAS5GiKCv9WS5W8gRTyrk2uVTjDuM1qmG1dmyxgzk9",
+  "user": "5DJZSTApF1gWVVjfhavwuDZ3EkZhHPwvau6paoXce9h9"
+}

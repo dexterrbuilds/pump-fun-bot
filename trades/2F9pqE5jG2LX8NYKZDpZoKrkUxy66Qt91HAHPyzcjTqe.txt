@@ -1,0 +1,9 @@
+{
+  "name": "GRAVEYARD COIN",
+  "symbol": "$GRAVEYARD",
+  "uri": "https://ipfs.io/ipfs/QmTw3UtHFkVnJ13v5Ck4kdE84FECQXWXUDDRLJpBNcSKhm",
+  "mint": "2F9pqE5jG2LX8NYKZDpZoKrkUxy66Qt91HAHPyzcjTqe",
+  "bondingCurve": "CRQEPS6GZdcoY9FR4fqswXdjyHesaD2h91xh26u2PG5K",
+  "associatedBondingCurve": "py4T3LwKUSgbpWRf7oV2n6XWi3jcibcFxYQsPY3Umwc",
+  "user": "F6uqdPrDsd9neejGKTiaVphTA91ddBNbEz6reuMkbCVj"
+}

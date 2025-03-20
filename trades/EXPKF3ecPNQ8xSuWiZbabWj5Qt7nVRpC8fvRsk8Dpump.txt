@@ -1,0 +1,9 @@
+{
+  "name": "Carrot Take Over",
+  "symbol": "CTO",
+  "uri": "https://ipfs.io/ipfs/QmYXYa55B85CoDvPq43L2iLU6KFEEpsa8WnFvEKYGjjD2k",
+  "mint": "EXPKF3ecPNQ8xSuWiZbabWj5Qt7nVRpC8fvRsk8Dpump",
+  "bondingCurve": "Ggph5MkaPDaf6xkf6PCAXAM6CMQ4vdAHF3VD41PfCzUd",
+  "associatedBondingCurve": "24vyBK9iRh7Tq1nauNuTNCEvBi66HXbSaZkCm2CYszeF",
+  "user": "AtAjDYTjapTSbrRDGAmiUy13Mg7GipHVr9uHBVFWdFd8"
+}

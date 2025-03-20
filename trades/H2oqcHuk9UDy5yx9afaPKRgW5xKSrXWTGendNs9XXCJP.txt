@@ -1,0 +1,9 @@
+{
+  "name": "OXIS AI",
+  "symbol": "OXIS ",
+  "uri": "https://ipfs.io/ipfs/QmXkdsjGwLoc9GLNDBZvpc19JahnWVDMuZTPbRityoWEPV",
+  "mint": "H2oqcHuk9UDy5yx9afaPKRgW5xKSrXWTGendNs9XXCJP",
+  "bondingCurve": "F5kJrf8hsb8WaUZY7edxfii86uogzHqiqUVYKWWHurVE",
+  "associatedBondingCurve": "7jqL5GDS5uswJprZEMJ9pqbHj9cxYEG66yUHishvCxm9",
+  "user": "AS8PHjeqdFVYayM1PoCL5DNbZs3N41xHCBFRGZJQmowP"
+}

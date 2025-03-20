@@ -1,0 +1,9 @@
+{
+  "name": "Laura D\u2019Allaird",
+  "symbol": "Laura",
+  "uri": "https://ipfs.io/ipfs/QmedeLs35CxfBfQF4acuLHdtg6BtB9E8vapTR6akDD9S5L",
+  "mint": "2coQuDDqt3fWpwJWaUK6N9MXTCan4CBw37G9FhQRXBhj",
+  "bondingCurve": "24Nf9DUqL4mAbPJLKQy9kRrkowUZbp97cx11kqB9AYxU",
+  "associatedBondingCurve": "FKmwf8xMdQXPLcfg7C9p7CMfTPLDcANd6ALBhqX15Tks",
+  "user": "zMzt1xUGkjV6uSNu6cUUENHpbbhqm5by5CHimWybezR"
+}

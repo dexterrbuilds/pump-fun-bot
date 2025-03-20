@@ -1,0 +1,9 @@
+{
+  "name": "Blockchain-Based Payment System",
+  "symbol": "BBG",
+  "uri": "https://ipfs.io/ipfs/QmacbL5LuGZ8snx2svGXBZhR81GFTNuoNEM7sJEiLbuYo4",
+  "mint": "7pR9bkSeaxfJuwt6dhRi21XJwyLp51pdmnqshpHjotMD",
+  "bondingCurve": "2Tp92LAm5c7ZQTc7LSpRGkEM2bRLUWmyPaLwvSiHBmmw",
+  "associatedBondingCurve": "CRe8dgCaxvV33uN432hmakqeTuDfZ948SBF9izzr63uV",
+  "user": "FRiDgKoMFaWLe759VA7GteCTRUg9Aj2jRrF5MCkiGWB9"
+}

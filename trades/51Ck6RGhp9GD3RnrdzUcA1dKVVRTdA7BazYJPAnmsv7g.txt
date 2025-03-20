@@ -1,0 +1,9 @@
+{
+  "name": "The First Agent Cleopetra",
+  "symbol": "CLEO",
+  "uri": "https://ipfs.io/ipfs/Qmd2zXtkpVMZmHKLNN66g24GWE7gt7nxPy9MxNX6M8b1rE",
+  "mint": "51Ck6RGhp9GD3RnrdzUcA1dKVVRTdA7BazYJPAnmsv7g",
+  "bondingCurve": "7aiiVpJrycq5vHvcchuUzoygUCTsDHM4Zhd6ukyT4TMN",
+  "associatedBondingCurve": "63XvRGpDhiizGVzNUmS7AafEJGzqc6HEy2QVaLcXiisq",
+  "user": "GP3pNHYju5DQDHWnHxbpfYRLZnCjAqtRz1QgCiGPvs5v"
+}

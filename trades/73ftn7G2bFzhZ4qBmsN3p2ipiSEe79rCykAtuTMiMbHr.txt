@@ -1,0 +1,9 @@
+{
+  "name": "Infinite Money Glitch",
+  "symbol": "$IMG",
+  "uri": "https://ipfs.io/ipfs/QmT9ACmJiKjcM8srSkYaBZqt1VbEfw43Q9NdhN4ibYrM4X",
+  "mint": "73ftn7G2bFzhZ4qBmsN3p2ipiSEe79rCykAtuTMiMbHr",
+  "bondingCurve": "B5ZzbiNFMkV1SBw3arnNX1Q4k9yGUvUQ2qgXdTd1Enfb",
+  "associatedBondingCurve": "5WcCGU1TDtbn3fdBkQS2RqP35KEanF6BBZKr1SRfTde8",
+  "user": "bMfGxERD3WV9zn4krZBMhLp8VqNH4Y2iaPpGkgHL32K"
+}

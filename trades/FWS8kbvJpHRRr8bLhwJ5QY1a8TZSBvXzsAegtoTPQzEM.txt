@@ -1,0 +1,9 @@
+{
+  "name": "Binance Community Dog",
+  "symbol": "BEBE",
+  "uri": "https://ipfs.io/ipfs/Qmd83T7i2E1XAHJXXTqVkoKacRHFvmC8SUVu8fxZwuV2Kv",
+  "mint": "FWS8kbvJpHRRr8bLhwJ5QY1a8TZSBvXzsAegtoTPQzEM",
+  "bondingCurve": "CLbSuVZas9rk4WMKeornpByc3gGrgqfyuQ56oUNRC9MQ",
+  "associatedBondingCurve": "GidxpgBFbuDtdLZ5UeG4EWcQQ78Jy48sP3vnPSka1hdJ",
+  "user": "DbDHgTtRNogMZJBoeUTV1WuQB7FsYa6YpdBNZ2vW7MYx"
+}

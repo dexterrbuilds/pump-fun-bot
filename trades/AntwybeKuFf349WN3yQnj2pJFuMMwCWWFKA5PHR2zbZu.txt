@@ -1,0 +1,9 @@
+{
+  "name": "Fuck the Kols",
+  "symbol": "FTK",
+  "uri": "https://ipfs.io/ipfs/QmaeqjVXU2baSf3vDfAE2EeuvmRZFcXmkRUqdqEcLZqGfQ",
+  "mint": "AntwybeKuFf349WN3yQnj2pJFuMMwCWWFKA5PHR2zbZu",
+  "bondingCurve": "Bh17cfNH5f6BX82ZmNFwBhRkRf4H3rSxtwP6nrEAWwq3",
+  "associatedBondingCurve": "5yfYGnB4tVMXEwAogtxNVZMEpSP9gHM4vv98gUSVBrhe",
+  "user": "GnGopWsKCZxYryhiHfAogBk6wHRmUhFgQ6ZdNgrP9hCc"
+}

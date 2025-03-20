@@ -1,0 +1,9 @@
+{
+  "name": "shiff new coin",
+  "symbol": "NGD",
+  "uri": "https://ipfs.io/ipfs/QmcH2wtXhXUzbfaawULPgRCjgdZXjBqTEmjnLZGackNTej",
+  "mint": "7TSY6ByQ1LTyZjpJdcPpN3Q4cxiaZQVNSjV7Yp5EqdTv",
+  "bondingCurve": "B9JE8gTzNcz9bu4ZCGmKfRiqd1QYfjQUSNnU6rxQX6Cg",
+  "associatedBondingCurve": "HXNwnbvq3P4WW5iyYZ6Q6HEMjzk3M5RJxJ8bjHbjR5QZ",
+  "user": "MNhBbrscBPmeid54buiqSgyWa4D8PY6uKHoK2wJsTJN"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Hornadia - AI Girls",
+  "symbol": "HORNADIA",
+  "uri": "https://ipfs.io/ipfs/QmXuQpMLNYYnPM3ajsM7TXVigMkaWwZd57gTQrtRukC1TF",
+  "mint": "BVmxLdw5jxUje5EKGDfoT73XYH8RnkpuKzGGmouGpump",
+  "bondingCurve": "BknwPhGGT7frK5hHMbyhW5aBRmXkP1GnNigkdiN3ZH14",
+  "associatedBondingCurve": "6BcBjES1wLNibq3hmRtwPJhgGLB5zbxzhMSX4tGV3Qhk",
+  "user": "FQPk3WmeXTfD1AYwMN8xEeVNoZfimjrfrC1GGxkwbnFp"
+}

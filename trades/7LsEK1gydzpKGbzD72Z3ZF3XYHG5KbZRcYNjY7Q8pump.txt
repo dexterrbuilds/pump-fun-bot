@@ -1,0 +1,9 @@
+{
+  "name": "sassy",
+  "symbol": "sassy",
+  "uri": "https://ipfs.io/ipfs/QmP8gNrxhLcAzh7kT79rf9NgL1Qe947yqjE9QEm2gPyvct",
+  "mint": "7LsEK1gydzpKGbzD72Z3ZF3XYHG5KbZRcYNjY7Q8pump",
+  "bondingCurve": "AcpFtG5Jdr9PmrGYtEAp6GvFqeu6etURM9dPGedriAmv",
+  "associatedBondingCurve": "2k6YYueoeVbb3coekJiwsbQhasYV3qexxdB1jvRAnen7",
+  "user": "J3g36Sr4vuyANovqkdfP9L9ttUfqVHDzb69kqGGEGU1W"
+}

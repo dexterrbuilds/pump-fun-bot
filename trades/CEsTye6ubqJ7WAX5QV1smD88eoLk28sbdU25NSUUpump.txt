@@ -1,0 +1,9 @@
+{
+  "name": "WOMAN OF THE YEAR ",
+  "symbol": "laufey",
+  "uri": "https://ipfs.io/ipfs/QmTR49j4gFMqwPBocXwKch66hTCTcmX5e2ZqwPHh7bgY6r",
+  "mint": "CEsTye6ubqJ7WAX5QV1smD88eoLk28sbdU25NSUUpump",
+  "bondingCurve": "2vFmoPymqBnzmpcwh1MbiiHvkgRuBPPas1kCmqshawm3",
+  "associatedBondingCurve": "4wnwXrSm1dxQ78QeZnsTEny4xt8itJEgqrbYDeZ7M9eV",
+  "user": "2sZY36LXyMcSmUdYePnSX2jURcjBW6PqdZSt679Guzs9"
+}

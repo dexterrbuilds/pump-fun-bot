@@ -1,0 +1,9 @@
+{
+  "name": "NEW NEURALINK CAT",
+  "symbol": "GEORGE",
+  "uri": "https://ipfs.io/ipfs/QmPQnLAEkm9GZBfbMVnrbvojxqk5pmhZZy4nBsDKg7vW3U",
+  "mint": "8ysHuemdPvBErw2jay6XaKMjoVCaDgb3nhRtSvbWpump",
+  "bondingCurve": "FnUgAKSvmvftsFa7We1znVnuPcsxT49x7abHcz35cyEi",
+  "associatedBondingCurve": "8ZfGxF4zVzgJrLy8AAkVHfrhCnCHTzFuaLbFxMqFFQDk",
+  "user": "3JUDMUmbdeZDJ3CtUEESbGJQ5ekMdiTXvwjct3wUEnS1"
+}

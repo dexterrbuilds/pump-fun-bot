@@ -1,0 +1,9 @@
+{
+  "name": "xAI  team!",
+  "symbol": "xAI  team!",
+  "uri": "https://ipfs.io/ipfs/QmWDvkpT5dWrURaBpg7MhsTV1tJxCWMfyTd4R5k7bJmr7C",
+  "mint": "6QDQj4Na99GozkcQF1B5aUJMUkUnw6tbFGHQJmGcpump",
+  "bondingCurve": "HmepkFRC9EwpW3dAg8xPgFgYXTuV19Vctv2gxtTfMiLB",
+  "associatedBondingCurve": "2xZTH16x6AqWjwVa7bVNWQA5B9FS2y11G7b3hGgmTR8w",
+  "user": "89kTJwXfSd264eQUu9TRWZgtbBgRwt3DSLCGcwE4qPts"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Meowmute",
+  "symbol": "MMUT",
+  "uri": "https://ipfs.io/ipfs/QmazHH8zHwDogpKMvWihG4judkpe1jb45fGdH3CtirmTgw",
+  "mint": "2P5FQndBWU38kqjn5rJCKftqGfgosmJhKcr8Uh9t771Z",
+  "bondingCurve": "3URPz3ANkFLB6548MkyCAjyY5MkmbvLVmkypF3ZWpEqZ",
+  "associatedBondingCurve": "FicxWQaGeu8e7RDva5MABvrQvGeGiT3xeRqmtRioTAFx",
+  "user": "FHz51mGr41EKrvXPjc6h19oXuqxDynVdN3wEMnnGiEZN"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "FIRST BITCOIN RAP SONG (2014)",
+  "symbol": "RAPCOIN",
+  "uri": "https://ipfs.io/ipfs/QmQEat7AxrVVAo62whbrqx9f6mj5aVaF4xBoMmGirnnhcL",
+  "mint": "F7g6mdeiowdGsU1K9rFbpBC9pva6yRYVRYkRTHaVYoJe",
+  "bondingCurve": "BM4bsmCiQmPRutmjfiTNfArfnLduLCg1g6NP5UKLB38p",
+  "associatedBondingCurve": "6iRrPEae94MeNb6Nz6mKAr7byZVQj1VEHgKXbjERZGmG",
+  "user": "2qBPJL37B25Kdb2XpjW3aqERhcfN5e8o47BLVLuir2xr"
+}

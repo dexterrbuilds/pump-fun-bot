@@ -1,0 +1,9 @@
+{
+  "name": "CRYPTO CARROT INDEX 6900",
+  "symbol": "CARROT6900",
+  "uri": "https://ipfs.io/ipfs/QmPnf6k3GY18Yyw3DwKQEFvQJjtkEaeErdyJAeXegwgvLk",
+  "mint": "9AbDwis22w4Vp2ypVMFFREQK3DRdaWUAmjpXxur2oyb",
+  "bondingCurve": "8X8d8cCeAEagzDsvFsZqnS1xi7icozMdqrNCxsPA4d9J",
+  "associatedBondingCurve": "C66dui76854fwVsPLRFToSDZHjwV3zdVLWZ8pQDENvs",
+  "user": "C4udGwTg6oqcrr8SmSLmkcXDbaFEcopsiaT21KUE4psU"
+}

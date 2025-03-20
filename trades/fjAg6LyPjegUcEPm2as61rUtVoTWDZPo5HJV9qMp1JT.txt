@@ -1,0 +1,9 @@
+{
+  "name": "New BTC Mascot",
+  "symbol": "BADGER",
+  "uri": "https://metadata.pumployer.fun/data/a0a9c6b3-86a9-4cd5-8844-0f1f6b14507b.json",
+  "mint": "fjAg6LyPjegUcEPm2as61rUtVoTWDZPo5HJV9qMp1JT",
+  "bondingCurve": "CmqHtGTVTB4fWh5Hpng33siZWp2KNfPUvyLJy1AKwf78",
+  "associatedBondingCurve": "DSDoCQeNnUEBVmbv9S2dqePgFat4qaNHTi5mWGyGf85y",
+  "user": "6d22FozaKK239PoBYVffkYKA1QPQZE8fC7AQkpmHQfjp"
+}

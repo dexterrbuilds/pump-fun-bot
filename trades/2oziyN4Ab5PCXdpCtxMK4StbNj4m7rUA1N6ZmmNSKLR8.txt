@@ -1,0 +1,9 @@
+{
+  "name": "Nick Ducoff (@nickducoff here)\r\n",
+  "symbol": "ND(H",
+  "uri": "https://ipfs.io/ipfs/QmXAWDVGnTATEzmZmzZo7DnUy8eDrBNxkLTeJxELXcGY4L",
+  "mint": "2oziyN4Ab5PCXdpCtxMK4StbNj4m7rUA1N6ZmmNSKLR8",
+  "bondingCurve": "4W4Ms22xVvTwXmNRgUc4r9HAmgqWDEnkNx8cNboVF8tD",
+  "associatedBondingCurve": "A6XmHmGKmMK5aFWvkkG8P4sGsJYGfxJ3ZM8o3uL3yEoY",
+  "user": "Bx7SLBFceTJLrqcBFisb5NmmFCFtXQSm4o1oYpCHuhB9"
+}

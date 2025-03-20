@@ -1,0 +1,9 @@
+{
+  "name": "Iantel Eensaid",
+  "symbol": "IANTEL",
+  "uri": "https://ipfs.io/ipfs/QmVWiJVW76GToVAc9aHTAb75wATQnENy4vMBJ8G839Ct4i",
+  "mint": "APs7Yjr9FEEx1KGGAiPisMggXfedkpC21pxzNimBpump",
+  "bondingCurve": "2gwYerRLzaArN7Nr4PF4ccMLE7P6V5kbR5K7Vy9LpUyV",
+  "associatedBondingCurve": "9phUybWcnQSb71kzk8c5vVjWdGGyFHmBW7EZLSu19rQJ",
+  "user": "C13yFM54vpssU5jpxUM5tU6zjZsHgn4sdNDsp7Zkvpbw"
+}

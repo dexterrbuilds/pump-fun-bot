@@ -1,0 +1,9 @@
+{
+  "name": "Niggasoraus",
+  "symbol": "Niggasor",
+  "uri": "https://ipfs.io/ipfs/QmT1y9ATthhryj1yn9qojV8bWGf7s4nZRPiSbRqj8znA5C",
+  "mint": "muviZr1SBJwuBYzYnSqQhwoWykuwsCGejEpXVsgbcEK",
+  "bondingCurve": "5zEFLWKLFDyHoNLceEZF8aNmqLvuHkAuoLXL3n2DFTze",
+  "associatedBondingCurve": "6onZyXjRSQswoFpVzCgtmvq1Vwq128KN5uDH7eh8CaVE",
+  "user": "2R6aHvyWEBpAtTKoWPxjXfC1FGvTXNe5id6EeHEZhZMx"
+}

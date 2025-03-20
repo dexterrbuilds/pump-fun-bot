@@ -1,0 +1,9 @@
+{
+  "name": "irst Animal Token (2010)",
+  "symbol": "WOLF75",
+  "uri": "https://ipfs.io/ipfs/QmTxaD95wGMLtgWM4WWqEGSmJBmqtMuTiKhyjx3VFYzGLf",
+  "mint": "1YMzUwFoaX73T1x34PmRJ6eB4jw79qRH313M31tpump",
+  "bondingCurve": "DdxiwybQQ3oiqPtm4nvoMr3R5U1qdYqqwotEB1TcUQwS",
+  "associatedBondingCurve": "7QqskKbEzs8LXzZ9CNEu32Lr7nrWH5KBaeAzGDtdfrtH",
+  "user": "A2R4C6gWgDJecpGs6H5ofBjjmyDVGkV6v38487Veq1ic"
+}

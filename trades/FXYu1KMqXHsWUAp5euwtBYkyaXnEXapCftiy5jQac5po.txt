@@ -1,0 +1,9 @@
+{
+  "name": "Challenge GYM-STREAM-KICK",
+  "symbol": "Pushup",
+  "uri": "https://ipfs.io/ipfs/QmU9ahC8SD4WQ8x419mJidhq6NoXgmE4V5cZhaiDTSiP3e",
+  "mint": "FXYu1KMqXHsWUAp5euwtBYkyaXnEXapCftiy5jQac5po",
+  "bondingCurve": "4bMjVGMicgoUNYS4ThXmEdkpU5sqj7TMsbY1Pvajmhvd",
+  "associatedBondingCurve": "B7jReLqTn2qjftUe4WCR82anbT6quRuiuob1F7Ynuvwa",
+  "user": "Sp8cDeHBu2EybZcfziEUk2uf3cMD3HkGFKKqTuX8ExY"
+}

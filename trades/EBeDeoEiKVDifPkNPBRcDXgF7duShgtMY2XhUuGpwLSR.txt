@@ -1,0 +1,9 @@
+{
+  "name": "Pi Network US",
+  "symbol": "Pi Net US",
+  "uri": "https://ipfs.io/ipfs/QmPUDyc8vD3fY5uUXsgxgBcEv5BpifW6xGcMJwTA8XZD1z",
+  "mint": "EBeDeoEiKVDifPkNPBRcDXgF7duShgtMY2XhUuGpwLSR",
+  "bondingCurve": "9pfu3z1nk915pZaFfPYaEPE2rsyCDXwZAYHJi4hnHDCr",
+  "associatedBondingCurve": "BC8oh75ERqLpX45W2gv4AVvjTnPn5wnpRBhKxa4Jz3ss",
+  "user": "5hSWosj58ki4A6hSfQrvteQU5QvyCWmhHn4AuqgaQzqr"
+}

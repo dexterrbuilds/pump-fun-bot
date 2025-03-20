@@ -1,0 +1,9 @@
+{
+  "name": "New Youtube Mascot",
+  "symbol": "Paja",
+  "uri": "https://ipfs.io/ipfs/QmdofgVnj11BtVCwZJbX25t9fWXv294JQ675tEJGPamkZ1",
+  "mint": "G3azDTZx83oLNQHpDYuJcxLUDDsShTPUzfJy6s7Spump",
+  "bondingCurve": "HywvWKy2xggQdNKmMrWdFWRhDZJDaiwoNeeh88XVRKYE",
+  "associatedBondingCurve": "6VZnamDbPEXodGNEpXRNtRJvXEZANMKBQumZCQ48131i",
+  "user": "3JUDMUmbdeZDJ3CtUEESbGJQ5ekMdiTXvwjct3wUEnS1"
+}

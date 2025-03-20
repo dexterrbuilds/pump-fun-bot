@@ -1,0 +1,9 @@
+{
+  "name": "CPAC2025",
+  "symbol": "CPAC",
+  "uri": "https://ipfs.io/ipfs/QmWUoDsQvX72yLZRBqi12c2RaFjHKbzwFne56pYhEfkksv",
+  "mint": "8nnDQkqDDKjVLqPXv7RZCasNZx5bXT4wyshJBVeT75ny",
+  "bondingCurve": "EVmAQU7ytTJMreBPPZaPS7XtT4pp6EeDqDnn6Zynio5R",
+  "associatedBondingCurve": "34Rsy73uQnQyvsi8bHQpt1PMfHoWTwpQXb4An9PhNGKC",
+  "user": "7ZJmAdXyLub4hg8xYNN8kQLCwRgVnFJzH5F34JEZa353"
+}

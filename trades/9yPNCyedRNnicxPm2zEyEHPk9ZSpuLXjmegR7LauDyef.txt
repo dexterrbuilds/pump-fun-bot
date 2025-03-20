@@ -1,0 +1,9 @@
+{
+  "name": "real carrot coin",
+  "symbol": "carrot",
+  "uri": "https://ipfs.io/ipfs/QmPWm4dbuA9XCDxuQGHkQNCn39Vosa9JxgWDGSaeAv8nm7",
+  "mint": "9yPNCyedRNnicxPm2zEyEHPk9ZSpuLXjmegR7LauDyef",
+  "bondingCurve": "EVj7sGS6XhUdCrGDwaMW7QGx1ctptRRNuDSG17QcNyh5",
+  "associatedBondingCurve": "8d3acovhAYRjkoXMRkQJRDU4KNCsUonWH1cgEUsymw2F",
+  "user": "C8wnUyNkmjQVshzFdHyTqTqwtGDVAa7eW1L72aDgygyM"
+}

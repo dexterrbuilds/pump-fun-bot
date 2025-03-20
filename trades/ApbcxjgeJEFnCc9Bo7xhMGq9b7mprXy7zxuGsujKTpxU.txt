@@ -1,0 +1,9 @@
+{
+  "name": "Saudi Riyal Symbol",
+  "symbol": "SAR",
+  "uri": "https://ipfs.io/ipfs/QmXZLPXY1vC8182eHY42ZgCitsL4CSSzYjsuDmCf2FSjmV",
+  "mint": "ApbcxjgeJEFnCc9Bo7xhMGq9b7mprXy7zxuGsujKTpxU",
+  "bondingCurve": "Frea39GE4PHyqEFHb76MLnSrimNsSZwp2PuRCssdwVy",
+  "associatedBondingCurve": "G1ZRLvWPoQzjUDS32c7LkF2VDsS7RqQLZPwpSMDHc9M",
+  "user": "ATGGHErC2AWQ1Pw9HdMhLoHu2NsBhdfuGapJVztzRcFx"
+}

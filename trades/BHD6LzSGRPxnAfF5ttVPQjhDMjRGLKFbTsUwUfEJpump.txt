@@ -1,0 +1,9 @@
+{
+  "name": "GTA VICE CITY",
+  "symbol": "VC",
+  "uri": "https://ipfs.io/ipfs/QmWuRGikJzwK1VHkCJoGVXjXzfpP4ySqByV6ovuCrnz4Ti",
+  "mint": "BHD6LzSGRPxnAfF5ttVPQjhDMjRGLKFbTsUwUfEJpump",
+  "bondingCurve": "2JoJAaoCmSUWomtGngom782NKydMDB2xtchAzPRmR2Pn",
+  "associatedBondingCurve": "FLDaLHKzPatwLbxR6buLT4MmuWbSuZp695SWLKSDp6EY",
+  "user": "7VHEGZqbv9jDGxd6rtLDu4LbiN35VLEsEER2tToJ4799"
+}

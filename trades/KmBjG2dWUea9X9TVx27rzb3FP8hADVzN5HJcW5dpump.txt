@@ -1,0 +1,9 @@
+{
+  "name": "Grok",
+  "symbol": "GC",
+  "uri": "https://ipfs.io/ipfs/QmZ9TFp22WPFZvG6v4LdH5Khm1PKMk4xV4BbGx8btnpfDP",
+  "mint": "KmBjG2dWUea9X9TVx27rzb3FP8hADVzN5HJcW5dpump",
+  "bondingCurve": "7YeifDuSfEmL8xnaP9VKbCxEcBt42ZdTm3BaTdi2Scd5",
+  "associatedBondingCurve": "Hg8oe2GXXZduXhsNyC7n16xdVaddchR34p5SMzD7Vaxb",
+  "user": "HC94KFmtybzoeVVvRfDvCfMchg5ZEKw5K4on861SZfTo"
+}

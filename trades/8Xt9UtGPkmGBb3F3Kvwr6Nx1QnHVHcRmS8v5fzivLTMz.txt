@@ -1,0 +1,9 @@
+{
+  "name": "CETU LOGO",
+  "symbol": "CETU",
+  "uri": "https://metadata.pumployer.fun/data/d652791e-2642-4feb-8f08-542706ed2f42.json",
+  "mint": "8Xt9UtGPkmGBb3F3Kvwr6Nx1QnHVHcRmS8v5fzivLTMz",
+  "bondingCurve": "YuEEi2h7QbvL3Z9DJdSkit2hoMWcKYX1EaXbRWQUTsX",
+  "associatedBondingCurve": "3kereojgXFDWbFmLcuGKTZXsQKCTa7qznzLLFMQPutoW",
+  "user": "6d22FozaKK239PoBYVffkYKA1QPQZE8fC7AQkpmHQfjp"
+}

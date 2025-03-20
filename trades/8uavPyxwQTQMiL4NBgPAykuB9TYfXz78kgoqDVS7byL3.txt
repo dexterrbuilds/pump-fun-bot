@@ -1,0 +1,9 @@
+{
+  "name": "MAKE THE TRENCHES GREAT AGAIN",
+  "symbol": "MTTGA",
+  "uri": "https://ipfs.io/ipfs/Qmatp9oZm4BUfsHPxctuwP8NDrbiUwodpCScncb2G5RFE2",
+  "mint": "8uavPyxwQTQMiL4NBgPAykuB9TYfXz78kgoqDVS7byL3",
+  "bondingCurve": "G5C6DVhRMeUEDcq8Cr6biQMErT1X9dd4jDdiXjXDcFLp",
+  "associatedBondingCurve": "3Eq2PeatBBAzSFgz5AEAZGf1fkA7fQX8rL1ZnQUobeya",
+  "user": "4Kr8wN4b5VV3p9B9oxdE737oqm2d5pPm7JtLsDpdNKNz"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Roblox",
+  "symbol": "ROBLOX",
+  "uri": "https://ipfs.io/ipfs/QmP36KmmaEVYkcsRhktbnr9vcdJRJLx9cSRoMsUUR1mCF4",
+  "mint": "BYqtbwkSd1FpbTJmVCPp5UgRw9EAJd6VSSD5ohG3pump",
+  "bondingCurve": "poC7fg8cWVvcFLDhU3NP3ddpjCtUJSS4ksqX1UNZ71B",
+  "associatedBondingCurve": "25vHQ61K2Fzgs7gg78TkZqUsgdgKwtM9btPtvT6Vg4yC",
+  "user": "A65auzSs2ZoBEnBuGdUyJKihgNpCtM3XhGrPC7QZqxZz"
+}

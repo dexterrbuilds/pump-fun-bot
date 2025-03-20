@@ -1,0 +1,9 @@
+{
+  "name": "JUST GOT DOGED",
+  "symbol": "DOGED",
+  "uri": "https://ipfs.io/ipfs/QmcPswJY44yFrUbV14rXrj1Q5kvvae4bTCcMzmbR7YFqTN",
+  "mint": "6fB37gw1EyK9CRLpVFp2EFuhGsdoS9nNswC88XvxHHWq",
+  "bondingCurve": "DygxitPy8xtJtKQCBhoAUGZnW5bPJJ8Q3UCgz3jwbAhg",
+  "associatedBondingCurve": "2Efe1fupfBT75LcrMZWMdAS9ZUT6URe9vewkAErtPSix",
+  "user": "Ay7FbRRTajACfmp5ERbmXAAFT7N7SuP1AmQDtyRyZFuG"
+}

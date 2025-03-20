@@ -1,0 +1,9 @@
+{
+  "name": "The White House Washington ",
+  "symbol": "TWHW",
+  "uri": "https://ipfs.io/ipfs/QmchfDnw5JoBmY3wNZyMTTydVMoSp2W8iqHVC8C5cXTjzz",
+  "mint": "8JCfwaxVUHA5DSHt4V8Bs6YE37Di7KxqFML56sURpump",
+  "bondingCurve": "8AFt7CHKhs1VfHQWrUGShovb9qmybPpAK1jVwYCJAeYa",
+  "associatedBondingCurve": "HBfhLZMVa7LctKozkGvyqBKdtKLmabN9AQkD61W4QGTn",
+  "user": "DdCcvMcdK2CUG1NcrA2pdnG9NLKu3qFKw8EQzgpsHdod"
+}

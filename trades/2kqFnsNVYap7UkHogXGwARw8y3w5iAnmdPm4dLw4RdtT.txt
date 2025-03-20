@@ -1,0 +1,9 @@
+{
+  "name": "GROK3 OFFICIAL BLOCKCHAIN",
+  "symbol": "SOL",
+  "uri": "https://ipfs.io/ipfs/QmaWXHbVHG2iVw6ZMfzyFBhQ4TexVWwievND3H4PhQmD3y",
+  "mint": "2kqFnsNVYap7UkHogXGwARw8y3w5iAnmdPm4dLw4RdtT",
+  "bondingCurve": "7fbPmBykgPnMyCnsWdPrWERXKegxajt7hX6dnYfANCLV",
+  "associatedBondingCurve": "4iznunKgAoKExBcsKxPvZgHdA6vJTUrfRdL94mSSgJxH",
+  "user": "DbDHgTtRNogMZJBoeUTV1WuQB7FsYa6YpdBNZ2vW7MYx"
+}

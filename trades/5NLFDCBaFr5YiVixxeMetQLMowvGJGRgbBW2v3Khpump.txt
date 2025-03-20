@@ -1,0 +1,9 @@
+{
+  "name": "First Bitcoin dog",
+  "symbol": "clark",
+  "uri": "https://ipfs.io/ipfs/QmT5QbYA2kxdA64ayGjdN3TcJMpVSMAojw9TV9UWee2xSX",
+  "mint": "5NLFDCBaFr5YiVixxeMetQLMowvGJGRgbBW2v3Khpump",
+  "bondingCurve": "6C55FVjNwfC2X29LDWrxJV32dS9vMaCawUVg4NfCihok",
+  "associatedBondingCurve": "H1EbvrxKPpfXAM74iuQGsDPtqKgJ4rsb2qM9UFoPFFuu",
+  "user": "C3MQQbkt8MR8tbtZxz4jw3sCrnGf4yVDtr2S7Li83z7T"
+}

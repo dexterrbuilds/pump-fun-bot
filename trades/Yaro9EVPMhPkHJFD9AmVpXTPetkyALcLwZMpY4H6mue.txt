@@ -1,0 +1,9 @@
+{
+  "name": "New ETH Founder",
+  "symbol": "COBIE",
+  "uri": "https://metadata.pumployer.fun/data/39dd784e-d853-4578-b9a5-411f55f3c4ac.json",
+  "mint": "Yaro9EVPMhPkHJFD9AmVpXTPetkyALcLwZMpY4H6mue",
+  "bondingCurve": "9PyxCqRzeHcXVYZ5r2BVg73Cv4aZ53Y5Sj7ukRCxEsxH",
+  "associatedBondingCurve": "6Jp2BHQLmbXgxP8mfCZsftgrm57MHPT1dJbbX2ZvHF49",
+  "user": "6d22FozaKK239PoBYVffkYKA1QPQZE8fC7AQkpmHQfjp"
+}

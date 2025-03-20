@@ -1,0 +1,9 @@
+{
+  "name": "NEW SEC QUIZ WIF FART",
+  "symbol": "FartQuiz",
+  "uri": "https://ipfs.io/ipfs/QmQWJU1y8DQyqtbpz4bmFDnEhHJjc1U3tB5sLRPpVXN6WE",
+  "mint": "8LNNzCM5bBqmiFzKk7SGBD2Vx3YQCwDvCi8WNU79pump",
+  "bondingCurve": "FQ5V8cysCXnYBYXv9GPfdCK3RX8i1zfHLqiwR5LeQFg2",
+  "associatedBondingCurve": "FChu7LtBszRo5GFaYzjSzsbg4rNcrCCrUyzB5uRMU48Q",
+  "user": "3JUDMUmbdeZDJ3CtUEESbGJQ5ekMdiTXvwjct3wUEnS1"
+}

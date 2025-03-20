@@ -1,0 +1,9 @@
+{
+  "name": "CBDC infrastrucure",
+  "symbol": "CBDC",
+  "uri": "https://ipfs.io/ipfs/QmQWaFCy1AQ6NESXPSXiJKmUZM4ahut9eaejxUhyoe3vQh",
+  "mint": "6VqtDxR1LDk1r5N54PJFLtehoE9hK74Zt7qqfP11poX7",
+  "bondingCurve": "7WQBhWrYTwgXiQngwu6cr4xpDHU8iccx3PTPHNqZhc64",
+  "associatedBondingCurve": "8bmbWdfDtZ65jwr3c62GttCctTdXUWJUCEXqukKs8M8c",
+  "user": "MNhBbrscBPmeid54buiqSgyWa4D8PY6uKHoK2wJsTJN"
+}

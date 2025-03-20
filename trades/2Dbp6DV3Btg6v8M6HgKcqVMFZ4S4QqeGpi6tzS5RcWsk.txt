@@ -1,0 +1,9 @@
+{
+  "name": "Galactic Shiba",
+  "symbol": "GLSHIBA",
+  "uri": "https://ipfs.io/ipfs/QmX6CNvn6s9sAqudixXF4cxY9PF58EmZgfU2PdynzJYLsT",
+  "mint": "2Dbp6DV3Btg6v8M6HgKcqVMFZ4S4QqeGpi6tzS5RcWsk",
+  "bondingCurve": "EFhGXzR3qtJZRzmLKQ5xmRZYcs63zycsGFqLbetfyNaR",
+  "associatedBondingCurve": "8pip824zfLWsEgcN1n6uPdH3ZJG4h2ZqJuNsEpnLHouU",
+  "user": "CNZCrRkiE3HHtS9ay1pB3E5AhrSjzd9L92Li1ut2b6i8"
+}

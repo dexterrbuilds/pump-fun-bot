@@ -1,0 +1,9 @@
+{
+  "name": "Cow Shark",
+  "symbol": "CSK",
+  "uri": "https://ipfs.io/ipfs/QmdizYuF1UcVm42NrFn3ScWTDPVJfdnRWqTSzh9XjZNDxx",
+  "mint": "DGBmGsxYoDR3Tp6te4SVCUtbMmnrCW7byd57unyNeVP4",
+  "bondingCurve": "5CscPk5KuxzKQHQLfmG8gsG364JgPjbUEpnzbJub5yoo",
+  "associatedBondingCurve": "2qoVufRhVW1fh2jrQr7rL6xRhcd9eveHjSmDSeqyME2Y",
+  "user": "32HGy2gBY4ZRcZxNgoLXdRPPp7g4PQ9ZsguaG8efSstY"
+}

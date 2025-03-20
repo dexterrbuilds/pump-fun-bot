@@ -1,0 +1,9 @@
+{
+  "name": "Franklin Crypto Index ETF",
+  "symbol": "EZPZ",
+  "uri": "https://ipfs.io/ipfs/QmZuRiwRfwce5zdWFZY9chJ2Ud7fvsEBVN6Vu8ddfmnQ3n",
+  "mint": "45xs2C8vGVnH3UptyRNWEfbxtKxCRdhsKBfJ3djzMAfR",
+  "bondingCurve": "UrhvJFFcfTLgtuWH2eADuL2CpwHiSpG8fp7VjnziPV7",
+  "associatedBondingCurve": "6uZRQcAQuyp344dhqqdvS78Z4hoqQNvng5WUCgaGQPAA",
+  "user": "BQ4Ymrg5g4ipoTqgY6myvPjcq5k7aGGaQCU3vL9aUpst"
+}

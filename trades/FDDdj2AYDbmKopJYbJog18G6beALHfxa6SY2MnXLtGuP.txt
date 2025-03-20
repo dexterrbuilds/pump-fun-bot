@@ -1,0 +1,9 @@
+{
+  "name": "12k=shave my head",
+  "symbol": "LIVE",
+  "uri": "https://ipfs.io/ipfs/QmWG84GGKrGxHhdyFB8BDiE7k3spvyBsTvxN1eWVQewdUD",
+  "mint": "FDDdj2AYDbmKopJYbJog18G6beALHfxa6SY2MnXLtGuP",
+  "bondingCurve": "2HprtGUd4MxoRxskB1JQZWP4qgzsoxZ82WGywwADMQVs",
+  "associatedBondingCurve": "CHh2sUzY4aXFLJTnPgSJTmSMUKksrd9dYmxeXArh21dE",
+  "user": "8otZtMu9MuZzJBneoLrB1FvLhU8bYd6dCJbi5PqALCM"
+}

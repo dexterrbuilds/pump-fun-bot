@@ -1,0 +1,9 @@
+{
+  "name": "PUMPY",
+  "symbol": "PUMP",
+  "uri": "https://ipfs.io/ipfs/QmPyoPPHXXg96QL1BjDQEpESzKkV7ynqtRPhwrsDUsWRim",
+  "mint": "2Sc6Xwb6xG8qbTe2D9SazuYXnxrRzWjXAXrxaikSnGEr",
+  "bondingCurve": "H8xuak2rnzs9y23PBCmbxeoypfwkdHoaVEVPnN6r3Kdy",
+  "associatedBondingCurve": "AEEQDEUABUEMbLFFzitm144kMNe5xwicSvqQB8chSxc6",
+  "user": "Exc8WfyFA9AWUwMXe9owqfjRoFZq7y9LJ2Ggsn3icAEG"
+}

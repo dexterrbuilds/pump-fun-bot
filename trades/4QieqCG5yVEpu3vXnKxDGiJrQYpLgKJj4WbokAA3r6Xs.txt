@@ -1,0 +1,9 @@
+{
+  "name": "Cat",
+  "symbol": "Coin",
+  "uri": "https://ipfs.io/ipfs/QmSagvhNUnqgFmGtShTGHZQZAsgXJ3LHLk5EZPiBWUKZjb",
+  "mint": "4QieqCG5yVEpu3vXnKxDGiJrQYpLgKJj4WbokAA3r6Xs",
+  "bondingCurve": "DFRN5xPbYetbNRzVZV4eFLCRwJKJCJnuMzMcyzWUAmDm",
+  "associatedBondingCurve": "4TLCirXSHDY5qM26BoJ9D31zhXDiG2Ug699KrE3QM11r",
+  "user": "AgG9kETZo6HUWYcxAwWCdEDZuoWP1xozG6T6Xw6fMPSM"
+}

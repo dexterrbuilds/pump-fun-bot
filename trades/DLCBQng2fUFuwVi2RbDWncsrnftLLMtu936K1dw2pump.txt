@@ -1,0 +1,9 @@
+{
+  "name": "compuKter",
+  "symbol": "compuKter",
+  "uri": "https://ipfs.io/ipfs/QmNUYMX8cPDEbTLGfTmJT59cjwM9R6yrFNdYTjJqWFKkfr",
+  "mint": "DLCBQng2fUFuwVi2RbDWncsrnftLLMtu936K1dw2pump",
+  "bondingCurve": "8GJkenCVFQXvGBERhHDP72PTvEGRQ8q5K6bxWQJpwF7G",
+  "associatedBondingCurve": "3tGoBQ8GqiXHvSUUVZizqiBapnb6y8CFsuLFWSMt8L8K",
+  "user": "HmzNczBarB24yZVvpbBMMMrwD2ksgJCsKTRqdSXaWLGH"
+}

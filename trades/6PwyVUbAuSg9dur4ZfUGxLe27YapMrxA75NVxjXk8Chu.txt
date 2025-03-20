@@ -1,0 +1,9 @@
+{
+  "name": "Teslafart",
+  "symbol": "TESLF",
+  "uri": "https://ipfs.io/ipfs/QmdMSW1uL3GnYZDy4atwK62BtUHkbym6isCjdEJ5DgWvKm",
+  "mint": "6PwyVUbAuSg9dur4ZfUGxLe27YapMrxA75NVxjXk8Chu",
+  "bondingCurve": "13WKm2qkxRk1LnADcm1Z2sD2xbguBNSQUks9SCz4AzBX",
+  "associatedBondingCurve": "BAxDs9vKaUMbZwA9mSJyb8CL5SZ8oUHmmmbMhwTT1Jc4",
+  "user": "AghyU6idjwxMkG32MNQQni6ez7xZkeWzwtXBrB73DvSW"
+}

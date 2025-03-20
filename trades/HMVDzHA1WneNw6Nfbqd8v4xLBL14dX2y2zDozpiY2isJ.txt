@@ -1,0 +1,9 @@
+{
+  "name": "9+10=21",
+  "symbol": "USTUPID",
+  "uri": "https://ipfs.io/ipfs/QmSo3eERYUPu6EK3pZa7sa2WKur6G5uehfAv3YyVHsct2q",
+  "mint": "HMVDzHA1WneNw6Nfbqd8v4xLBL14dX2y2zDozpiY2isJ",
+  "bondingCurve": "9CuNvGARCRggozqogYm5ccmFcF8HGL4WMsB9sh1ATr4G",
+  "associatedBondingCurve": "BCHrYtt4u47cQ89RMwrdcYnxExsWGvwtidVCN1LipFBC",
+  "user": "Sp8cDeHBu2EybZcfziEUk2uf3cMD3HkGFKKqTuX8ExY"
+}

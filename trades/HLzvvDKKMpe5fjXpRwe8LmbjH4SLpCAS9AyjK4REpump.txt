@@ -1,0 +1,9 @@
+{
+  "name": "1st Memecoin Suicide",
+  "symbol": "DANNY",
+  "uri": "https://ipfs.io/ipfs/QmUr7ypVarqRH6ZNPbp5TMcnieFTHAqG4LKZ1wvRkm8AaP",
+  "mint": "HLzvvDKKMpe5fjXpRwe8LmbjH4SLpCAS9AyjK4REpump",
+  "bondingCurve": "CFHyp3xTBQbZ5iBxqaMHj4jnkt7A5Vdy8n8mAaeUGodQ",
+  "associatedBondingCurve": "HwWrWXPF9wHn8dudniqzN5UsQsXSkkfUvewKxxgWM5jk",
+  "user": "3JUDMUmbdeZDJ3CtUEESbGJQ5ekMdiTXvwjct3wUEnS1"
+}

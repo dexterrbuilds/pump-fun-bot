@@ -1,0 +1,9 @@
+{
+  "name": "HurleyAI",
+  "symbol": "HURLEY",
+  "uri": "https://ipfs.io/ipfs/QmNaABp5yVCLSffPb7XvgVnCC7rCTpSZLmT2Ap9LBGJkew",
+  "mint": "4rMrY8sqaCjPfn4VJPZFDmLC5F8h6qs8fXcVkVw8fT1S",
+  "bondingCurve": "FxLKUVQK2XWbx4yBk26jMjEo5Y7T1yu9pmYq7z1aKU2d",
+  "associatedBondingCurve": "5WU5WBcj97s7rQCHZB54LzkWKLUeRU6eqSnUXqPJrZVb",
+  "user": "GFPcNVVBmCBCzaoAhjeGkp1w4ugKKRVw3Bp7t55S5VXr"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Let it GROW!",
+  "symbol": "LOREX",
+  "uri": "https://ipfs.io/ipfs/Qmd8Xp4iWLZEz8KS4q95X4Qsrp7PU1e8nhLMkZTJoc3dvU",
+  "mint": "FD3Z34UD2GPr1SeVTpxewhWXVuwzqRhRsXJEAHA8pump",
+  "bondingCurve": "HrkY1pYPMG1qwCqLKn41NDVu5rfneU5FvQctpiZt7jcp",
+  "associatedBondingCurve": "AgTNwbdX4cQBSkkbgv8ib64haj5c1LwGLYkFucmyjxH3",
+  "user": "CQXsneHRL3ZqTuhP3p42xisZ4RsJfXyCGxTBFDojNE69"
+}

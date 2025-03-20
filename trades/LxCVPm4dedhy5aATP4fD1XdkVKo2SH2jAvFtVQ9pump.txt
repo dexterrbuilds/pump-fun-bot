@@ -1,0 +1,9 @@
+{
+  "name": "COWBOY COIN",
+  "symbol": "CBC",
+  "uri": "https://ipfs.io/ipfs/QmXgzUEVrVCYPsZ3xgdQ7TzWDgvQ6wKPDXVd7VBGEGhgDu",
+  "mint": "LxCVPm4dedhy5aATP4fD1XdkVKo2SH2jAvFtVQ9pump",
+  "bondingCurve": "FD8Ax27wGJZMnqJeBEFnj7JqP5AYbLGSzmTP8gXxTgWH",
+  "associatedBondingCurve": "FoqZp9NznpEDLKT63QFHmzWFcPm5ie7z1xPibGt8qBsg",
+  "user": "HC94KFmtybzoeVVvRfDvCfMchg5ZEKw5K4on861SZfTo"
+}

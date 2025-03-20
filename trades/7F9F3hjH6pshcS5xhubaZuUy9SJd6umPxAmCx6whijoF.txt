@@ -1,0 +1,9 @@
+{
+  "name": "new james bond",
+  "symbol": "GREG",
+  "uri": "https://metadata.pumplify.eu/data/QmNxm3fxqbbhyF8PqVPSETxytQsSdAPu6bxTvZYtdy3YR3",
+  "mint": "7F9F3hjH6pshcS5xhubaZuUy9SJd6umPxAmCx6whijoF",
+  "bondingCurve": "9kCGSyt79h8G6D8GqNKB8DE9mXLE1muZoLehAPkmdZxZ",
+  "associatedBondingCurve": "Gyv9odEyEoW4m6fKa4q3RmYjktkfXNqyyPZXnKXqc8fp",
+  "user": "C88rn1cz1PcRJFh44TuynaWbnRis4xuBRi65sD1Nwxog"
+}

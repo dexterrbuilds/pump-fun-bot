@@ -1,0 +1,9 @@
+{
+  "name": "Justice for Hayden",
+  "symbol": "Hayden",
+  "uri": "https://ipfs.io/ipfs/QmcHYyhYh3dGMNCY6LVuyARioNELQjHveB5K2PSKRXPKPo",
+  "mint": "AbT8F5B12HAUpdurp6zhuTgQTYcu7EdCfj5UxTnKpump",
+  "bondingCurve": "7UmLbhT1uH9cLB5UJ71AuHqiUxNDKqH6tbh79kYZvM4Y",
+  "associatedBondingCurve": "6WpGJvsuLiZDbiwhGv4LAFujwsJwtyxXA41wFdGBvDJ1",
+  "user": "E5zbMjkfPToZZrpwfoduKN34mwY6DzbjjJ8oCBLhzkop"
+}

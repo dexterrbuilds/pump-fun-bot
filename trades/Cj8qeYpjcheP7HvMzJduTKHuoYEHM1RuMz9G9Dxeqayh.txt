@@ -1,0 +1,9 @@
+{
+  "name": "Ren and Stimpy Revised 2025",
+  "symbol": "NICK",
+  "uri": "https://ipfs.io/ipfs/QmW15SPJUnUkssuXTcsWAiKK9Wp6AAYkJ3kqrmU1cpwpoW",
+  "mint": "Cj8qeYpjcheP7HvMzJduTKHuoYEHM1RuMz9G9Dxeqayh",
+  "bondingCurve": "A8WRyeMzq1fpq9qFvRYZfRQrRmqh1R6qCQ8sULHwQq65",
+  "associatedBondingCurve": "BN6Y8vHJ5SdiDGvwiBqDMu8cRzjEhqMRJHYgEC7sxEk5",
+  "user": "EDMXedoNbkZjX1yqaQ4HZsXHt9qyV8A5TKZ87r5ZXmNT"
+}

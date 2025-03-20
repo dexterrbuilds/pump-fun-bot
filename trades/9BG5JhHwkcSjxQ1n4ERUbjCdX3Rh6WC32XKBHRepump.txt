@@ -1,0 +1,9 @@
+{
+  "name": "CRYPTO CYBERSECURITY",
+  "symbol": "CC",
+  "uri": "https://ipfs.io/ipfs/QmfP1eifcq1PJFT4Nkxu5r8vNEDF91ZkEerwShAontoBU7",
+  "mint": "9BG5JhHwkcSjxQ1n4ERUbjCdX3Rh6WC32XKBHRepump",
+  "bondingCurve": "547GhbaGQXSFSefua986ykBmCTMxfXba2grx6mha6pMG",
+  "associatedBondingCurve": "5VRnLBKLynQG89x9KoADSt1ccBazWdGmqJmVuWLAJf2Q",
+  "user": "FhjbizDaJWzQNwWrc2xBuMwc9WkrzDzAGa71YTgFFuS6"
+}

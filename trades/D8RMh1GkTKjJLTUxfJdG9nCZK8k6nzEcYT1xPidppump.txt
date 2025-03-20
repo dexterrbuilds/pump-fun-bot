@@ -1,0 +1,9 @@
+{
+  "name": "Timmy",
+  "symbol": "Timmy",
+  "uri": "https://ipfs.io/ipfs/QmfCCtSEFtndwTtbxrW3ASqyccFETdtNPcpaK49eK8uMNG",
+  "mint": "D8RMh1GkTKjJLTUxfJdG9nCZK8k6nzEcYT1xPidppump",
+  "bondingCurve": "GkgBBtkJbJXhGrB9qW2zk2cy4EAzyx2E8GXZSzVQ5qNL",
+  "associatedBondingCurve": "5vQeg4VFFxPi5PeAXvgsu5m7tGK5mArYZGyRSh3wfYg7",
+  "user": "GjZV8S64w3MZ5zxzJnnNjgZvE7AXdy4W5ejgfghV5RYj"
+}

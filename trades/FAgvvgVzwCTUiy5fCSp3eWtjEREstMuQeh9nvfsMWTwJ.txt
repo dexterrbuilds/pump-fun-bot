@@ -1,0 +1,9 @@
+{
+  "name": "new binance coin",
+  "symbol": "MENASA",
+  "uri": "https://metadata.pumployer.fun/data/0f71b930-9f45-4f20-8fb0-54a6747a3ce0.json",
+  "mint": "FAgvvgVzwCTUiy5fCSp3eWtjEREstMuQeh9nvfsMWTwJ",
+  "bondingCurve": "3Ujx2pjKaQEDdqfeYqHHhFfLDJWiJvjecqy3DnZGVNy5",
+  "associatedBondingCurve": "BGcu5TGpowsNr2GgFdwchbrzEvvqWsX6UE2USXPN9yXD",
+  "user": "6d22FozaKK239PoBYVffkYKA1QPQZE8fC7AQkpmHQfjp"
+}

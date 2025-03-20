@@ -1,0 +1,9 @@
+{
+  "name": "Unicorn fart Carrot ",
+  "symbol": "UFC ",
+  "uri": "https://ipfs.io/ipfs/Qma9Z6vvF7JqVvkV4coKw2GtfeKaH3VLkkfVAqr7BgPufM",
+  "mint": "4LipRa7bRfWdacKiHggD9KiXThUvzdiek9Wh8n4MQQwb",
+  "bondingCurve": "EwUNAKKj9Qnj8f7eRPdsdvZ2PdN9x3KgnwDjuTaBmrj2",
+  "associatedBondingCurve": "9D1tR6UxcFqDi6h71byVDDxScPGL8oKBhiGPg8K6iLvJ",
+  "user": "BZt5ikiHrjhRSskPQP7i15F96JeyGxXfeu7t3hVhp6CK"
+}

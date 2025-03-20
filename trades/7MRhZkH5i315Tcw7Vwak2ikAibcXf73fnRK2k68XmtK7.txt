@@ -1,0 +1,9 @@
+{
+  "name": "NEIROS TWIN BROTHER",
+  "symbol": "KEN-CHAN",
+  "uri": "https://ipfs.io/ipfs/QmR87cMrZzAuNsj2n1LaHb9BUsJFBNR5fw7XFM2Y2W8E7i",
+  "mint": "7MRhZkH5i315Tcw7Vwak2ikAibcXf73fnRK2k68XmtK7",
+  "bondingCurve": "JAZFvNqTfWhwAJoYvxpBwFnet6HoRvM452MgfHQQRWdu",
+  "associatedBondingCurve": "AvYYUMLG6A1UYezNcYBDnCMnVfHyJCDcKjthqRP5GtqY",
+  "user": "6YpB8kMxnnTD6s4emiWZ6pHNGPo7ZaFQcCfwM6mFkNVs"
+}

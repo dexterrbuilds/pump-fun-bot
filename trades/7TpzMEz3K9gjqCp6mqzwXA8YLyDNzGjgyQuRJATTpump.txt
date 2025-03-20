@@ -1,0 +1,9 @@
+{
+  "name": "xAI",
+  "symbol": "xAI",
+  "uri": "https://ipfs.io/ipfs/QmaxzjeivcCvmuDLFQRJSiJn9XB6wxiad1WezsHx2T6JPT",
+  "mint": "7TpzMEz3K9gjqCp6mqzwXA8YLyDNzGjgyQuRJATTpump",
+  "bondingCurve": "AniZX2R3RZWev9nickCj3a7h9TNvA8MNbZohpRzRBx8r",
+  "associatedBondingCurve": "GkbRe9T189hsCYCYQM2539aKsr2UJS8qYUoNY77Lge5J",
+  "user": "81ext82eQUEra4DNohsjqP5TmgSn1FHuwk8QbQVjq6Sz"
+}

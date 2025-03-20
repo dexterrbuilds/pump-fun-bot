@@ -1,0 +1,9 @@
+{
+  "name": "China's Robot Dominance",
+  "symbol": "HUMANOID",
+  "uri": "https://metadata.pumployer.fun/data/1901686a-1613-47a1-b241-3db493bfc706.json",
+  "mint": "EYyXzWuc1nyYdYXSNNBpteVYGh5oRBZ94xLxSgodxg15",
+  "bondingCurve": "3JY66cM1qR1iYmFBzivX4ZwW8uwm96vH8sHEtEuSdDSw",
+  "associatedBondingCurve": "7sgcn6TWKm4ZQVfGq9Aw2btZ5msZ8nBTcg6XZwyGwN1i",
+  "user": "9Fvj7n89g9kfDUJmBQJ2oFso9vdWiqh4h9kyzSBs3Peo"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Bull Run",
+  "symbol": "BRUN",
+  "uri": "https://ipfs.io/ipfs/QmddNHChtrZtsQCXo9PhEmxvDkTEG5mj2DAAXwsiZPcxeH",
+  "mint": "P32wJ4RsappGV5shF7o3RCxpAJzabTGyJPCprgCpump",
+  "bondingCurve": "2kmUM8RPoRNYgEF9FL26kMMZgtDT4Za69XbjToZ9HiaG",
+  "associatedBondingCurve": "FUhVV4VogR4SpEZngtDkKw8DaAAmbFcELFEdYrQHzVzr",
+  "user": "Ax7MbrJVZFeCyqzEaGm84XoFtgQmA9f95V1mvKi3tPZQ"
+}

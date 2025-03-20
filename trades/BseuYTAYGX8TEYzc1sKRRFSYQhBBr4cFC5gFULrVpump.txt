@@ -1,0 +1,9 @@
+{
+  "name": "FIRST ELON MEME",
+  "symbol": "OGMOTH",
+  "uri": "https://ipfs.io/ipfs/QmXqfeQtKKYHCpLTCY1pZzBWwUk5CKw1REPBgtVJ4HFHPk",
+  "mint": "BseuYTAYGX8TEYzc1sKRRFSYQhBBr4cFC5gFULrVpump",
+  "bondingCurve": "FcEuMCxkso1h8JkdqySGohQHTk1wiY9B72aqzLpm65YG",
+  "associatedBondingCurve": "8T1yYiEX1DUxkAkcX3M1v1h9t2eHXVg47fJEyhyhwX2H",
+  "user": "3JUDMUmbdeZDJ3CtUEESbGJQ5ekMdiTXvwjct3wUEnS1"
+}

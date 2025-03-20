@@ -1,0 +1,9 @@
+{
+  "name": "Fast and Easy Rugpull",
+  "symbol": "FERP",
+  "uri": "https://ipfs.io/ipfs/QmQ6TESCvqFmPLK12R3oKgg9BNwiDwpW95jPeWjJWxpvLK",
+  "mint": "7CMXJF12VJBBnkZgt1DbL4T1QbTyxyaHqQM2s5gKpump",
+  "bondingCurve": "CFqXf5fGeTX83y2KYUQ5xdEDbyAMwNreWUfAnjyJQcfF",
+  "associatedBondingCurve": "ASZr8F4Vbde8jzTR1EQb9zm9Br9aMAB8CbMBtZTqyfAw",
+  "user": "tShK6FywujXc7Tnh6FoEF1cVJjtRwgnhuRkAfb7FnSG"
+}

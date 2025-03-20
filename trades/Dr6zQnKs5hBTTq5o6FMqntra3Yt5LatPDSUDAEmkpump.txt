@@ -1,0 +1,9 @@
+{
+  "name": "1st Coin Made For Degens",
+  "symbol": "DEGENCOIN",
+  "uri": "https://ipfs.io/ipfs/QmZt1dqHwd7PNaV8wo78ZQR9ajnMppaFH7NtxbGAVYhp83",
+  "mint": "Dr6zQnKs5hBTTq5o6FMqntra3Yt5LatPDSUDAEmkpump",
+  "bondingCurve": "4vYVSRpsyFKmgf2NaTC1WpssmXQPog6CNctqazj9ni3J",
+  "associatedBondingCurve": "4twt8hRF1s9CUGi9YKsxN7oaCdzwX7g8N8Spy9NcYhPW",
+  "user": "3JUDMUmbdeZDJ3CtUEESbGJQ5ekMdiTXvwjct3wUEnS1"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "007Bezos",
+  "symbol": "007Bezos",
+  "uri": "https://ipfs.io/ipfs/QmQJUBNirv9xst3ZfF5iTvtjd3FAYm1Pf2WM5zW6CxHLam",
+  "mint": "4sbzDLUtAWm17F3b6e2QN3HmcuYsbZSdYbrx2msrMzfn",
+  "bondingCurve": "8W6Hp7q4MYFrP4Sg8jhR9xUs8CJdwGukk354rB9kh2ut",
+  "associatedBondingCurve": "4Nk8cu1DdgZ85KJmGJQfDN4NKJvAvqD6BmrxSaB6hUb7",
+  "user": "HoLNu9Ey9CDCyE8W614a7yDk2wvXVihDzjsK64zsAkvZ"
+}

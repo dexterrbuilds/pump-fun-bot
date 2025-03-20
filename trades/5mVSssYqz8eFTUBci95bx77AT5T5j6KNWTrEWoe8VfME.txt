@@ -1,0 +1,9 @@
+{
+  "name": "ZoomFart",
+  "symbol": "ZOOMF",
+  "uri": "https://ipfs.io/ipfs/QmYERFZgDEQpHaQ6nXpL6bQmwKe71L6A1c7sZ48Dbv8LoD",
+  "mint": "5mVSssYqz8eFTUBci95bx77AT5T5j6KNWTrEWoe8VfME",
+  "bondingCurve": "8yCXacEwSpFcnrwVtBFvr4qG12V1nuVa8XixDobBq9Wy",
+  "associatedBondingCurve": "8J2fmk3u77q4X8DwZieTJKtF6MRQ7UUPYVcGu4v4QQ8z",
+  "user": "CVvJnDPcWdmUJN6YC4cHwBS2cJ9T8KoVh3xEwGquHYz1"
+}

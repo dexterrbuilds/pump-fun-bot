@@ -1,0 +1,9 @@
+{
+  "name": "Freaky Raccoon",
+  "symbol": "FREAK",
+  "uri": "https://ipfs.io/ipfs/QmXktRv4c6TDaVufqQ6aGEYuDJZqpH5gnzuc6BGrvce3Yh",
+  "mint": "J2sBSRkFPjMpCEpdveCeEUgSt1HGF5upeYMXjuMaJX6a",
+  "bondingCurve": "B1ATfjzXvg7n8UwZQ3zaCBcd39XDidmGDazxHpxcWSNu",
+  "associatedBondingCurve": "9TLhXYbJ5ovgKaVinDWErabM96ZtEKX6qydn9a9gPBDD",
+  "user": "2d2GuQMCDUM3sjgZp1bv4UfDPbGGdyTKxben9SAqNj3d"
+}

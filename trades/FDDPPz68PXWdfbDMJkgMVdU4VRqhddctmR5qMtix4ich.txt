@@ -1,0 +1,9 @@
+{
+  "name": "ladigabster (18+)  \ud83d\ude08\ud83d\udea8",
+  "symbol": "Queen | ",
+  "uri": "https://ipfs.io/ipfs/QmUD1M4rc53VoFxLCz1BkMgGCYKvB5HZ3csB9bic9d9JBM",
+  "mint": "FDDPPz68PXWdfbDMJkgMVdU4VRqhddctmR5qMtix4ich",
+  "bondingCurve": "B7THQMYb9dwqR5Ffh9JLZmpUaStUi3yVsNqPiekHnApK",
+  "associatedBondingCurve": "5P1Gpyfk5UidSiDPySiKmB8L57wZCaKgGnPyZjTpL4pB",
+  "user": "Sp8cDeHBu2EybZcfziEUk2uf3cMD3HkGFKKqTuX8ExY"
+}

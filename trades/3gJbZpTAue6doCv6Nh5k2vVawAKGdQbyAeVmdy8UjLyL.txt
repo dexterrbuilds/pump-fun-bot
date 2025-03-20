@@ -1,0 +1,9 @@
+{
+  "name": "BADAI",
+  "symbol": "BADAI",
+  "uri": "http://149.51.224.102/json/285dc59d-c9d1-4b83-8dff-61ae229af3e2",
+  "mint": "3gJbZpTAue6doCv6Nh5k2vVawAKGdQbyAeVmdy8UjLyL",
+  "bondingCurve": "3mV2QRNcx9Fs6ZJPfDUhZJPDPSTFgeGW3YtJqLnee8mN",
+  "associatedBondingCurve": "28N7aq6DxagfAr3F7xaLZnnp4QV4Qx2BiJeVjYaweeaZ",
+  "user": "8fkmf1U2zYr8ZhcYL2YWosx1zr8wnHkTr5PYwxduMo6E"
+}

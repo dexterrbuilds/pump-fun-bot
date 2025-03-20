@@ -1,0 +1,9 @@
+{
+  "name": "FIRST SEC FARTCOIN (2010)",
+  "symbol": "FARTFI",
+  "uri": "https://ipfs.io/ipfs/QmfSAmLjMH9CSuoH7MMRoh9FgEmzkHqYjM7aJmQCiVEWYG",
+  "mint": "ByJ1dQdcUWXWbRUewz5t419KSdMN6fnvTX1W2WsCA8gQ",
+  "bondingCurve": "CX8S7exvEWFyXyR7quBZcrALqnnV3uEizmMGbjSZzFQG",
+  "associatedBondingCurve": "2MVetguXhtNATYUsqcCgkzGnqvuBGQgpF83YxSswzvT4",
+  "user": "CMFa2T2Q4o7xThrk1yQShpAobidUtsdQFiyqwnUygkaB"
+}

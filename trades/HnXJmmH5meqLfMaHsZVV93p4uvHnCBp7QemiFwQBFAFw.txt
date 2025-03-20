@@ -1,0 +1,9 @@
+{
+  "name": "cry of pepe",
+  "symbol": "cop",
+  "uri": "https://ipfs.io/ipfs/QmWmpDhRDeaKBCDuohtfehsaw25L9NXvg4MCDTma9pEZL5",
+  "mint": "HnXJmmH5meqLfMaHsZVV93p4uvHnCBp7QemiFwQBFAFw",
+  "bondingCurve": "9CdbbmnSUKByqb9QL8riz34a1sqC56mZP2ikqCGEN3zu",
+  "associatedBondingCurve": "7osjPbXZg97WnBZ4QFNW4FAJmPyabYi1pvnoJPHkSsXL",
+  "user": "9sLw13F5UbP2WqAQWyyDEy7iA48785bzHAfJNTFw26sJ"
+}

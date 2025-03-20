@@ -1,0 +1,9 @@
+{
+  "name": "| || ||| || || ||| || || ||| |",
+  "symbol": "| || ||| |",
+  "uri": "https://ipfs.io/ipfs/QmUAHvLQgozVkWBw9bnVD9J8Y2ZFbD2dgFRBaChvBXmPGH",
+  "mint": "33Yxb9GrX3hCYRCofuFQJ6adnexxfnamp8tKNUhJq11h",
+  "bondingCurve": "DdMe7FM7Pd3SNwXXUmHV7VKey9nLFgbiC2XDcxfA79Wa",
+  "associatedBondingCurve": "BqPPcLahHngSWFDf9aGNkFu4PfbBmLyo5FG4VsLC1ATd",
+  "user": "GFoiMzu4mGVuxGhTukfrfCGKQVBRs6QMsAUR2diLRyAt"
+}

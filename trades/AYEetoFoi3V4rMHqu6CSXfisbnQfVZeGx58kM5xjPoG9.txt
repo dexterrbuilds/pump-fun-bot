@@ -1,0 +1,9 @@
+{
+  "name": "Chat gpt BHM",
+  "symbol": "BHM",
+  "uri": "https://ipfs.io/ipfs/QmT7HV8iF3LW4fdgUvTLjG6Apo5HEF7eNNJmziZn5jHpBs",
+  "mint": "AYEetoFoi3V4rMHqu6CSXfisbnQfVZeGx58kM5xjPoG9",
+  "bondingCurve": "Ep4XktKY5a8qLKURGbmh2UHL1bho97w1itPGzNNjTX13",
+  "associatedBondingCurve": "G4B2CFAddfVpkAn1xhsqhpT6udFbFRSHbmyoz77GmBms",
+  "user": "3tQKVEPq4ZY1eBCUrC1BRQ47C3GLp6Q4LP9XWfHa1NfF"
+}

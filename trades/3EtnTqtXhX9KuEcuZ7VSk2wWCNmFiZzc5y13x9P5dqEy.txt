@@ -1,0 +1,9 @@
+{
+  "name": "KAVAII",
+  "symbol": "KVI",
+  "uri": "https://ipfs.io/ipfs/QmSN1CcweuqX9dPEEdsDP5u42mRDPhLoWDiG2oxWcyfG1B",
+  "mint": "3EtnTqtXhX9KuEcuZ7VSk2wWCNmFiZzc5y13x9P5dqEy",
+  "bondingCurve": "2BLJc87Wp8qxHRwcmRc5ayaTma4rPVa3dDmyJmAzrWPT",
+  "associatedBondingCurve": "2zydr4D2uw6Mxxqo4bPUeDbxLDwZLnBLyPbKRF7Pxxis",
+  "user": "ASXPuM9WSU9K9py7nHBFENztwUy1fQZMXUsPn4CHkApm"
+}

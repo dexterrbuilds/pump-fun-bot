@@ -1,0 +1,9 @@
+{
+  "name": "GigaCARROT",
+  "symbol": "GC",
+  "uri": "https://ipfs.io/ipfs/QmP4ZSH6G7ADRvPVU2TVRzyZ8iJxmKeUtWCB4y6LW2cJfK",
+  "mint": "AgEUs9ZSU8JeGJa5TVMo8EweFnQAnHzVfe8q8vkXx7Cp",
+  "bondingCurve": "FBHGMKVH4apjPSYfHR7KXWsEMWZduPAFm7aGcbt62jqM",
+  "associatedBondingCurve": "LzF4oo1VTtrS768PbyCpUCeFA9uFgBFCKv7fNZa8efy",
+  "user": "3TYE362E1T7dJFxFapRBebDfpmkZdynjZq4Lj8K16QXr"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Carrots ",
+  "symbol": "CAT",
+  "uri": "https://ipfs.io/ipfs/QmZhPjKCSP5fytJrpWiuCAvDiYT1Cinr4gTGD94S1NFotX",
+  "mint": "G1HmCzdrjk4wEPVi8FuWU1uPNgGsMUBRX3dRRRMgSmdU",
+  "bondingCurve": "6JniTiSbiEFCEJQjZcGCaWvR83DQAiCwsfQHEwTL7cCq",
+  "associatedBondingCurve": "Hwmg3YXBpPfwxQNSycM7EA5zPLzwKKwKx5Wu4cVpeNkP",
+  "user": "BTcmukQ1TpuKgTcip3ATMAmZECe86QZra7pnFsuXDrxT"
+}

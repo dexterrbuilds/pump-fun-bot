@@ -1,0 +1,9 @@
+{
+  "name": "SEC STABLECOIN",
+  "symbol": "TUSD",
+  "uri": "https://ipfs.io/ipfs/QmeJ7BKzkQEy5WcFM6bPWuyWfNZZxs6uwAWTE1Fw7pwxkD",
+  "mint": "8ArqU5aGgXaMsYCzAZmhG6p5CEdCAm4owEbxt3b8Qs7y",
+  "bondingCurve": "E8Lpi6gBFUN4cHTvyF2o5H5geTbZzcNcvGGtiBPWoAWi",
+  "associatedBondingCurve": "AwGFmt9dMWJME3ZeXTeajxXmbS7LPA9nWiosurc1UjNo",
+  "user": "7PB8C6nCDVomtz3RbRYdGgdsZJAXnDX4mJYV1ZtkXifz"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Mount Rugsmore",
+  "symbol": "MG",
+  "uri": "https://ipfs.io/ipfs/QmS7tLeTmSnVvwYrEjYSvx4i9hm1XYazj4tunUbGjp2Y6D",
+  "mint": "9uVpyV7fWZ488oNPmH7GgWMwW8ECN9jAJkMos4ZMTbaM",
+  "bondingCurve": "8BtK3qXrsjnP4iPQkb5b84R8f71nWJmhzy8AyLFxGcVF",
+  "associatedBondingCurve": "9dHCsQSS23iZKHVCUDW99j9cQp8kbUk7iDxPvmfrk5wL",
+  "user": "DbDHgTtRNogMZJBoeUTV1WuQB7FsYa6YpdBNZ2vW7MYx"
+}

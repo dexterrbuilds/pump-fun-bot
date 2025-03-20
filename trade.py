@@ -78,8 +78,8 @@ async def _trade(websocket, match_string=None, bro_address=None, marry_mode=Fals
             file.write(json.dumps(token_data, indent=2))
         print(f"Token information saved to {file_name}")
 
-        print("Waiting for 15 seconds for things to stabilize...")
-        await asyncio.sleep(15)
+        print("Waiting for 0 seconds for things to stabilize...")
+        await asyncio.sleep(0)
 
         mint = Pubkey.from_string(token_data['mint'])
         bonding_curve = Pubkey.from_string(token_data['bondingCurve'])
@@ -101,7 +101,7 @@ async def _trade(websocket, match_string=None, bro_address=None, marry_mode=Fals
 
         if not marry_mode:
             print("Waiting for 20 seconds before selling...")
-            await asyncio.sleep(20)
+            await asyncio.sleep(45)
 
             print(f"Selling tokens with {SELL_SLIPPAGE*100:.1f}% slippage tolerance...")
             sell_tx_hash = await sell_token(mint, bonding_curve, associated_bonding_curve, SELL_SLIPPAGE)

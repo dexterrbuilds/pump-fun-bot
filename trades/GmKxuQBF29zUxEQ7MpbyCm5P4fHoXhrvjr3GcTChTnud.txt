@@ -1,0 +1,9 @@
+{
+  "name": "DogeLord",
+  "symbol": "DLRD",
+  "uri": "https://ipfs.io/ipfs/QmXW4pnGHx9YhBDv3UxzvaaEesaBkzbAfnVtthp4wN1aS8",
+  "mint": "GmKxuQBF29zUxEQ7MpbyCm5P4fHoXhrvjr3GcTChTnud",
+  "bondingCurve": "HWHPDhhNmhaBSn482PYaHXCUTpX3F7QTUoz3A8H1jjvR",
+  "associatedBondingCurve": "7ojEtVFoZzD6BSdHtXR5CtY5LRnF55GApdjcXH5T285b",
+  "user": "EccexFiBxvJYvdQ29GdH2ZGvgfjKwa5KXj4Fe6XWoaEb"
+}

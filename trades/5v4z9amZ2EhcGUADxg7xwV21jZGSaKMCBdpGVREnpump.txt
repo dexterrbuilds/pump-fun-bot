@@ -1,0 +1,9 @@
+{
+  "name": "ACT C : The Carrot Cycle",
+  "symbol": "ACT C",
+  "uri": "https://ipfs.io/ipfs/QmXFWtnzSoqVm4PWat25qmVC8bZQgFAL7zR7RJ3fxDaDm5",
+  "mint": "5v4z9amZ2EhcGUADxg7xwV21jZGSaKMCBdpGVREnpump",
+  "bondingCurve": "DvF3fKGFuy9tB2V5Cu981f3gKMWBc52P9Zwg6jkwbDoi",
+  "associatedBondingCurve": "EWFsNMGEmgCCppT3kJZrAWtk3zUTMSKnX3Laogait3hm",
+  "user": "J23a3UXA61wAPq6nk8qbqPSsgmxePFyNwgXzxZ8o25U8"
+}

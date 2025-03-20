@@ -1,0 +1,9 @@
+{
+  "name": "NEW TRANSGENDER CULT ",
+  "symbol": "ZIZIAN",
+  "uri": "https://ipfs.io/ipfs/QmavXi1WcUZJcCzQJqzJp3UcjBx9KwJ8ePANmsFkNncpkJ",
+  "mint": "Fvk7q3B7KqySBvjFxaTFDi66MPGMAKgjyCoRxspeuwjV",
+  "bondingCurve": "EiLAfqzd3eHBhDAg2Jp3WoacKauruHKbt8yJXnftrKE4",
+  "associatedBondingCurve": "CLACGsp1czpYKUoKeVAZoJuBpvSeVve7SYoJTVahrVgG",
+  "user": "2sZY36LXyMcSmUdYePnSX2jURcjBW6PqdZSt679Guzs9"
+}

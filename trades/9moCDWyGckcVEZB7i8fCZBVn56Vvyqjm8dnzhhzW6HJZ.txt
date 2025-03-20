@@ -1,0 +1,9 @@
+{
+  "name": "First R\u0430peCoin Of Trenches 2014",
+  "symbol": "RAP\u0415COIN",
+  "uri": "https://ipfs.io/ipfs/QmRVnqnfUUNGFJhwrHoPNjqQpA1KCRf3LsFCGiQHHtwv6y",
+  "mint": "9moCDWyGckcVEZB7i8fCZBVn56Vvyqjm8dnzhhzW6HJZ",
+  "bondingCurve": "CLstzmcTCR9ZbKxdekzfKLFUjoWUEpkoGegc2pbPHpCR",
+  "associatedBondingCurve": "4qYG7KhTvmWp3o8fjNRrXVkzP4oFM7fB54vtPMv9PMDr",
+  "user": "4zaNgikqPhZaSkBcS6PoQfEyKnxUrnL3SnFKiiiXyxh"
+}

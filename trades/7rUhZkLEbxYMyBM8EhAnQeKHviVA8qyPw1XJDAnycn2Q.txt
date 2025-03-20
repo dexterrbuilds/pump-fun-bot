@@ -1,0 +1,9 @@
+{
+  "name": "Hamicoin",
+  "symbol": "0.00000001",
+  "uri": "https://ipfs.io/ipfs/QmYb1eXuFWrej9DzrZMuqjtuzoiaMg1cdtATq1MLD5Seex",
+  "mint": "7rUhZkLEbxYMyBM8EhAnQeKHviVA8qyPw1XJDAnycn2Q",
+  "bondingCurve": "7YpfUH9q7FQzM28CuBQdLq8Tddvc7YPbAxiQCN5gxqek",
+  "associatedBondingCurve": "6VjZgL3XJz9UB7unb6w55o9gWNr4V13poCCmAn5kfVzF",
+  "user": "Gu5Cg3gJBhj7zxRKSj49fauk7PjnMhH4uuYf25PFayiJ"
+}

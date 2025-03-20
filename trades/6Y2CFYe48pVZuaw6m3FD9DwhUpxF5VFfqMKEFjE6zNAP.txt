@@ -1,0 +1,9 @@
+{
+  "name": "Disney\u2019s New Baby Monkey",
+  "symbol": "saffron",
+  "uri": "https://ipfs.io/ipfs/QmQa5bSUc9dVFaUBnTma2yNzHUWpSqUwKJ5eqkY5hzRdEk",
+  "mint": "6Y2CFYe48pVZuaw6m3FD9DwhUpxF5VFfqMKEFjE6zNAP",
+  "bondingCurve": "92NbZPk2FeMNWuuRz6BRevDAKuJkCn9bghDRYZep7YSF",
+  "associatedBondingCurve": "2KKSXAkawoAu24GndEnxTyj99XFXyynJ5gvjpGUProJQ",
+  "user": "ALeMhY29CtXDmqdKMVhAs9SDrAckS3YTxuVKCNqmXZng"
+}

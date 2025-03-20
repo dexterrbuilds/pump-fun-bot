@@ -1,0 +1,9 @@
+{
+  "name": "Bitch Pls ",
+  "symbol": "Bitch ",
+  "uri": "https://ipfs.io/ipfs/QmTwoFGTgmm1kZQVgJLFnHnxMXumS1zDZMAzfew6dyLZLa",
+  "mint": "GoSnZSyayeHogFRHZzMiutPDWZqQzPCZy6mkT6RuCY94",
+  "bondingCurve": "5CWLEdAgNKWJHienT7jEm2tqb1N2bShJa4yPpAhd8NbL",
+  "associatedBondingCurve": "2vnXoKXL3A6dX4JesuVMuLE5Xu385vsbn5c3jqeGXjcx",
+  "user": "Gg4gpfMeHTkdY7XpwHyZm9rbZXTkPKYbpsZLqFvYA8BZ"
+}

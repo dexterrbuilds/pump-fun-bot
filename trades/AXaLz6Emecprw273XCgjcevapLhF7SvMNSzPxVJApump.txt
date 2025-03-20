@@ -1,0 +1,9 @@
+{
+  "name": "Dogson",
+  "symbol": "Dgs",
+  "uri": "https://ipfs.io/ipfs/QmQzJuRvqPGcbBeMyQeKzTcx9vnUUKp9gxvCjRjnbbBMxy",
+  "mint": "AXaLz6Emecprw273XCgjcevapLhF7SvMNSzPxVJApump",
+  "bondingCurve": "EFDPA1uuQEfcU2SgncBdpgP7W36ob84yqMzZHcVGxCro",
+  "associatedBondingCurve": "5LSjFyGBz88zuGU8oGg9UYvpyEeHD5dKCRWGzuLknDA1",
+  "user": "4xqEh7CDdyXK3dmgKh3bg36EXJuADEoK9neAfoB8mpto"
+}

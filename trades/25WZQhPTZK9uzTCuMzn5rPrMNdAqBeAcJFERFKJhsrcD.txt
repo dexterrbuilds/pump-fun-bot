@@ -1,0 +1,9 @@
+{
+  "name": "RocketLOL",
+  "symbol": "RCKLOL",
+  "uri": "https://fun-stack-bucket.s3.eu-central-1.amazonaws.com/token-metadata/25WZQhPTZK9uzTCuMzn5rPrMNdAqBeAcJFERFKJhsrcD",
+  "mint": "25WZQhPTZK9uzTCuMzn5rPrMNdAqBeAcJFERFKJhsrcD",
+  "bondingCurve": "FC5au55nufsZC9uiuBweWhD6kKXPVMgaf5oVtkrU59DF",
+  "associatedBondingCurve": "GPM3KaeN9CwDCQPkCzFyW4FZMsdN8nwyhP2LpHvWBApX",
+  "user": "FAJgY31GW4kxLis2XJ4Nxc6xMnSfVKPZT7REkYwP5EQd"
+}

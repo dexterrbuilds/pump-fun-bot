@@ -1,0 +1,9 @@
+{
+  "name": "FrogCoin",
+  "symbol": "FrogCoin",
+  "uri": "https://ipfs.io/ipfs/QmTkPkWJjGEdji8VtrJ5k2gHgA34vPKJhkLKmzpCN8kNDK",
+  "mint": "6nx2F3o4rESLPMhtEcinhtmjxbmy63PbMHkQcuqpxRJH",
+  "bondingCurve": "H96EKJxAzLh1UQeZjAXTjdUnT4ZfYUh7ZjeoD3tXa5DS",
+  "associatedBondingCurve": "CDa17aMmCL6ASz244tWFkHiV8aEZMGD6PBVqn6BTXZZc",
+  "user": "DdCcvMcdK2CUG1NcrA2pdnG9NLKu3qFKw8EQzgpsHdod"
+}

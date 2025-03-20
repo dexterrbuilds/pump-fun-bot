@@ -1,0 +1,9 @@
+{
+  "name": "Elon tusk",
+  "symbol": "ET",
+  "uri": "https://ipfs.io/ipfs/QmcG8ATgzUrRZoiFZPbAcNnbTJyUqcNkxaqZ2CK726gag2",
+  "mint": "CB9A6izPfnKy12C5fBkK17TavS67f3uQRSQnV6LoGRof",
+  "bondingCurve": "5f7vVLaRMag3j9u9j9zsZVpMPszk2xjRA4ptV9rCmR8x",
+  "associatedBondingCurve": "3PU2RfXyzNcfYXSHmnrWNDiqXrhMwV83K3HeWrcewmtf",
+  "user": "2y3MMJNru1u9RoXmoowiuHR9T1RMP6QZNajCTvJT9xcv"
+}

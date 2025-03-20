@@ -1,0 +1,9 @@
+{
+  "name": "GROK 3",
+  "symbol": "GROK3",
+  "uri": "https://ipfs.io/ipfs/QmYwPfEsmuNhG9FN1ipq8GotxKJWbPuSKMJJbJHVGrLPWp",
+  "mint": "8fReBnKov4jMrX3tvwjmhUrdTACpm7RpoRyNsn16pump",
+  "bondingCurve": "2S8u7vFvPHM7xzci3H7gaC7YGxi2A55FX9ZxJdpgzbg7",
+  "associatedBondingCurve": "9jGo54KuqyVqcC47s3vgXMfXwLZKJC8nj6yqarhgQPDH",
+  "user": "6s59HBTCMLpgDAdPAeu2fqQzp6tHdcbSt9YCTbdyzt9g"
+}

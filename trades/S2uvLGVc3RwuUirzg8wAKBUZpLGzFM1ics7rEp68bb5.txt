@@ -1,0 +1,9 @@
+{
+  "name": "Eone",
+  "symbol": "eoneAI",
+  "uri": "https://ipfs.io/ipfs/QmWBciwgb7eDinKUwNFYmQEcaCHwv1gV4b35A6QunzgAd6",
+  "mint": "S2uvLGVc3RwuUirzg8wAKBUZpLGzFM1ics7rEp68bb5",
+  "bondingCurve": "9M9A1MvXoRNF2ZHbcteF1T1fGKjJ9WVUbuTgyrQNvVhL",
+  "associatedBondingCurve": "HaZcJpwLBTqBFisAk24tYoBakanaJAmBtAuJZycEW3hd",
+  "user": "9JXYBCLBQT6csF76Hjx34NVcqL68otTUoabmYVq5LFvf"
+}

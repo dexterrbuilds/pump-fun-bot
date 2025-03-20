@@ -1,0 +1,9 @@
+{
+  "name": "LlamaIndex",
+  "symbol": "LlamaIndex",
+  "uri": "https://ipfs.io/ipfs/QmTsYK7kDWgf6PjQ9BvxCLYEm3otDHye4h62qUDQCxpCZe",
+  "mint": "HWUHFHXX6drAyND72j1PmNtzumfc3c3XKYgp5iBer7Ss",
+  "bondingCurve": "ExYFDKSaDRUsHNFMBpXe8WuswoEDJ1qDfdSVwEDnopXD",
+  "associatedBondingCurve": "3xpGbrJrcMudMK6vsMQ9LePsWYecySsHpUwGDy93QDvi",
+  "user": "99NMifsidtGUBLHEhrBUM8NJcPcvVJMDhp7xJ7DRKMdh"
+}

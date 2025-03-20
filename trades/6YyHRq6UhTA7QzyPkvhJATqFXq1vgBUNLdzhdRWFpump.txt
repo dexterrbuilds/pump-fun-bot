@@ -1,0 +1,9 @@
+{
+  "name": "SATOSHIS FIRST BITCOIN LIBRARY",
+  "symbol": "LIBBITCOIN",
+  "uri": "https://ipfs.io/ipfs/QmcQ2irnHcEnbTMEiGdHPaz29RHRxwKko1K5tMNFu97CKo",
+  "mint": "6YyHRq6UhTA7QzyPkvhJATqFXq1vgBUNLdzhdRWFpump",
+  "bondingCurve": "7KxSR8E4sSYEYdVYpj757auRXnnuSPgq3teaZo1APFHK",
+  "associatedBondingCurve": "99r4r4iEiGhE4aicJXT4RpwYMtUbCnPjYfL1hCdgcuPK",
+  "user": "6oC9xXK5KEwC4ECUP289YPiNc8Ei9mPmdis1fu7b16LG"
+}

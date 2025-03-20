@@ -1,0 +1,9 @@
+{
+  "name": "Michael",
+  "symbol": "MICHAEL",
+  "uri": "https://ipfs.io/ipfs/Qmf6mwr68M8S4TgFGtRaw2m5TjHQVvfHyeBzX7Htb94L1W",
+  "mint": "4GQC85rpUZ6f9Lkzc6VLEJkYC4CgsMMh5bkX8tkx8SRn",
+  "bondingCurve": "CCjVJKiak1zyUC6oJ6LioEEcUKJXD8wD2Vfz5wS2nEq4",
+  "associatedBondingCurve": "4QbiQhdZYye1uh1Dh2es5Q4wcTkgwwNQz9ChSDePuU2C",
+  "user": "Bx7SLBFceTJLrqcBFisb5NmmFCFtXQSm4o1oYpCHuhB9"
+}

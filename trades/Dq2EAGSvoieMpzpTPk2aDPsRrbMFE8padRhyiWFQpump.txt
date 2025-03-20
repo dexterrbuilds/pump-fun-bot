@@ -1,0 +1,9 @@
+{
+  "name": "TRENCHTOWN",
+  "symbol": "TRENCHTOWN",
+  "uri": "https://ipfs.io/ipfs/QmQNq6SCxzbFtP3nmZHZnTKymUH3LYGbkqpwCT3eaDHijK",
+  "mint": "Dq2EAGSvoieMpzpTPk2aDPsRrbMFE8padRhyiWFQpump",
+  "bondingCurve": "8J9L7gAEjCbzAnPdQEoVCsZ3cyVnatS2zhPraERW1YYC",
+  "associatedBondingCurve": "EHtPHmF8WuE1NBVPHca6rVdT2EWabUom7yJ2bKUfYgFh",
+  "user": "3JUDMUmbdeZDJ3CtUEESbGJQ5ekMdiTXvwjct3wUEnS1"
+}

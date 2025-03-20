@@ -1,0 +1,9 @@
+{
+  "name": "Bronny ai",
+  "symbol": "Bronbron ",
+  "uri": "https://ipfs.io/ipfs/QmdAtvB5Pj3oHrB29mbLo7MY2YJ9ChCC4Un4LNnQgJVnZM",
+  "mint": "2MDQVFeg9UtEtwG2sVFkwtpU58U6RsV11YFgfJqFU8zW",
+  "bondingCurve": "DL8fr27GsXwfpEsuSxuSLbYAZuYZFz5niQT5SxcnpFnt",
+  "associatedBondingCurve": "DxF3VuN3vAcRZ3MhZDCHrtR9NhQ7JD7nufwY5HifKm1J",
+  "user": "3tQKVEPq4ZY1eBCUrC1BRQ47C3GLp6Q4LP9XWfHa1NfF"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Chase Infinite Money Glitch",
+  "symbol": "CIMG",
+  "uri": "https://ipfs.io/ipfs/QmbaYJnNLXrHDk1Mfi4xLE2DeGFnnvHyZymiBE7jc16XV2",
+  "mint": "H59Xt7xCNZfNKDAUxVHVNPBdToQMfTJrgqSRJCDg97Fn",
+  "bondingCurve": "6o6EvY8j6UYy8vBZR4k9RtoiZ1aqfVyHWBFnQYgB3MUk",
+  "associatedBondingCurve": "FPCn4HasmDaw7RJCfJswd67CrrskcvRrYvvJQUKT555E",
+  "user": "HX2BpQLdDCpD2CvejHEyr5s7HFbc98kurKb5MjB8WV6c"
+}

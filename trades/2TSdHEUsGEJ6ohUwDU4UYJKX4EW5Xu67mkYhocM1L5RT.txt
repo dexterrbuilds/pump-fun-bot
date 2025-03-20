@@ -1,0 +1,9 @@
+{
+  "name": "ARAB",
+  "symbol": "ARAB",
+  "uri": "https://ipfs.io/ipfs/QmV8WmUt4q7vkdgJ3BFhj2M7rSDo7KUNWGp1yeuC35S4e3",
+  "mint": "2TSdHEUsGEJ6ohUwDU4UYJKX4EW5Xu67mkYhocM1L5RT",
+  "bondingCurve": "9GhdrqYT8FGCKsMBz71U5KCmWQjRuhw1TrfaB1i6XawC",
+  "associatedBondingCurve": "AyVn2DrCnyL7iPFBjs4A5WXfYCEDjpbaCkrhiEcb86aP",
+  "user": "GRj9FZrsFBJCKk4EQtD2No51JXL7WgLDkNHTfSPAK36x"
+}

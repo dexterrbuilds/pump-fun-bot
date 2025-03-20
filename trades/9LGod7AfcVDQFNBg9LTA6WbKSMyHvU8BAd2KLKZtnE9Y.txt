@@ -1,0 +1,9 @@
+{
+  "name": "IOS",
+  "symbol": "IOS",
+  "uri": "https://ipfs.io/ipfs/QmYa8PYEYGYW8kTtFVHPPycrVZ3vf6oiR8QDFt6HUV9nAa",
+  "mint": "9LGod7AfcVDQFNBg9LTA6WbKSMyHvU8BAd2KLKZtnE9Y",
+  "bondingCurve": "BfzNqiQ4AG5WAtzjbdxmMYLUCPMuWnYZQXGRGSyJCJ2Q",
+  "associatedBondingCurve": "9dA9HJBvX3nNQMxHqWwLVsw2619Q5F7bJhtuM4yxaPkb",
+  "user": "CTXAQk2w8h53PdGhT4rfrV9zf6qJPxrM2aWXohCe3ir1"
+}

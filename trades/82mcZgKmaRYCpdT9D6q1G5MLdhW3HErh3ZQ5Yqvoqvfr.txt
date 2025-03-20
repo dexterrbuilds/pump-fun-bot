@@ -1,0 +1,9 @@
+{
+  "name": "Delta Captain",
+  "symbol": "BigD-elta",
+  "uri": "https://ipfs.io/ipfs/QmeuTQxRkmcE1M9N7xnBmMjWEzEkZW8NBo4FLdLdCGu4yu",
+  "mint": "82mcZgKmaRYCpdT9D6q1G5MLdhW3HErh3ZQ5Yqvoqvfr",
+  "bondingCurve": "GiQ5tM3GnJZz2eLjnwhc7wnz5TDZbqrUbzLL2thSjxg2",
+  "associatedBondingCurve": "4QTPto5aT9aaxKFoKUdemqwPpvkhYsFuiy7vfcW9ujod",
+  "user": "6gCFShRFbLgQtsKMZC8w56LsgZgjZCwz9kSNTFPaaDAu"
+}

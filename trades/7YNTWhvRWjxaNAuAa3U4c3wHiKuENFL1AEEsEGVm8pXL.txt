@@ -1,0 +1,9 @@
+{
+  "name": "Memebets",
+  "symbol": "MBET",
+  "uri": "https://ipfs.io/ipfs/QmZkb3n3ocd5qR3J8VRdK6ebkrz754jgJKeSiqzf47eFDb",
+  "mint": "7YNTWhvRWjxaNAuAa3U4c3wHiKuENFL1AEEsEGVm8pXL",
+  "bondingCurve": "6ud2oUZzo7bVf35Qtu1wiabacNFY7absLCgU188rVDVH",
+  "associatedBondingCurve": "AJAzeRLFJN2FkyAQLJxZEg5yB4yoKfa9jZRb5EhhtroT",
+  "user": "DDSRsKNVwT2rJ4pMsSFVysrzV4FjhpBS6N7SehQWusTd"
+}

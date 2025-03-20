@@ -1,0 +1,9 @@
+{
+  "name": "SendiLabs",
+  "symbol": "SEND",
+  "uri": "https://ipfs.io/ipfs/QmWFtQ8vwBzrMLcu2cKHHmQj4vpNhUq9VDnhuPVwTFdmnx",
+  "mint": "HoKs9tSR9WYzGFdrUKdkyB17dsUPuJg31PaTwFoipump",
+  "bondingCurve": "AxCNPMw75GBMhi2oMh25sEa5Z9Gv6qeyLv3H8zkKhwUX",
+  "associatedBondingCurve": "DBDVKBYDGGeLJVo9uhQovmqGSVCQSNbJpXCehqLMf4fr",
+  "user": "Cbe4uqxK3ud1fi5s9C4kR8aFAMPG32CiGsNxRi9DNSj8"
+}

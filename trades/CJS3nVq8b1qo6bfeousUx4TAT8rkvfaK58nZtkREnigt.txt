@@ -1,0 +1,9 @@
+{
+  "name": "CEE",
+  "symbol": "dont buy",
+  "uri": "https://ipfs.io/ipfs/QmbfWaecED7aWX31wDhdmGg9USRYvizeS78b3yDjpa9qWy",
+  "mint": "CJS3nVq8b1qo6bfeousUx4TAT8rkvfaK58nZtkREnigt",
+  "bondingCurve": "2LiYC9EF1QJmg5Cw1kaypj8cNHH226HqGS8JQRF67kos",
+  "associatedBondingCurve": "EvbQ5bwFfnY8m7DXBZNo9JRvNEQX8NiwokvuG3G6Az8x",
+  "user": "Foda4dvTyDQVi9vVX8x7ZyGsbKKGYyi9gp4Yc1SeP9Qt"
+}

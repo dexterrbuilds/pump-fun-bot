@@ -1,0 +1,9 @@
+{
+  "name": "AI FART",
+  "symbol": "AFART",
+  "uri": "https://ipfs.io/ipfs/QmVshiJTXPBoiXvygsgYVcYaP8pwnH8ZCkNAw5PUQ1EjxZ",
+  "mint": "8YzZ1y75hYmpc3JSXzKJPCwwK1hr2znbk6HmzrAEawdN",
+  "bondingCurve": "4MJvKACJkVEieu4PrdK6qGYLpHubSupoYPpSkAhgDMQv",
+  "associatedBondingCurve": "6fEvcPz7Bm32tYGKKBSRhuc4GzUJLXuqNAZQjfc3C23q",
+  "user": "4NJce7fgMdaTfy4fZZoP4rikaeF3nRPdeePrPZY2kfC2"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "four.meme new mascot",
+  "symbol": "greppy",
+  "uri": "https://ipfs.io/ipfs/QmRtZGtzdGMmc7DoNA3GRJt5J2doZAQW2PH1JkL11yesTH",
+  "mint": "5XQeATCE683THeYZ25XyL7Y1biY2VrSuwY1aikDtnWD8",
+  "bondingCurve": "8kQjEgrBtBwY6riTqDRzB3MqbSjNn9qoP1WSfWLbNtvx",
+  "associatedBondingCurve": "FpVEEiHYzTFusqMTytdDs6Fzfcs3r12QyRWAy8DAwrY6",
+  "user": "MNhBbrscBPmeid54buiqSgyWa4D8PY6uKHoK2wJsTJN"
+}

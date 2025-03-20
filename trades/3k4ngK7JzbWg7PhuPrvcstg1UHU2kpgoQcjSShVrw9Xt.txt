@@ -1,0 +1,9 @@
+{
+  "name": "Make The Trenches Great Again",
+  "symbol": "MTTGA",
+  "uri": "https://ipfs.io/ipfs/QmW5guMRVVaMz7xYavnKCV7y6aKFz3HN9kTrA5ebFX7EtY",
+  "mint": "3k4ngK7JzbWg7PhuPrvcstg1UHU2kpgoQcjSShVrw9Xt",
+  "bondingCurve": "DL1Gj5VqYGMimqRwEKyYKV8cDu7NcgbNpkFaumsvJkty",
+  "associatedBondingCurve": "7hbvUntaCpSjwDjgzCeP6q3wUGpEf8fFkKz9UgEkkoxK",
+  "user": "3ENY8d5tycRaBrLm1ByYYY5gjxcYtFwJAsReUQisSPc9"
+}

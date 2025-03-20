@@ -1,0 +1,9 @@
+{
+  "name": "LAMB,1000,000,000",
+  "symbol": "LAMB",
+  "uri": "https://ipfs.io/ipfs/QmdS7LRkEKTk4wHKsTJ8uy3pKhGBmHB3WNyHanxZrmPxuN",
+  "mint": "Egbnri3UUsiM2U1wpMqMmD2zNe44Fe3kYqgspS8nJnbz",
+  "bondingCurve": "EVWRbJtuXMZh1UmHRK7ZwMvV2pFYDxtCPrmyciSA5TxT",
+  "associatedBondingCurve": "9iudWEpSAGsGm1Fsxr11QjWRMcHNurMQv345rCPsBPKR",
+  "user": "CmSHk2WtBWs9Lvv5LLUpASyzmU1J5gW4nx6Zj6W4dwR7"
+}

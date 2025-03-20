@@ -1,0 +1,9 @@
+{
+  "name": "carrot acceleration",
+  "symbol": "c/acc",
+  "uri": "https://ipfs.io/ipfs/QmdurSL7ZM8ZYXSQgfk5GxPtxfwRt66UFiMCLx8BxtDVNL",
+  "mint": "5J9Uyf5pB71r5mcMzKouZce6KfX1teyNc6UoecjHpump",
+  "bondingCurve": "6b4YSCSvXzGkwnrTv5WDDBhvam5mvPGRt59apGQLn3EU",
+  "associatedBondingCurve": "DRGeJ8qXAZrZWy7qwCnxXkzWsbs5oQtxBxaaGFD3bsMh",
+  "user": "HnLhF23Coq2bBMMHCUk8bzb8Lbpwy8uHrQNU4XGWJTaM"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "SUNG OUK",
+  "symbol": "JUNG",
+  "uri": "https://ipfs.io/ipfs/QmUoYbuFe3AhoLGBommZogjmxcSJqqNAPJ2jL1wVRSQ9x5",
+  "mint": "5hWgka76z5C7C2KevFgqTbnsqEeqsqCJu6rj7rz1iHi4",
+  "bondingCurve": "HQzkj6P8Tjg4rrmiEAFNZLfQ1Jue6k2eSoSrGQBaLiXw",
+  "associatedBondingCurve": "BKCC72WoyQpQp1WTeaWr6KVGqcgFuevHE1r6aHaJRc8w",
+  "user": "B42YxtQYG8ZwBHifvXQjZWdW1SBtLoA5kRNS32bVmqH8"
+}

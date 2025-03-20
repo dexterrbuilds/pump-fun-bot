@@ -1,0 +1,9 @@
+{
+  "name": "new chicago dental mascot",
+  "symbol": "hadley",
+  "uri": "https://ipfs.io/ipfs/QmapdETdXJwsDWoKz2aMNxjTpXLFhVdR82dyMpJcAJHxxq",
+  "mint": "9J3vYysfj1nGKDJVTqdZYHH4ugm2umL7VM5n4V4R4kvH",
+  "bondingCurve": "BmSrE9yjCKqHTP7BRCidWJfmHqwsZwmVZZfmAXFkdjVG",
+  "associatedBondingCurve": "88Njk5B4Vmcge2PJSmWax3wv4WEs6Q6nzuCwSvaKoQmN",
+  "user": "MNhBbrscBPmeid54buiqSgyWa4D8PY6uKHoK2wJsTJN"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Wasteful Spending Find",
+  "symbol": "WASTEFIND",
+  "uri": "https://api.uploadhub.fun/coindata/kitten_43756261_azaifsopyb",
+  "mint": "22Qxn55BfPsV98m5pr9QPc8sRXD4FNnXGjFwB3efXyPs",
+  "bondingCurve": "95nkwPZCuz4ZfyRAd8XPHK9ysbFs8qDH2ZEU7A51waDr",
+  "associatedBondingCurve": "2KuksQdqPgjfqoYAgfgm5ExqrXsMVadSvKkrWRHea9ZM",
+  "user": "BMM5doXkr3G1b4jdXmqU7HtNGacAUHX4PnZPYYRXJzZh"
+}

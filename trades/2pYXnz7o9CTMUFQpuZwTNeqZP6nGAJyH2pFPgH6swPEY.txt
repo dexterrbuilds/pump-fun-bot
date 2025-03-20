@@ -1,0 +1,9 @@
+{
+  "name": "4 NATIONS",
+  "symbol": "4nations",
+  "uri": "https://ipfs.io/ipfs/QmUK847yjVMYEyJubfcVd6RMgaJxEUWdcuH2Vd5XTcgD4c",
+  "mint": "2pYXnz7o9CTMUFQpuZwTNeqZP6nGAJyH2pFPgH6swPEY",
+  "bondingCurve": "6qJQELoQnP7orx5ZchLPRJeN2rDFsJHA2EARDhVGWDye",
+  "associatedBondingCurve": "DCC3Q6CyaSoeMJqRKPrZ8YcswdC4ntEtbC1M8P7VwNv4",
+  "user": "4AgJBz1LiMgb2rWeCdKw6zZ8C8fJssXHwa12oGxDcu4z"
+}

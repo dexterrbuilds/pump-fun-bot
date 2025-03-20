@@ -1,0 +1,9 @@
+{
+  "name": "BrogWog",
+  "symbol": "Brog",
+  "uri": "https://ipfs.io/ipfs/QmdRpr3ReCQ5c3FiWS6akanH95RypZ3HykXbRysCF7bL5N",
+  "mint": "HuLnuvGJmCJT3uxBjKhzqPhui6yLRkALvgxvGiXvLY8w",
+  "bondingCurve": "ABq4zC6XFKmcYnYvBTaPJMhFgyNp5TYFZ6QfbaVJcz5F",
+  "associatedBondingCurve": "2VQAaMH4H1XoAT4zKNsMA6j8vsaGwMmbgZQDhEocV3B7",
+  "user": "5k3AnMnCeGwVsVehSQwfswNS4jKxtJECTW9VJbeDs1tm"
+}

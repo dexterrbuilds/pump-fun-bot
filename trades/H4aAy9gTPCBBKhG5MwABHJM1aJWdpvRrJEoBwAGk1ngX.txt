@@ -1,0 +1,9 @@
+{
+  "name": "MY COIN",
+  "symbol": "MC",
+  "uri": "https://ipfs.io/ipfs/QmcVwqp2CbvpbScfVvrPyxyRqLrLDeMb8Z3fvYbXBtrHtA",
+  "mint": "H4aAy9gTPCBBKhG5MwABHJM1aJWdpvRrJEoBwAGk1ngX",
+  "bondingCurve": "GV4iPSX9LLUB6mGVfapEwDfPsi1YLbM9oMzZxwEaKLgM",
+  "associatedBondingCurve": "GkQKSZiAcARztm2Xfe47jAo1FMFTTZYHFSbjaWYNByvU",
+  "user": "JE6oVC6e6QexesFkB9hx6pcXVvSjXkykGm2eGAdzTSg6"
+}

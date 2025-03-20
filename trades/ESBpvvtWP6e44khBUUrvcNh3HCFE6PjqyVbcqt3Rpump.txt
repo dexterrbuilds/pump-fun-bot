@@ -1,0 +1,9 @@
+{
+  "name": "XILIE",
+  "symbol": "XILIE",
+  "uri": "https://ipfs.io/ipfs/QmfYC3jWDjUMagsogmFx8Upj7mi6aDEMMMH5D1Vfz5s9D1",
+  "mint": "ESBpvvtWP6e44khBUUrvcNh3HCFE6PjqyVbcqt3Rpump",
+  "bondingCurve": "AbUpmGC2PZcMeA4TZifZmM3tibUh5bCxErGPKgTFB7iw",
+  "associatedBondingCurve": "HG24oSouz2GtoCWvPagUyJ11zAy3wCpmxwHYfueu3BWu",
+  "user": "4U5272RHb7E73jdjmbTN98phtx66GxYndxNzmtvayxwq"
+}

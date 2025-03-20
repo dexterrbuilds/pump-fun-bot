@@ -1,0 +1,9 @@
+{
+  "name": "SUPERCAM S350 DRONE ",
+  "symbol": "S350",
+  "uri": "https://ipfs.io/ipfs/QmeXTsYkCYanEABEdtQMVnkjfWaKcbPMs6QeiZiYgw6Nn2",
+  "mint": "2foX5GwAzDGjQVZXieAPukjwxbiHGfR7WMbYEytTJVxa",
+  "bondingCurve": "3YLiVhb8g8aQH1tkApcWeL5atbr4u7S8ZX7f4WkJUnTN",
+  "associatedBondingCurve": "JCD8xNPcZaHJRBNjrwwFNzhCPdpMDfTg9WRXcxrbrc7w",
+  "user": "2sZY36LXyMcSmUdYePnSX2jURcjBW6PqdZSt679Guzs9"
+}

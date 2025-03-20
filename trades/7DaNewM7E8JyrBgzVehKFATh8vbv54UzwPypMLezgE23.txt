@@ -1,0 +1,9 @@
+{
+  "name": "Orange Parrot",
+  "symbol": "Parrot",
+  "uri": "https://ipfs.io/ipfs/QmTxnrEmHcYdRcYUVd67yNXyxnbPvhPRbgdSrgzL9g1T5P",
+  "mint": "7DaNewM7E8JyrBgzVehKFATh8vbv54UzwPypMLezgE23",
+  "bondingCurve": "FutcmeEUVw2tqFGNYfmrf7E58yLNKRJYpraVFt7mPzBq",
+  "associatedBondingCurve": "4u71yqkvHNHmVVSx5AABtf9BtL7LUQFUFbqdvs7bfwQ9",
+  "user": "8jqpPqajSNomWujbXT2uahuBCFr6tUamGRTWZoRNcAE1"
+}

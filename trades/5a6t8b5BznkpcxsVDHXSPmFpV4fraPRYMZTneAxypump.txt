@@ -1,0 +1,9 @@
+{
+  "name": "Cunt",
+  "symbol": "CUNT",
+  "uri": "https://ipfs.io/ipfs/QmYz3qhk5EAPMM5ac5FGzpmHgg7y5t1C3mNVL3byE8RRcy",
+  "mint": "5a6t8b5BznkpcxsVDHXSPmFpV4fraPRYMZTneAxypump",
+  "bondingCurve": "49RZyukgq8eukVos7CjnNeM3jiBJg3hWDHP5uyGpiwcC",
+  "associatedBondingCurve": "5HmeMm17FVnqv5rcpCiA9xb1Na2MVBKMTqTQoS7LKoWc",
+  "user": "7y9y5u3MJ2i49NpqiFFPb9hh2crtDEqEtZYw5M6DcJHE"
+}

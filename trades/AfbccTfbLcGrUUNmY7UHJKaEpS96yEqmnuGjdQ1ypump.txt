@@ -1,0 +1,9 @@
+{
+  "name": "DeFiSwarm Node",
+  "symbol": "DSXNW",
+  "uri": "https://ipfs.io/ipfs/QmTMDPWHQBa8VkBd1Q1DtCgiEwmGEL6Nem4wPAtdrUUowN",
+  "mint": "AfbccTfbLcGrUUNmY7UHJKaEpS96yEqmnuGjdQ1ypump",
+  "bondingCurve": "2wEkf7cQAGFjmGNpdZGMF8DGkBQa5h7PRryKUDUGfp3Q",
+  "associatedBondingCurve": "7X96WQtRocAXfyK8hPWEauUq6EsNNcB6uBcCvGpLVCnp",
+  "user": "FhjbizDaJWzQNwWrc2xBuMwc9WkrzDzAGa71YTgFFuS6"
+}

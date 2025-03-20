@@ -1,0 +1,9 @@
+{
+  "name": "CHIEF OF CETU",
+  "symbol": "LAURA",
+  "uri": "https://ipfs.io/ipfs/QmcdjP52ExjeooSGF5JfB5odVZhnMcuu3EsEgoXqyMHNmd",
+  "mint": "4gQY4ZKdfeue1GqhLzzeYD1ZEFjKC5RgX9VjKHGRQVM2",
+  "bondingCurve": "CfbsVsNitkpQy8FMPAN55XsTWWVEoDPMdELbDpmKPVKC",
+  "associatedBondingCurve": "F8GCco5opYT9mBFd4i5BY3TbWZ4618289DkNNMdbwXse",
+  "user": "9RD75soVDSme16NZoaARdvHYXq8gq3A7ZJpQTo9hR2o8"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "this will hitting 100m",
+  "symbol": "100m",
+  "uri": "https://ipfs.io/ipfs/QmP59VCFtPYN9sGUgum5xhnzZfaTSXxVqm7izsa9G1kU7w",
+  "mint": "AiCWYfMMTHmykJrScCMqNBZ12mdDguihdioQ14edcWBX",
+  "bondingCurve": "Fh3w9tT4Jhg9YdVzDijxUJSobwccog4AtTpQWSjN3wSy",
+  "associatedBondingCurve": "DKmiJQ87xQQxhinuNQSyDpAd1xEGB9qsffLFvZTE4RmU",
+  "user": "75qxfrsYcypNVidj9gJjmwi6rJZhL2bjaz8QfzzcEn9S"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "SHAMELESS",
+  "symbol": "gerich",
+  "uri": "https://ipfs.io/ipfs/QmSmAui3StTDxPT81srFspXQwQX2aAZNmFQ94vp8TXRHbe",
+  "mint": "8wQPcT4rvkx1opCk9ZJffSfgC1VFxsWh464qy36kpump",
+  "bondingCurve": "4mnLu3xjYTk38UELwWu8LmMqdspFgYXYhLLYZx3ZWoQy",
+  "associatedBondingCurve": "B2SE6uHa5UXLiwB7wXuxsrQEqUCBTeETktLE9HqAEajh",
+  "user": "68tmwvCWbYGAG5sDdcvBQdLtpdbTaoCc8Raui69LdYag"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Mount Rugmore",
+  "symbol": "RUGMORE",
+  "uri": "https://ipfs.io/ipfs/QmbqqybzHAfHu12ujL1bezRmVotfS8vvN6x3bBtWJaXkR9",
+  "mint": "9Yjiu9U11vNBortNiZ71EjTVLLehFRxTWY2QL1CSpump",
+  "bondingCurve": "BBz64mr68qcbKqfTYd3xebBBLShn3JEBuwosgmmFmmyC",
+  "associatedBondingCurve": "HtoKrbsDADJ6y9ixjDT48FTgs6uDMo12WmPc4vytkqei",
+  "user": "CLJAFuC4yvmnsec71EjXQHBvoo9YGgBSz4w2DnL1niYu"
+}

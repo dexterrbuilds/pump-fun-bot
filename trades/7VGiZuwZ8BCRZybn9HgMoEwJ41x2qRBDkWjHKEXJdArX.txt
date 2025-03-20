@@ -1,0 +1,9 @@
+{
+  "name": "EF Folks Hate Me",
+  "symbol": "EFHATEME",
+  "uri": "https://api.uploadhub.fun/coindata/kitten_11213008_sagyyulriy",
+  "mint": "7VGiZuwZ8BCRZybn9HgMoEwJ41x2qRBDkWjHKEXJdArX",
+  "bondingCurve": "CWKyG7L41DwDL4tRCkJ4aj5CuWjD4UirLmkqoLsyKhY3",
+  "associatedBondingCurve": "2WUEFcXYMaXSFwx2eB4gwUn9vwBfrCtpWCZR1gLHf1Ao",
+  "user": "BMM5doXkr3G1b4jdXmqU7HtNGacAUHX4PnZPYYRXJzZh"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Grokfart",
+  "symbol": "Grokfart",
+  "uri": "https://ipfs.io/ipfs/QmcHcwcUBqphCZDGtn4xZp6SLpxBpMJEWr9jxonqP6x8rw",
+  "mint": "Ek9gnxCNX8ihZkp3CfHyWJttBpCE6oo7NuJmTQdapump",
+  "bondingCurve": "FA4uQEXHrEhhiRnjs3gdyReLHr7pQspjxRQpCos1wBP1",
+  "associatedBondingCurve": "5GtRq4VnC6B5xu3UPxZ6AdUQ7WgTrrnDi2RLtFG6tpCG",
+  "user": "3JUDMUmbdeZDJ3CtUEESbGJQ5ekMdiTXvwjct3wUEnS1"
+}

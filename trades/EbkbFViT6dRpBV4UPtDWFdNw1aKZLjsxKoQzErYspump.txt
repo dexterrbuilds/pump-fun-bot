@@ -1,0 +1,9 @@
+{
+  "name": "Toto",
+  "symbol": "Toto",
+  "uri": "https://ipfs.io/ipfs/QmU6fRp6RDD9BwYecbjtcQdECPUX6DKT7nDt2YUUwtRchf",
+  "mint": "EbkbFViT6dRpBV4UPtDWFdNw1aKZLjsxKoQzErYspump",
+  "bondingCurve": "8SiYXrVCdoNDFLe9YsUcpZtjHTJJvLMLDWNxSXymkfPu",
+  "associatedBondingCurve": "DJ9tkcgwf3hQioGtFwdro1wcXdmVmdQmqEdVGtZoaKLa",
+  "user": "7bq3QPyU7GaE5G65JUmUV5UfYKKRf8tbDhj8kmaP48dX"
+}

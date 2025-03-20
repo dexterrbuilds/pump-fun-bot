@@ -1,0 +1,9 @@
+{
+  "name": "Tired of Trenches",
+  "symbol": "TIT",
+  "uri": "https://ipfs.io/ipfs/QmTpfPre4nNjf2AUp7SHCNgWHEDAZGUeo7NPqDeFFfvfxE",
+  "mint": "3UPAzq8txbcpjVfeke3cNHJyureD1kwqqo9CZDerpump",
+  "bondingCurve": "CYXKdx17qnLMAHi97HoDdqRbY2jQp2srgGkyzR6t6hfw",
+  "associatedBondingCurve": "FJxUs47YXDZtKNXrBmLsQvu8ToPYaTfKJRYaxprPBjCf",
+  "user": "3JUDMUmbdeZDJ3CtUEESbGJQ5ekMdiTXvwjct3wUEnS1"
+}

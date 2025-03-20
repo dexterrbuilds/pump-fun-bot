@@ -1,0 +1,9 @@
+{
+  "name": "Trumpmeme",
+  "symbol": "0.00000001",
+  "uri": "https://ipfs.io/ipfs/QmfGb1285kU1pNASbomkfMUKPedaD6w8JSuuKn3PXupD4v",
+  "mint": "3EZBur1dy9LVGzWFWgWtGZUytzeeopMD8snHmwDQNvHE",
+  "bondingCurve": "71TzwsymCDdUcik5KFVugrZi4vyQd89fmpzN5ej1etUC",
+  "associatedBondingCurve": "ABCN7AtwBajoZW3FeGn8p6EAAsTX6vjRbwVCqttr95Ma",
+  "user": "Gu5Cg3gJBhj7zxRKSj49fauk7PjnMhH4uuYf25PFayiJ"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "MURDER OR SUICIDE ",
+  "symbol": "HAYDENCASE",
+  "uri": "https://ipfs.io/ipfs/QmNcYGQEfGA2M3uAwNCgW5qxagcrXz7kNehHjky7nnCEeH",
+  "mint": "7KtZeivxUC2sNSU625YLmpiVbW4QkNP5atMRiA8cwSDf",
+  "bondingCurve": "3aHeSmYHAnipB7rqcmoq2NPpmYaGEDkcaou9Tz1uQyDX",
+  "associatedBondingCurve": "CmfAUr3SrY63Smdx578md9e1MgeUVeZ1LobYgzjJGfyX",
+  "user": "7MULvQFTBLRZoKiNAvPfgR9ckGBzaw4HxGA45xWiHwMc"
+}

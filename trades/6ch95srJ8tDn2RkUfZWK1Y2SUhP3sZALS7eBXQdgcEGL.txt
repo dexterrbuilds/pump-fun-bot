@@ -1,0 +1,9 @@
+{
+  "name": "Exactly ",
+  "symbol": "EXACTLY",
+  "uri": "https://metadata.pumployer.fun/data/fb72e002-6513-44a4-aba2-7d283d447e90.json",
+  "mint": "6ch95srJ8tDn2RkUfZWK1Y2SUhP3sZALS7eBXQdgcEGL",
+  "bondingCurve": "8eyuc9DwTcjN11ctmXmAu5TjiRD3G4CNYgbv8is9ykNG",
+  "associatedBondingCurve": "J3mrKY4cUnh83oCDAsncgCg2AikKZpiANeKJnYbx1edj",
+  "user": "9Fvj7n89g9kfDUJmBQJ2oFso9vdWiqh4h9kyzSBs3Peo"
+}

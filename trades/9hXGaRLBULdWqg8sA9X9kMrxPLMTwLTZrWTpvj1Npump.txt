@@ -1,0 +1,9 @@
+{
+  "name": "WADDLE TRADING AI",
+  "symbol": "WAD",
+  "uri": "https://ipfs.io/ipfs/QmQZq4yzUzzWBaLCRpKrv3zPZQk8EymJKi6WF9wLPuDibA",
+  "mint": "9hXGaRLBULdWqg8sA9X9kMrxPLMTwLTZrWTpvj1Npump",
+  "bondingCurve": "7uRRAEYtkW3a7XJasiYahJ5rfjNh4EuMFiYpQJAaC7iX",
+  "associatedBondingCurve": "H777PwU5ApADBvnHFsKZZGVcvEHCQWd18XVj9kWKdWeT",
+  "user": "FPLp83Re1LptmZKoivfDBuhCAgr5KG36sPirCX6oS5qZ"
+}

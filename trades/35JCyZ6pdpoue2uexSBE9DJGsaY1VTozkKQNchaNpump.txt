@@ -1,0 +1,9 @@
+{
+  "name": "Coffeezilla Killer",
+  "symbol": "Coffeezill",
+  "uri": "https://ipfs.io/ipfs/QmUBGBZGUEDgGMe9yHXRBc62BvT4iF8TrXvYAnTPRfsSyU",
+  "mint": "35JCyZ6pdpoue2uexSBE9DJGsaY1VTozkKQNchaNpump",
+  "bondingCurve": "BwTVBdHMXVMScWnuUnKdTDWoBYFPpte3sDrVDZwuxVUn",
+  "associatedBondingCurve": "CHs3U2VeLUhusAjE9koY1mseN1Cxbj2yF5wXK9TvxiA5",
+  "user": "FBrpUN4sSNp1rRY3XHBvmHLu13egxS1CNXczCicYMtH9"
+}

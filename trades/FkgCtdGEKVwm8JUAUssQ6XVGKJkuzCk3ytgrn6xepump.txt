@@ -1,0 +1,9 @@
+{
+  "name": "YEET",
+  "symbol": "YEET",
+  "uri": "https://ipfs.io/ipfs/QmTFdK8KQJiAxCGxxki6m8UUaAFhYpVSiGBqScAk7gwQ8K",
+  "mint": "FkgCtdGEKVwm8JUAUssQ6XVGKJkuzCk3ytgrn6xepump",
+  "bondingCurve": "EK7xad2ziCvNMQQMdYsh9KV25MPu7Neg9g3WxMJLFCKa",
+  "associatedBondingCurve": "4pf4uHhbN7nm2S9m1ak2uvLgRcvZSnDL4odBnXVPDuWF",
+  "user": "5WpQ2JHzVbZ5kWf5fkAdUUR2fjYUf9NrRwZXb9dRdBvf"
+}

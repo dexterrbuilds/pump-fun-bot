@@ -1,0 +1,9 @@
+{
+  "name": "Justice for Jenny",
+  "symbol": "Justice",
+  "uri": "https://ipfs.io/ipfs/Qmbhg1HWtrgyjLA3ViJbq8LYBpBWKRendQQez6PnGYEP3R",
+  "mint": "CzBq26ew3amdfndYLcjDE7JAE7nUTwbq4bEYw4UQm5QG",
+  "bondingCurve": "81bebkox1DizyPMnctqcFx1nHCmCtGAgidgPULBcW7vY",
+  "associatedBondingCurve": "4HSTL9RatGoMBQgos2uosxX1friFrnNdqLwFtzW56TUF",
+  "user": "62rAkhKu4xPyRWQyZ77KbEspaATTNEyJ4Jw4cdasjTUG"
+}

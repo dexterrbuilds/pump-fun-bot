@@ -1,0 +1,9 @@
+{
+  "name": "BOBCATTY",
+  "symbol": "BOBCAT",
+  "uri": "https://ipfs.io/ipfs/QmcqucFpvB48QStuXruiFmxHyeTrYjrSPQ5QDGCnwtEDn3",
+  "mint": "9VwohAdhkrfuJmESFrZkJZFREr8gTfsPaYSzBLKYuxqp",
+  "bondingCurve": "DCeLdgc3tffi1e3J1SomDojzHNRavYS8QZY7EU54FVDS",
+  "associatedBondingCurve": "AFZfSirTcf1LsY4JvdTXqTvcHh4tACr8oJ8RwEqcGzTm",
+  "user": "GtbwuEsZUTLbNMxwj78k5PKZn5LN7cGG5UWuVpVq33jp"
+}

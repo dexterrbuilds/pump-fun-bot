@@ -1,0 +1,9 @@
+{
+  "name": "THE FIRST TRENCHPEN",
+  "symbol": "LUCKYCURVE",
+  "uri": "https://ipfs.io/ipfs/QmfHcnxMELJteLzUu4bZPkh2akoNEK6bGbeAhcRggGtxvF",
+  "mint": "Gip93yi7s2JpSnb93m9TN58bF5dKEMaf6kFkweTkwNg9",
+  "bondingCurve": "5GQMpm2HYBc3uR9drhJtBbYQpG6zQBZUBxhhdWFNux2Q",
+  "associatedBondingCurve": "Z5eGSaqdQCnSAjXiQ6ANmFhgouqQS24FRYvhQAzReQ2",
+  "user": "6oC9xXK5KEwC4ECUP289YPiNc8Ei9mPmdis1fu7b16LG"
+}

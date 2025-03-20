@@ -1,0 +1,9 @@
+{
+  "name": "SCRAPEX by Grok3",
+  "symbol": "SCRAPEX",
+  "uri": "https://ipfs.io/ipfs/QmQ3fFayc9CT411wjRWGXtzkZK9qA6wvD2p2tNkfKa3MN2",
+  "mint": "B57or9Laafz1XEpd6Ucr6c2mnFpJwzJPMiwYbWYpump",
+  "bondingCurve": "F3zG6ewEVytCCumzumGhNs8MX2JWbstcX4PjpFKdMt9T",
+  "associatedBondingCurve": "3dRGUCmkwfq8ZeaLb9Qj2dHV4Wtc1T4kuQJt8vzSvcw4",
+  "user": "9HoCqATrE1onQHPERm7FSzbKecDVaE4Usy6FQra3cKRW"
+}

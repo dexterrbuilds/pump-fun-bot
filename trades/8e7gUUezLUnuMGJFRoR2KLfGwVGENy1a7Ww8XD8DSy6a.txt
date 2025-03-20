@@ -1,0 +1,9 @@
+{
+  "name": "Protect Retail Unit",
+  "symbol": "CETU",
+  "uri": "https://ipfs.io/ipfs/QmSajk1i2KQZomtBzFiDhyHfuyLzGCoR35MLouuDfNqENy",
+  "mint": "8e7gUUezLUnuMGJFRoR2KLfGwVGENy1a7Ww8XD8DSy6a",
+  "bondingCurve": "53spZCnkHH15J5jRDZeTD5TdWhqS3n21Rhor7cRMJai7",
+  "associatedBondingCurve": "JBkG2ZUhxzXm26K1X1oeiNMipZFn3jRZGdPk1Rnrpeou",
+  "user": "72n3aiWKQQq7DTRaNLaGFLRCoWPkSzsTwNsNwJ9fN5DL"
+}

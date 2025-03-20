@@ -1,0 +1,9 @@
+{
+  "name": "Fart Putin coin",
+  "symbol": "Putin",
+  "uri": "https://ipfs.io/ipfs/QmZphVZxxSRWsP4D4N2NNJPPwBJb3or7KrmBsBZ1CUqkLa",
+  "mint": "7Nt8KGxeeEq7LHR61uJXK5TsGCz5iYZZuj4m5Cppump",
+  "bondingCurve": "CzZH6UUt3eCEZrsjGRZVX421fPa1Pvh1QJQv1rsrPKr8",
+  "associatedBondingCurve": "9Ww11xc59ZNudJmjMBgkC7C3RawbJRgFYtmP5ifH9J7W",
+  "user": "8MD53wA2QvQXEK2Wtf5B6gHFLVZwHiTrnHk93WL5w2Am"
+}

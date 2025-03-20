@@ -1,0 +1,9 @@
+{
+  "name": "SEXT AI RORY",
+  "symbol": "SAR",
+  "uri": "https://ipfs.io/ipfs/QmNd6tVeF8pvggmieHVmH8F1nXKu8hfyTaVnUc1VPAct83",
+  "mint": "69g1U3mf6VRTRKmFGrDrbdYBFP7DuBQPkNZj59XTpump",
+  "bondingCurve": "9KN3w9Gw9LU173atHdASRgN7UBVfbuKw3Z7pP2Xu1pbM",
+  "associatedBondingCurve": "9cziX4BsfWXAjiGYgabBXzrcPvaV63emgXJt3BY7pGbN",
+  "user": "3gboA3k3RjRQeZcT7C7jYFxczH255Gw9TnskEwHLFf7A"
+}

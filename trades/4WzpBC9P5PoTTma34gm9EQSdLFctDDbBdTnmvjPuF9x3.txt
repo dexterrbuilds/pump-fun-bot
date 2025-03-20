@@ -1,0 +1,9 @@
+{
+  "name": "Grok3 Official Token TeslaMars",
+  "symbol": "TSLMS",
+  "uri": "https://ipfs.io/ipfs/QmZNbaD38WfVVLwaDhgXtfAxg33r1x8r9HTN5cr7HcQy25",
+  "mint": "4WzpBC9P5PoTTma34gm9EQSdLFctDDbBdTnmvjPuF9x3",
+  "bondingCurve": "2T99F1pQBsQ231MCawNXKRjGJGwspieQQvJrSwgtim9Y",
+  "associatedBondingCurve": "B8yWbzdF7KSrEAsyzY8o2gj8S3ukHbekxCAEWdLxA1B7",
+  "user": "DbDHgTtRNogMZJBoeUTV1WuQB7FsYa6YpdBNZ2vW7MYx"
+}

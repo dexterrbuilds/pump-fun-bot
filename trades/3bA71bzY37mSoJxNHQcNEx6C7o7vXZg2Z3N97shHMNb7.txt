@@ -1,0 +1,9 @@
+{
+  "name": "Confusio",
+  "symbol": "IO",
+  "uri": "https://ipfs.io/ipfs/QmRmKexYGSsf2XuM8Z1iz3rAoGmKUhq7ZvE22qtauAJ1uE",
+  "mint": "3bA71bzY37mSoJxNHQcNEx6C7o7vXZg2Z3N97shHMNb7",
+  "bondingCurve": "6ywBmCbudtfhCaZagwh6D9VGF8g62NFxaKNg4vvMxJM4",
+  "associatedBondingCurve": "7dmsVFHyC4tQTzNCcLKkDWLv4JoMqDFKVncaRL39Y7if",
+  "user": "29H6uYQUZGW9S5c9MPD9MJaYAiNLveZGdmTV7eKnSK1M"
+}

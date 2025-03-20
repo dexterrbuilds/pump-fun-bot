@@ -1,0 +1,9 @@
+{
+  "name": "Hans",
+  "symbol": "0,000001",
+  "uri": "https://ipfs.io/ipfs/QmXHVUaGFeS3sDFuy1pWrspDGGgFsEiCFJXKw4v8svBMKT",
+  "mint": "4pXNtWRKCVzcCizYjA2Np2tAcMRgHDd69Sppm2eGraaj",
+  "bondingCurve": "8GY5dgvXhqt8goDqDptSEJCAZfWPrZp8yD8FsWjFg4mU",
+  "associatedBondingCurve": "313ASHETqzWZSgFrXa2CpbWMSTz88g5m8E8tjEmJnd9w",
+  "user": "nKBkS3SxoZK52U4yUQWpDFHE23aAby4rQQBwDjGyd4Z"
+}

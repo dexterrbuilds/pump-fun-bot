@@ -1,0 +1,9 @@
+{
+  "name": "boohbah ",
+  "symbol": "bah ",
+  "uri": "https://ipfs.io/ipfs/QmQwnWn6NpTEnFLih5eFFm87ougXbNCMYBycGx6CK9DPL3",
+  "mint": "EKyLS8tAdiDCEE38HPWnfauMkRQs8KY9dWMSHExN1FKY",
+  "bondingCurve": "9rbZ5xdJRfrmr7u3asz1xYhwreYGujYZNvyCvcSGc1BC",
+  "associatedBondingCurve": "H3zcAW4ZBg7FDtqoj6ndJDpjScqx5ri5T9hdLLR5UL93",
+  "user": "21m4Be36M2t3SDSXJqmogWEjx4mzAKZPtDUvqjShH9u3"
+}

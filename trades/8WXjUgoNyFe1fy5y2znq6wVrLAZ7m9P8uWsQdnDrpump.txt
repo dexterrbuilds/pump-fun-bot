@@ -1,0 +1,9 @@
+{
+  "name": "Sharke",
+  "symbol": "Sharke",
+  "uri": "https://ipfs.io/ipfs/QmUoGrYwYF5LV9uu4KPBLYZ72ospFS27PtqCZt45i5egWQ",
+  "mint": "8WXjUgoNyFe1fy5y2znq6wVrLAZ7m9P8uWsQdnDrpump",
+  "bondingCurve": "H226FyKhdpRv67WzAJcxAGKCvjG45RRJSH1HjqPYCFwC",
+  "associatedBondingCurve": "Cjuo5vNq3XAFzkmRj1XUrozc7qmMvuN85cHdnopvqZfV",
+  "user": "8vt2szDoA4Kh4REYnHMAW9TMDZxFjUMDmhb1LN6B1A4F"
+}

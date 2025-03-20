@@ -1,0 +1,9 @@
+{
+  "name": "Angry Trump",
+  "symbol": "Htrump",
+  "uri": "https://ipfs.io/ipfs/QmYTVrmxvCKbGzjW9uwVcnaqYfvS8px3nLgeGXYp1dwNdj",
+  "mint": "9QHEChb5Edymvg8esP71uNNyF7u6ED6ConBpQPE6TvBQ",
+  "bondingCurve": "BaRqoWambdr5yXA12todZiVcJnFbXdJeu5GUcgfF3Ji",
+  "associatedBondingCurve": "BrUHkmmhyey6Bta3ccSsyfub3RYjCQizn874x7n61aVd",
+  "user": "2soh3ofYBToVY6i6gTRSL6m6yujZfbCXsUGQP1hqEric"
+}

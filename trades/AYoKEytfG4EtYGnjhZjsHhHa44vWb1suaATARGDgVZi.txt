@@ -1,0 +1,9 @@
+{
+  "name": "LET IT BEE",
+  "symbol": "Bzzzz \ud83d\udc1d",
+  "uri": "https://ipfs.io/ipfs/QmSTubHmW7Jd3iNsz1wF5cif4Yf1627Fmft5AnuCvmN3kW",
+  "mint": "AYoKEytfG4EtYGnjhZjsHhHa44vWb1suaATARGDgVZi",
+  "bondingCurve": "4xXoxtBSSusVfSTMvPbSGCgPzeM5PNZAUM1bemVVaDWE",
+  "associatedBondingCurve": "B7YEkmHodwfA32RorQ4ycJreD7TqJS2xG5tcLRG5BbKo",
+  "user": "DP3TBuAtaC4EJwBk26oH3aGqBs5GQqRPXJoQ8NBDJ8GT"
+}

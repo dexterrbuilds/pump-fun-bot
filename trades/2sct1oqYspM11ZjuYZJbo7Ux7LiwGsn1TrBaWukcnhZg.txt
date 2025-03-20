@@ -1,0 +1,9 @@
+{
+  "name": "Meat Grinder Conflict",
+  "symbol": "MEATGRIND",
+  "uri": "https://api.uploadhub.fun/coindata/kitten_23881615_awgjctzvkv",
+  "mint": "2sct1oqYspM11ZjuYZJbo7Ux7LiwGsn1TrBaWukcnhZg",
+  "bondingCurve": "HQsuu8M9n4ZntD19PvAktUEPPK7D7GPuMrWEoQX2MPmb",
+  "associatedBondingCurve": "2UKMHejmKdaWyXYsH3q2w1qEqK87bK6ZYtmTZYHeY1UE",
+  "user": "BMM5doXkr3G1b4jdXmqU7HtNGacAUHX4PnZPYYRXJzZh"
+}

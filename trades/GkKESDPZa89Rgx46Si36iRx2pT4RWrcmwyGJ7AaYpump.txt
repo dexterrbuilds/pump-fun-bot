@@ -1,0 +1,9 @@
+{
+  "name": "Ye AI",
+  "symbol": "YeAI",
+  "uri": "https://ipfs.io/ipfs/QmNizfJ1aB3KP5V2QWkubfnhBvge8NQfthQqvPWNnk15wm",
+  "mint": "GkKESDPZa89Rgx46Si36iRx2pT4RWrcmwyGJ7AaYpump",
+  "bondingCurve": "HKRRFz2fC7mxVmtu8qpzRbuaxJyUSDCnnmCqBAbPfGho",
+  "associatedBondingCurve": "GtDFBu9UJbdggBnuCBhZyV5zvzkGomcbTLQLg5auTX85",
+  "user": "7SmDm4WHAgF5viXBv9QSgjrXsge7KjeG5iUVBKhw3G1Y"
+}

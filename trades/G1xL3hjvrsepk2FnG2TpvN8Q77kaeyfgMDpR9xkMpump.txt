@@ -1,0 +1,9 @@
+{
+  "name": "FUNTIKDOG",
+  "symbol": "FUNTIK",
+  "uri": "https://ipfs.io/ipfs/QmaejkeYTAzGWYoUYohq9pU9vvnzMKB5Q6kRC7yNjrKYRz",
+  "mint": "G1xL3hjvrsepk2FnG2TpvN8Q77kaeyfgMDpR9xkMpump",
+  "bondingCurve": "GPveDfVKGcYK4hZEvpXeRHSZJvmhaf1PXzpPGZbLUN67",
+  "associatedBondingCurve": "4rMRnXuVVphzWDVT61qwCfVM5oGkuJBtd1jydApNtjfy",
+  "user": "AMQ5zfyATi6MwJVquYHr9ypUfrcsQUQL5vqavMUe9QMD"
+}

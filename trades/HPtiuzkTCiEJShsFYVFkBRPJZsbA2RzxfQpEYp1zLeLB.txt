@@ -1,0 +1,9 @@
+{
+  "name": "GIGAFOOF",
+  "symbol": "GIGAFOOF",
+  "uri": "https://ipfs.io/ipfs/QmQgwBhEBGD2EKA8kf4sSfRHQSrky1V34kf3oLtr5MEeCe",
+  "mint": "HPtiuzkTCiEJShsFYVFkBRPJZsbA2RzxfQpEYp1zLeLB",
+  "bondingCurve": "7ueekyF4Cray5agwBCnTga9YmfJyCZL29z34fz6ZtRB5",
+  "associatedBondingCurve": "64u5gwkFKaKKLT7aon9aVaKsDfnwFP7mzn53WAVZceAm",
+  "user": "456sWFaH81VbJQLrpys2tMcH9UTV7sjkcDHvsciVwCpL"
+}

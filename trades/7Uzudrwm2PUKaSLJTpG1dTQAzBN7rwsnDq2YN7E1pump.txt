@@ -1,0 +1,9 @@
+{
+  "name": "Clicking Until Millions ",
+  "symbol": "CUM",
+  "uri": "https://ipfs.io/ipfs/QmSY8Pn4cDQ94CRLCGRtCg6JQ8Kyqjd9PdpuccxshwjATn",
+  "mint": "7Uzudrwm2PUKaSLJTpG1dTQAzBN7rwsnDq2YN7E1pump",
+  "bondingCurve": "7iP7W7RydehUgQPF6waXH5EBj39nssdAZ4XMprDmaWTm",
+  "associatedBondingCurve": "ErtZcLmPWM4Gmta587bJmoK5eWyNKDEYSaPpG7un6e3p",
+  "user": "4YGPC1auP1qiraLjDuGn6i4YfKZjaBMsFuCHHHobvANi"
+}

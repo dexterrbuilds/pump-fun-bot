@@ -1,0 +1,9 @@
+{
+  "name": "LEDOODLE",
+  "symbol": "LEDOODLE",
+  "uri": "https://ipfs.io/ipfs/QmPRJPQ5uiEisQfAgjYgukJe8Y34MfU4rZvmmhrDYfKJCn",
+  "mint": "7PXeY4pbWSchQqTM2xbLjXXSG7aYd14uoWyvMk9kFMND",
+  "bondingCurve": "6URFh8NJWg3UwzD7h49zsgf7zWtZTF3WwAR7WBARgP8g",
+  "associatedBondingCurve": "E31mUu49ueTQSCZZu4PrjW2YPnDvtPriHiJNGnHNbeu8",
+  "user": "2sZY36LXyMcSmUdYePnSX2jURcjBW6PqdZSt679Guzs9"
+}

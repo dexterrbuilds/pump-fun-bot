@@ -1,0 +1,9 @@
+{
+  "name": "IRL ZOMBIES",
+  "symbol": "ZOMBIES",
+  "uri": "https://metadata.pumployer.fun/data/5974cd3e-931a-42c9-8d6c-05d63e875644.json",
+  "mint": "BAhTtnjq9cKHRMA7PaHfEQC4QM8UMM7jvpxTRikCSkEz",
+  "bondingCurve": "9Kpwy6NHQYnqrRWDZBwWAuRnAwZuo6A1YQEXzW5c42qg",
+  "associatedBondingCurve": "2Y597x2ceJCHmJy1cQxHwj6N7VSJrYqcnanY52BceC1f",
+  "user": "MNhBbrscBPmeid54buiqSgyWa4D8PY6uKHoK2wJsTJN"
+}

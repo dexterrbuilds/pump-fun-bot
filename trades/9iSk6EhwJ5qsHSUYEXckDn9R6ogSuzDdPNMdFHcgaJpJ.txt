@@ -1,0 +1,9 @@
+{
+  "name": "Goofy Broccoli",
+  "symbol": "GB",
+  "uri": "https://ipfs.io/ipfs/QmUNEcsrTfw3te7eBc3ixrAHEDK84zVZNoMqCCJYgcEvbb",
+  "mint": "9iSk6EhwJ5qsHSUYEXckDn9R6ogSuzDdPNMdFHcgaJpJ",
+  "bondingCurve": "937Wo69R7eVwAkZFapb5J3QUrbR9ZQJuHTEXpRGc4Lhq",
+  "associatedBondingCurve": "9hvNot89QZoy9iTjq4RtxYQygqfswd81vm3V2YWsvHe9",
+  "user": "CMU8EewYVLZogYvrFUHo6cy4H5MtwLftUX9fdTKQ9GQy"
+}

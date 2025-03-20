@@ -1,0 +1,9 @@
+{
+  "name": "BBC TRUMP",
+  "symbol": "BCTR",
+  "uri": "https://ipfs.io/ipfs/QmVH7mjtKXzkXf3oeBV6f5UccdEZiEHii9hCpQ1MknjNp7",
+  "mint": "DrEeNCrBqJPbciG27tE6RyzQtTAu37iaCBAwkwjgQgNH",
+  "bondingCurve": "4gCiew8veyjqchTMMUBb1tptW2fzduZgmgebq9WcZLfT",
+  "associatedBondingCurve": "BeWrdSVS1ovNEByKF4TKmCtSGKFhNmkgZwPJdMNZKrC9",
+  "user": "3tQKVEPq4ZY1eBCUrC1BRQ47C3GLp6Q4LP9XWfHa1NfF"
+}

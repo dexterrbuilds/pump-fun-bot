@@ -1,0 +1,9 @@
+{
+  "name": "Grok voice",
+  "symbol": "Grok voice",
+  "uri": "https://ipfs.io/ipfs/QmRUhXNjuHXL5oHgGL1R4ZU8LxPRWRhRJzgb6mYZ7W68N4",
+  "mint": "4g5a1U2pP7QPkkJE2SA8iCKsAMQuzgeqYk4q25xzpump",
+  "bondingCurve": "EiH3V9YFBWpxaChvCzzAweWA38J718isBZtpiRk9k1gw",
+  "associatedBondingCurve": "7qx19cFQrfa98U3dJ5gxyfPK3Z1hSVb6nJ8Xvbd5ez8Q",
+  "user": "2Bzb9M1FLF6YVJTvpNLSkbzsi5qCXhqfTrA9VSPyCm7K"
+}

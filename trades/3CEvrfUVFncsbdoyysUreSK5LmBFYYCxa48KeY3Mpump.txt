@@ -1,0 +1,432 @@
+{
+  "name": "NEW SEC STABLECOIN",
+  "symbol": "YLDS",
+  "uri": "https://ipfs.io/ipfs/QmdPeVVDcJ161LzmsiQnXdxbW5XY6PszAKNVHGasnKSLPn",
+  "mint": "3CEvrfUVFncsbdoyysUreSK5LmBFYYCxa48KeY3Mpump",
+  "bondingCurve": "7LWgX1nsatQYPvDwvQoRvSMAs7AtB8PoYSGkDNYkSniA",
+  "associatedBondingCurve": "75TBH2XYJraqnw3RZ9xFwQQg12TSLp5w92n9kKxXDf97",
+  "user": "3JUDMUmbdeZDJ3CtUEESbGJQ5ekMdiTXvwjct3wUEnS1"
+}
+
+import os
+import discord
+import datetime
+import yaml
+import logging
+import time
+import urllib.parse
+import requests
+from PIL import Image, ImageDraw, ImageFont
+from discord.ext import commands
+from discord import app_commands
+from discord.ui import Button, View
+from discord import ButtonStyle
+
+# Disable logging output
+logging.basicConfig(level=logging.CRITICAL)
+logging.getLogger("discord").setLevel(logging.CRITICAL)
+
+# Load the configuration from config.yml
+with open("config.yml", "r") as config_file:
+    config = yaml.safe_load(config_file)
+
+# ASCII Art
+ascii_logo_path = "ascii_logo.txt"
+if os.path.exists(ascii_logo_path):
+    with open(ascii_logo_path, "r") as f:
+        ascii_art = f.read()
+    print(ascii_art)
+print("Starting...\n")
+
+# Path to font files
+font_folder = "/home/container/fonts/"
+emoji_font_path = os.path.join(font_folder, "NotoColorEmoji-Regular.ttf")
+default_font_path = os.path.join(font_folder, "Roboto-VariableFont_wdth,wght.ttf")
+
+# Color mapping
+color_map = config['colors']
+
+# Bot token
+TOKEN = config['bot_token']
+
+# Bot setup
+intents = discord.Intents.default()
+intents.messages = True
+intents.guilds = True
+client = commands.Bot(command_prefix="/", intents=intents)
+
+# Initialize user data
+client.user_data = {}
+
+SNS_API_URL = "https://sns-api.bonfida.com/v2/domains/exists/"
+
+def check_domain_existence(domain):
+    """Check if a .sol domain exists using the SNS API."""
+    try:
+        response = requests.get(f"{SNS_API_URL}{domain}")
+        print(f"API Response Status: {response.status_code}")
+        print(f"API Response Text: {response.text}")  # Debugging log
+
+        if response.status_code == 200:
+            data = response.text.strip().lower()  # Ensure clean and lowercase response
+            if data == "true":
+                return True
+            elif data == "false":
+                return False
+            else:
+                print("Unexpected response format.")
+        return None  # API error or unexpected response format
+    except requests.RequestException as e:
+        print(f"Error checking domain existence: {e}")
+        return None
+
+@client.event
+async def on_ready():
+    print("Started")  
+    await client.tree.sync()
+    print(f'Logged in as {client.user}')
+    client.start_time = time.time()  
+
+    # Set bot activity status
+    await client.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name="sns.id"))
+
+
+
+## search command
+
+@client.tree.command(name="search", description="Check the availability of a .sol domain")
+async def search(interaction: discord.Interaction, domain: str):
+    await interaction.response.defer()
+
+    if not domain.endswith(".sol"):
+        domain += ".sol"
+
+    exists = check_domain_existence(domain)
+
+    if exists is None:
+        await interaction.followup.send("There was an error checking the domain. Please try again later.")
+    elif exists:
+        await interaction.followup.send(f"❌ {domain} already registered.")
+    else:
+        # Create the button with a lightning emoji for registration
+        button = discord.ui.Button(
+            label="Register", 
+            style=discord.ButtonStyle.link, 
+            url=f"https://www.sns.id/search?search={domain}",
+            emoji="⚡"  # Lightning emoji
+        )
+
+        # Create a view to hold the button
+        view = discord.ui.View()
+        view.add_item(button)
+
+        await interaction.followup.send(f"🎉 {domain} is available!", view=view)
+
+
+
+
+# bsearch command
+
+@client.tree.command(name="bsearch", description="Bulk check the availability of .sol domains (up to 25 domains)")
+async def bsearch(interaction: discord.Interaction, domains: str):
+    await interaction.response.defer()
+
+    # Split input into domains by line breaks
+    domain_list = domains.strip().splitlines()
+
+    # Limit the number of domains to 25
+    if len(domain_list) > 25:
+        await interaction.followup.send("You can only check up to 25 domains at a time.")
+        return
+
+    results = []
+    for domain in domain_list:
+        if not domain.endswith(".sol"):
+            domain += ".sol"
+
+        exists = check_domain_existence(domain)
+
+        if exists is None:
+            results.append(f"❌ Error checking {domain}")
+        elif exists:
+            results.append(f"❌ {domain} already registered.")
+        else:
+            results.append(f"🎉 {domain} is available!")
+
+    # Join the results into a single string with each result on a new line
+    result_message = "\n".join(results)
+    
+    await interaction.followup.send(result_message)
+
+
+
+
+# leaderboard command 
+
+@client.tree.command(name="leaderboard", description="Get the highest sales and top categories by volume in the last 7 days")
+async def leaderboard(interaction: discord.Interaction):
+    await interaction.response.defer()
+
+    try:
+        # Get timestamps for the last 7 days
+        end_time = int(datetime.datetime.now(datetime.UTC).timestamp())
+        start_time = end_time - (7 * 24 * 60 * 60)  # 7 days ago
+
+        # API endpoints
+        sales_url = f"https://sns-api.bonfida.com/sales/top?start_time={start_time}&end_time={end_time}&limit=5"
+        categories_url = f"https://sns-api.bonfida.com/categories/stats?start_time={start_time}&end_time={end_time}"
+
+        # Fetch sales data
+        response_sales = requests.get(sales_url)
+        response_sales.raise_for_status()
+
+        # Fetch category data
+        response_categories = requests.get(categories_url)
+        response_categories.raise_for_status()
+
+        # Parse JSON responses
+        try:
+            sales_data = response_sales.json()
+            categories_data = response_categories.json()
+        except requests.JSONDecodeError:
+            return await interaction.followup.send("❌ Failed to parse API responses. Try again later.")
+
+        # Extract relevant data
+        sales_list = sales_data.get("result", [])
+        categories_list = categories_data.get("result", [])
+
+        if not sales_list and not categories_list:
+            return await interaction.followup.send("ℹ️ No sales or category data available for the last 7 days.")
+
+        embed = discord.Embed(title="🔝 Highest Sales & Top Categories", color=discord.Color.blue())
+
+        # Add highest sales section
+        if sales_list:
+            sales_description = "\n".join(
+                [f"💰 **{sale.get('domain_name', 'Unknown')}** - Sold for **${sale.get('usd_price', 0):,.2f}**"
+                 for sale in sales_list]
+            )
+            embed.add_field(name="🔥 Highest Sales", value=sales_description, inline=False)
+        else:
+            embed.add_field(name="🔥 Highest Sales", value="No sales data available.", inline=False)
+
+        # Add a horizontal separator
+        embed.add_field(name="───────────────────────", value="​", inline=False)
+        # Add top categories by volume section
+        if categories_list:
+            categories_description = "\n".join(
+                [f"📈 **{category.get('category_name', 'Unknown')}** - Volume: **${category.get('volume', 0):,.2f}**"
+                 for category in categories_list[:5]]  # Taking top 5 categories
+            )
+            embed.add_field(name="📊 Top 5 Categories by Volume", value=categories_description, inline=False)
+        else:
+            embed.add_field(name="📊 Top 5 Categories by Volume", value="No category data available.", inline=False)
+
+        # Adding footer with last 7 days info
+        embed.set_footer(text="Data for the last 7 days")
+
+        await interaction.followup.send(embed=embed)
+
+    except requests.exceptions.RequestException as e:
+        await interaction.followup.send(f"⚠️ API request error: `{e}`")
+    except Exception as e:
+        await interaction.followup.send(f"⚠️ An unexpected error occurred: `{e}`")
+
+
+
+# Report recipient ID
+REPORT_RECIPIENT_ID = config.get("report_recipient_id", None)
+
+# Report command
+@client.tree.command(name="report", description="Send a report to the bot owner")
+async def report(interaction: discord.Interaction, message: str, attachment: discord.Attachment = None):
+    if not REPORT_RECIPIENT_ID:
+        await interaction.response.send_message("⚠️ Report recipient is not set up. Please contact an admin.", ephemeral=True)
+        return
+
+    recipient = await client.fetch_user(REPORT_RECIPIENT_ID)
+    if recipient:
+        embed = discord.Embed(
+            title="📢 New Report Received",
+            color=discord.Color.red(),
+            timestamp=datetime.datetime.now()
+        )
+        
+        # Add the user info at the top
+        embed.add_field(name="Username", value=interaction.user.name, inline=False)
+        embed.add_field(name="User ID", value=str(interaction.user.id), inline=False)
+        
+        # Add a proper line break separator
+        embed.add_field(name="\u200b", value="**────────────────────────**", inline=False)
+
+        # Add the message with the image (if provided) at the bottom
+        embed.add_field(name="Message", value=message, inline=False)
+
+        if attachment and attachment.content_type.startswith("image"):
+            embed.set_image(url=attachment.url)
+
+        try:
+            await recipient.send(embed=embed)
+            await interaction.response.send_message("✅ Your report has been sent successfully.", ephemeral=True)
+        except discord.Forbidden:
+            await interaction.response.send_message("⚠️ Failed to send the report. The recipient's DMs might be closed.", ephemeral=True)
+    else:
+        await interaction.response.send_message("⚠️ Could not find the report recipient.", ephemeral=True)
+
+
+
+
+# help command
+
+@client.tree.command(name="help", description="Get a list of available commands and their usage")
+async def help_command(interaction: discord.Interaction):
+    embed = discord.Embed(
+        title="Help - Command List",
+        description=(
+            "Here are the available commands:\n\n"
+            "🔍 **/search <domain>** - Check if a .sol domain is available.\n"
+            "📊 **/bsearch <domains>** - Check up to 25 .sol domains at once.\n"
+            "🖼️ **/upload <attachment>** - Upload an image to process.\n"
+            "✍️ **/text <domain> [color]** - Add text (domain) to your uploaded image. Optional color.\n"
+            "📈 **/status [user]** - Check the bot's or your session status.\n"
+            "🏆 **/leaderboard** - View the highest sales and top categories by volume in the last 7 days.\n"
+            "📢 **/report <message> [attachment]** - Send a report to the bot owner. Optional image attachment."
+        ),
+        color=discord.Color.blue()
+    )
+    
+    try:
+        await interaction.response.send_message(embed=embed)
+    except Exception as e:
+        print(f"Error sending help message: {e}")
+        await interaction.response.send_message("Sorry, I encountered an error while sending the help message.")
+
+
+
+# upload command
+
+@client.tree.command(name="upload", description="Upload an image for processing")
+async def upload(interaction: discord.Interaction, attachment: discord.Attachment):
+    await interaction.response.defer()
+    
+    file_path = f"downloads/{attachment.filename}"
+    os.makedirs("downloads", exist_ok=True)
+    await attachment.save(file_path)
+    
+    client.user_data[interaction.user.id] = {'image_path': file_path}
+    await interaction.followup.send("Uploaded! Now use /text <domain> [color].")
+
+def add_text_to_image(image_path: str, text: str, color: str = None):
+    """Adds text to an image and saves a new file."""
+    image = Image.open(image_path)
+    draw = ImageDraw.Draw(image)
+    width, height = image.size
+
+    font_path = emoji_font_path if any(ord(char) > 127 for char in text) else default_font_path
+    font_size = min(width // len(text), 160)  
+    try:
+        font = ImageFont.truetype(font_path, font_size)
+    except OSError:
+        font = ImageFont.truetype(default_font_path, font_size)
+
+    while draw.textbbox((0, 0), text, font=font)[2] > width - 40 and font_size > 10:
+        font_size -= 2
+        font = ImageFont.truetype(font_path, font_size)
+
+    text_bbox = draw.textbbox((0, 0), text, font=font)
+    text_width, text_height = text_bbox[2] - text_bbox[0], text_bbox[3] - text_bbox[1]
+    x_position = (width - text_width) // 2
+    y_position = height - text_height - 200  
+
+    if color:
+        if color.startswith("#"):
+            text_color = color
+        elif color.lower() in color_map:
+            text_color = tuple(color_map[color.lower()])
+        else:
+            text_color = (255, 255, 255)
+    else:
+        text_color = (255, 255, 255)
+
+    draw.text((x_position, y_position), text, font=font, fill=text_color)
+
+    new_image_path = image_path.replace(".jpg", "_with_text.jpg")
+    image.save(new_image_path)
+    return new_image_path
+
+
+
+# text command
+
+@client.tree.command(name="text", description="Add text to your uploaded image")
+async def text(interaction: discord.Interaction, domain: str, color: str = None):
+    await interaction.response.defer()
+    
+    user_data = client.user_data.get(interaction.user.id)
+    if not user_data or 'image_path' not in user_data:
+        await interaction.followup.send("Please upload an image first using /upload.")
+        return
+    
+    image_path = user_data['image_path']
+    new_image_path = add_text_to_image(image_path, domain, color)
+
+    view = View()
+    
+    tweet_message = "I created this background using @dotSOLmate!"
+    encoded_message = urllib.parse.quote(tweet_message)
+    twitter_button = Button(style=ButtonStyle.grey, label="", emoji="<:IMG_4208:1341156937189949450>", url=f"https://twitter.com/intent/tweet?text={encoded_message}")
+    view.add_item(twitter_button)
+    
+    try:
+        await interaction.followup.send(file=discord.File(new_image_path), view=view)
+    except discord.errors.HTTPException as e:
+        await interaction.followup.send(f"An error occurred while sending the image: {str(e)}")
+    except Exception as e:
+        await interaction.followup.send(f"An unexpected error occurred: {str(e)}")
+    finally:
+        if os.path.exists(image_path):
+            os.remove(image_path)
+        if os.path.exists(new_image_path):
+            os.remove(new_image_path)
+        if interaction.user.id in client.user_data:
+            del client.user_data[interaction.user.id]
+
+
+
+# status command
+
+@client.tree.command(name="status", description="Check the bot's status or your session status")
+@app_commands.describe(user="Check your session status")
+async def status(interaction: discord.Interaction, user: bool = False):
+    await interaction.response.defer()
+    
+    bot_status = f"🟢 **Bot Status:** {str(client.status).capitalize()}\n"
+
+    # Calculate bot latency (ping)
+    latency = round(client.latency * 1000)  # Convert to milliseconds
+    latency_str = f"⚡ **Latency:** {latency}ms\n"
+
+    # Calculate bot uptime
+    uptime = time.time() - client.start_time
+    days, remainder = divmod(int(uptime), 86400)
+    hours, remainder = divmod(remainder, 3600)
+    minutes, seconds = divmod(remainder, 60)
+    uptime_str = f"⏳ **Uptime:** {days}d {hours}h {minutes}m {seconds}s\n"
+
+    # Get server and user count
+    server_count = len(client.guilds)
+    user_count = sum(len(guild.members) for guild in client.guilds)
+    server_status = f"🌍 **Servers:** {server_count}\n👥 **Users:** {user_count}\n"
+    
+    if user:
+        user_data = client.user_data.get(interaction.user.id)
+        user_status = "📷 **You have an image uploaded.**" if user_data and 'image_path' in user_data else "❌ **No image uploaded. Use /upload to start.**"
+        embed = discord.Embed(title="📊 Your Session Status", description=user_status, color=discord.Color.blue())
+    else:
+        full_status = f"{bot_status}{latency_str}{uptime_str}{server_status}"
+        embed = discord.Embed(title="🤖 Bot Status", description=full_status, color=discord.Color.green())
+    
+    await interaction.followup.send(embed=embed)
+
+
+client.run(TOKEN)

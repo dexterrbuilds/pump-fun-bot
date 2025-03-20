@@ -1,0 +1,9 @@
+{
+  "name": "Carrot to the Moon (CTM)",
+  "symbol": "CTM",
+  "uri": "https://ipfs.io/ipfs/QmNUNzw83QSJu2AsCEKZHiehKTGMWSnUMXzywxXzH1533F",
+  "mint": "Aud511ijMS2xhVvf3RASU6ngbh8WJTu1Vv9SrCnApump",
+  "bondingCurve": "EeeCnCXvZiAHGtLogufeH7qjrhNxep2UzTwi5daxqEzv",
+  "associatedBondingCurve": "GFRaYmDKQf63UFpfnbXa8hErdQPwZMStc64cBvELnSwM",
+  "user": "EYkvgbR8nzzZAcE1tBVibjiPu6YSagaJAEJMPscniLG9"
+}

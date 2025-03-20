@@ -1,0 +1,9 @@
+{
+  "name": "DogeCoin Cash Inc.",
+  "symbol": "DCI",
+  "uri": "https://ipfs.io/ipfs/QmaywyJJgZtdkgpPjuoUw1iYaU886hSENvZWG87jjDudxn",
+  "mint": "2tPJheuKVu3bJoi7BsjYdowGGCTRqPWjxSDD1Yjnpump",
+  "bondingCurve": "HqayMw3H12Js6xDKqxuhpBMeRnbc33fVCH24iH2NCNWn",
+  "associatedBondingCurve": "6hiqSApTb2sQBE6zWp3jEJ8mc2QrqCC64CLnSLK2vxJr",
+  "user": "3JUDMUmbdeZDJ3CtUEESbGJQ5ekMdiTXvwjct3wUEnS1"
+}

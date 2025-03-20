@@ -1,0 +1,9 @@
+{
+  "name": "Carrot the Sol Cat ",
+  "symbol": "CSC",
+  "uri": "https://ipfs.io/ipfs/QmUMqGWouWCi39zcUaobdDM4Z1nspZdSBk6uZ5fK8XZKRq",
+  "mint": "72vGMHvbe5JN36P8pKj86SAmRdyuPj2mDPyLNetz9zUo",
+  "bondingCurve": "3wSimY6Hrf5dhGyz7e8AKg7CywCg9kkPw4LjiAEBYcNV",
+  "associatedBondingCurve": "9tJqaqxzAwB9ryuoEkqj6AWjN3CYq4VRY6uTfqqPfhBM",
+  "user": "BTcmukQ1TpuKgTcip3ATMAmZECe86QZra7pnFsuXDrxT"
+}

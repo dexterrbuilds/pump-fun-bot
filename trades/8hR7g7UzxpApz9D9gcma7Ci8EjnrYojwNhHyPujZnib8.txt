@@ -1,0 +1,9 @@
+{
+  "name": "Touch\u00e9 ",
+  "symbol": "Touche",
+  "uri": "https://ipfs.io/ipfs/Qmd19eySpjND75imKSSgYaFd84J4cM3ffdnQRL7Vm2jC1h",
+  "mint": "8hR7g7UzxpApz9D9gcma7Ci8EjnrYojwNhHyPujZnib8",
+  "bondingCurve": "5nrdvcywXE3weLTUWA2W2rHyQa43r7YfQaACtok47XBL",
+  "associatedBondingCurve": "3MZKLm9w9sU7eyJBfFf887m5v4WrH8DLXb6Tty2sTd1C",
+  "user": "AiGeM8AAyEyFwRC969KkjnDBMrNBqFyfMii42D3bQ6Vm"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Official Carrot Hat",
+  "symbol": "Daucus",
+  "uri": "https://ipfs.io/ipfs/QmS1AXAgLLPvAPWVaunzKxTuyUq6VqUeRL2dP3W9TgArtd",
+  "mint": "Fa7VrxE37wiLG7Q6XMHJSy3cdWE7EpkhYXvfN3T6pump",
+  "bondingCurve": "EtkdRorNE8jVoy9gLJ3iWmv31Wa2rpNopNCDMAuvnnXM",
+  "associatedBondingCurve": "6JsUeFLHr4i2z4DEcKkw7qHJauXjYWY4CGEB7LD6K4As",
+  "user": "MmF3ncVBAGxUxsddfP3b9icuxv54sQ9WAd3V9zVBK6z"
+}

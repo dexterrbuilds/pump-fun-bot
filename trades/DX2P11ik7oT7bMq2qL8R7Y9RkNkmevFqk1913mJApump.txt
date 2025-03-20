@@ -1,0 +1,9 @@
+{
+  "name": "Cat Is Cooked",
+  "symbol": "Cookie",
+  "uri": "https://ipfs.io/ipfs/QmbVD5p2EBwafTLP4fGkB4Hm9aBrcNksiaLLAfiZL9bkXQ",
+  "mint": "DX2P11ik7oT7bMq2qL8R7Y9RkNkmevFqk1913mJApump",
+  "bondingCurve": "DRyhd2A3ys5WNrMKcbCGdzuEe3kMaa3vruFRATrZE47T",
+  "associatedBondingCurve": "BpWT3xaR1PnYz7v4nCnsHRPfCaW8bqodv83Qz6y4epiu",
+  "user": "6yocJ8Lq6KUrEs4tcu7vaQax9drZpvpBc6oZZuiXEDEB"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Sergey Nazarov",
+  "symbol": "Chainlink",
+  "uri": "https://ipfs.io/ipfs/QmZkxt53QadRTFafLTJrJuaAbAqR8ZGR89ksmZdNj8wGM6",
+  "mint": "7FVomrgW65Q2FFkcumhEYSrYBNEjTkNADphRze6npump",
+  "bondingCurve": "ChkcRYGnoxr3LXVoqsiLNXyKnuP3DQSdNXTCyJrvqk2o",
+  "associatedBondingCurve": "4eUPVLP5zCmMUVvmsA6QsjU5oa2ejLkAhxsfDJY83XxW",
+  "user": "EZoL4tRZEfFCBC42emm9UgiHKASPwQJSKUBKEnXvGzx"
+}

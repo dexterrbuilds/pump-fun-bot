@@ -1,0 +1,9 @@
+{
+  "name": "FIRST EVER TRENCHPEN",
+  "symbol": "TRENCHPEN",
+  "uri": "https://ipfs.io/ipfs/QmPkomannwBA4UVuuj3oAvfRkoGSJZP2tb2VAshskbRUBe",
+  "mint": "Bn6BqCRzKwEz8PLgh3BcJaCLsnkGpHcZ7okaAiSxpump",
+  "bondingCurve": "4s7hFCKyKYR7VK76NU7Ur4d3FUkP6StHRdXmLZ7nQAkf",
+  "associatedBondingCurve": "FFE9iUvDYLfraZszQJ1zcNAL2dxJzwEAiXoMaNJPYr8L",
+  "user": "3JUDMUmbdeZDJ3CtUEESbGJQ5ekMdiTXvwjct3wUEnS1"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "TAPPO",
+  "symbol": "TAPPO",
+  "uri": "https://ipfs.io/ipfs/QmeK2wBuyLdfMu5sJKs5cq6Tz4TQLXdR9sWAaWhhseroD3",
+  "mint": "3W251Mbw4XNKrTnP6XSiihS5w5SpihuJuaB7EKiG8b9s",
+  "bondingCurve": "A5Wjzug22ncNJDrEK58sij118paH4zVmg9WunnxWNBSr",
+  "associatedBondingCurve": "DtJTfEq9YDnW89Dn2gBssjkdBW6PcYKaihyGFKe24Z1F",
+  "user": "8cRYHKxxJKqpsPqyzgWnp97YzWuAXYTiQugNvGtRJi23"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Tesla new mascot dog ",
+  "symbol": "WOLF",
+  "uri": "https://ipfs.io/ipfs/QmWQ1oUJaadNRor3P4JPeSYp1CkJ55b3ww9NDGp4zYTpUH",
+  "mint": "6b9onn3G5E3HX9KN2AMuMRLQ7DJntDGZUbYeMgshAKc3",
+  "bondingCurve": "6Qs1Vwgsn4CWPWMSVtNgh2RYeseo2JtZ4LELcoxciJrm",
+  "associatedBondingCurve": "F7gbXF39rYrDsmyGBHVNcR9cy2kN3y8eJofSvrH89A4q",
+  "user": "CqMgZCorkHkoDpLiVU8kq66V9X4ELqLKzAPZhQJeMRYb"
+}

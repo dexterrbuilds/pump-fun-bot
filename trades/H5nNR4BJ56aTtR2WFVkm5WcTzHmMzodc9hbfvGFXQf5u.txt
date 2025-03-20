@@ -1,0 +1,9 @@
+{
+  "name": "Average Trencher Right Now",
+  "symbol": "TrenchCat",
+  "uri": "https://ipfs.io/ipfs/QmT6jY7aaE2iADZ1yqyS4dEx6pDEqwKBNcYex9Q7ZKFSKw",
+  "mint": "H5nNR4BJ56aTtR2WFVkm5WcTzHmMzodc9hbfvGFXQf5u",
+  "bondingCurve": "Ehzwxi94REwYFJU6LtkW983z9HhQb2wNvywLFJRkQ75T",
+  "associatedBondingCurve": "6oSVGLEhBTSJCwzybbGKXTBGUX62YM59weQMga523jA7",
+  "user": "8jqpPqajSNomWujbXT2uahuBCFr6tUamGRTWZoRNcAE1"
+}

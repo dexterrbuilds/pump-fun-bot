@@ -1,0 +1,9 @@
+{
+  "name": "ticker is dumpster",
+  "symbol": "\ud83d\uddd1",
+  "uri": "https://ipfs.io/ipfs/QmaDd7nGntxsLErVP92VboT7P4SiTfM1WAvk8x4i3wmSMs",
+  "mint": "DkPMvM2u7DyNEtD6cvTSrPi9uN5hzKdiarYvNQHYY3Z3",
+  "bondingCurve": "26p7urHuV55dFrgT3rriKeGouXvT6vDrs7S35zuPFjXW",
+  "associatedBondingCurve": "5THsY6RYmGeNZzmcdhucSiEUzyfsJ3rmxD8gGKFkRLDW",
+  "user": "Dio3Nyt1AhNdhSvnud2vNtXDqWrfNeSgU6uTuh1V5zSg"
+}

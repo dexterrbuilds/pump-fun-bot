@@ -1,0 +1,9 @@
+{
+  "name": "Marybiga",
+  "symbol": "MB",
+  "uri": "https://ipfs.io/ipfs/QmcTHmaYKHW3Fy2d3jM49P4ubp3KENRjCXvAMF1B5iadqC",
+  "mint": "7sf63uGj42UiFGUykMJasCFeqzYVsK5KwDfs4Wwvpump",
+  "bondingCurve": "3yyYmJHKwmo9BHfLNz41LXLANSxhjqsQb1NX173L5rHu",
+  "associatedBondingCurve": "EHpeV5XnDSV95CgLCQwcK4szeP25P9KJzUMSWkA5Y2Px",
+  "user": "932MPJyvPDuZikLd4LtS9WNnxSLASB8wh1rh4T4GTtwk"
+}

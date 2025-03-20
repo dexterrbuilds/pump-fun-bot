@@ -1,0 +1,9 @@
+{
+  "name": "OFFICIAL CETU COIN",
+  "symbol": "$ROOT",
+  "uri": "https://ipfs.io/ipfs/Qmb1eu5VoVge7fqn8DhrZZKXwXTX8Kz235AJn6zZKBwWZS",
+  "mint": "FQSCJfdUgxK1UQB5Pi68984yZeisfq7v7WRRYp49pump",
+  "bondingCurve": "7TQKikVN9H676nnk6p6KQHzdQNT2zs4pbmkqXxjnFSS9",
+  "associatedBondingCurve": "39JCfACPsm1QFV7h9yfcCMYiMM5yztntQqTYtSm7322t",
+  "user": "3JUDMUmbdeZDJ3CtUEESbGJQ5ekMdiTXvwjct3wUEnS1"
+}

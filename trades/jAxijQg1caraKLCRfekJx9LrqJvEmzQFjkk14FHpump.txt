@@ -1,0 +1,9 @@
+{
+  "name": "first mathematical mem\u0435",
+  "symbol": "'54:43",
+  "uri": "https://ipfs.io/ipfs/QmPTPsad7z2Wbi6P8mfsz1XciRXaM4UCYuHZnDMGes3Dsm",
+  "mint": "jAxijQg1caraKLCRfekJx9LrqJvEmzQFjkk14FHpump",
+  "bondingCurve": "HVeyF2v1sGBDTPSKEyyboGzPhHDdq6u96aFAgU186rza",
+  "associatedBondingCurve": "9fyWEzP7jXdQNkYTWbQNkvH4deq6yKBf3dXMziv3BAYZ",
+  "user": "4zaNgikqPhZaSkBcS6PoQfEyKnxUrnL3SnFKiiiXyxh"
+}

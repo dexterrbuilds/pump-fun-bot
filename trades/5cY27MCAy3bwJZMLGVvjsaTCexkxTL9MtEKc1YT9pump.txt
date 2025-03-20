@@ -1,0 +1,9 @@
+{
+  "name": "NEW TESLA MASCOT DOG",
+  "symbol": "RILEY",
+  "uri": "https://ipfs.io/ipfs/QmPbTQGskXEKkTbYhj1i2vx4NS82m5bErbSjpWedzLFysx",
+  "mint": "5cY27MCAy3bwJZMLGVvjsaTCexkxTL9MtEKc1YT9pump",
+  "bondingCurve": "Cy1SBvhfpPVPYmkFzWXkbgGtKVZo2r49ksm5zQypSk6w",
+  "associatedBondingCurve": "ECtmLGmMAN2vH3KxRPaHHjPWpT6oC9MYtNVjrJWDrm7P",
+  "user": "3JUDMUmbdeZDJ3CtUEESbGJQ5ekMdiTXvwjct3wUEnS1"
+}

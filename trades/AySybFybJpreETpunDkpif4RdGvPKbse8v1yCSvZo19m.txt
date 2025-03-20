@@ -1,0 +1,9 @@
+{
+  "name": "ORCA AI",
+  "symbol": "ORCAI",
+  "uri": "https://ipfs.io/ipfs/QmRRxCCcExqnvc5W2wSFGFkuXFM6dyPxfZdTR8LazwRTCA",
+  "mint": "AySybFybJpreETpunDkpif4RdGvPKbse8v1yCSvZo19m",
+  "bondingCurve": "GqJGZbA558Y2WaWobcvSx6zHJp4CPrFeE3HnAHkBvxo9",
+  "associatedBondingCurve": "55FnXK6U147TNr7YRidgpTtYR9p22bMmWsxmYddEahKN",
+  "user": "8GbxiCZrB7grKsG8nERqapZco3v5iCTtcH9eCkB1fLmD"
+}

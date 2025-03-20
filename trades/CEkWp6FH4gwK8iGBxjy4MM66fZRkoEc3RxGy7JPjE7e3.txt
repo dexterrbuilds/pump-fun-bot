@@ -1,0 +1,9 @@
+{
+  "name": "pilling phase",
+  "symbol": "PP",
+  "uri": "http://149.51.224.102:81/json/d6790030-53e6-4cfd-a446-81650fa2dccd",
+  "mint": "CEkWp6FH4gwK8iGBxjy4MM66fZRkoEc3RxGy7JPjE7e3",
+  "bondingCurve": "VXxggmbSesshcf7SSi3gbxGmdepZuz3fXLD9H8vsMKE",
+  "associatedBondingCurve": "6v7fcMTP9VnFJT6aTLwcxrGSqjXvyCtFzR2VuSMBqD3w",
+  "user": "9W165Uaz5mok2ihKjtmojEwNGhruuyMtZCRP633iyDDF"
+}

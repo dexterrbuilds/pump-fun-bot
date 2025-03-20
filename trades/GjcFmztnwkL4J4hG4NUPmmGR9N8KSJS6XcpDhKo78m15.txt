@@ -1,0 +1,9 @@
+{
+  "name": "big lad",
+  "symbol": "big lad",
+  "uri": "https://metadata.pumployer.fun/data/4c089a37-732f-47cf-930d-e18987631523.json",
+  "mint": "GjcFmztnwkL4J4hG4NUPmmGR9N8KSJS6XcpDhKo78m15",
+  "bondingCurve": "ELDQU2YLf19414wvKDi2wW6CbBGoWrYgExZNxgAFDV1d",
+  "associatedBondingCurve": "2qZnTvWkQrVBbAHmMygucVSPjYd4aEskCFRDh4gY7PNV",
+  "user": "MNhBbrscBPmeid54buiqSgyWa4D8PY6uKHoK2wJsTJN"
+}

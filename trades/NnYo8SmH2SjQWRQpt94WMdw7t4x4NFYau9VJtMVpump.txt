@@ -1,0 +1,9 @@
+{
+  "name": "low effort carrot",
+  "symbol": "LEC",
+  "uri": "https://ipfs.io/ipfs/QmfYXxrB6tkYg9MCYB1TahotDddDi95URaBq1DBu9yNE2F",
+  "mint": "NnYo8SmH2SjQWRQpt94WMdw7t4x4NFYau9VJtMVpump",
+  "bondingCurve": "DnPA5ZtLnxNMSnfMo5Zzw6dLKWSx4ih2HdvhiyipHant",
+  "associatedBondingCurve": "3bNbrZgGMAR2JSSpaMVeQ3BYHf9DgQBfo6W1qUdKxFPh",
+  "user": "J23a3UXA61wAPq6nk8qbqPSsgmxePFyNwgXzxZ8o25U8"
+}

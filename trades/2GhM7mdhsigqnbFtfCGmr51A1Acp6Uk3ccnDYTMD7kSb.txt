@@ -1,0 +1,9 @@
+{
+  "name": "QuavoYRN",
+  "symbol": "YRN",
+  "uri": "https://ipfs.io/ipfs/QmNVVQ7JKXpnp3BsyWp8kLdHsxdcHeJjgLLPsKADdJexia",
+  "mint": "2GhM7mdhsigqnbFtfCGmr51A1Acp6Uk3ccnDYTMD7kSb",
+  "bondingCurve": "A4NgW5PdKVjpdt11FiSiCUdJRr9tJGkcFoGHxGq51zzr",
+  "associatedBondingCurve": "9dJ3xa7kafjkmUWuCxf9ipX5A84Vk5bN2wcXSFpMce89",
+  "user": "8b8NKYDyMFYfoTfVqgfz5Q8EtYF1GKGRUrknJM27ezYe"
+}

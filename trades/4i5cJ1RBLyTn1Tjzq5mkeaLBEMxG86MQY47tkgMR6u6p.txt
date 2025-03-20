@@ -1,0 +1,9 @@
+{
+  "name": "BestBoyBrodie",
+  "symbol": "BBB",
+  "uri": "https://ipfs.io/ipfs/QmZLrfdBEMd8NkAW7B6qBpgeXEC3bfSCMCpY8EwXMvdWmt",
+  "mint": "4i5cJ1RBLyTn1Tjzq5mkeaLBEMxG86MQY47tkgMR6u6p",
+  "bondingCurve": "ELHiQcdysPb1cocV5ESBTVmbPUpZQ5egYdEtm3KVd1UL",
+  "associatedBondingCurve": "8PT5axmY6WC4HPE1jGKantSFDz1zEBraLtS2bLB1zpVQ",
+  "user": "E3BuzG8AV8vexFYZmSPNUvZGv8VHALe1fCagHsn8nu89"
+}

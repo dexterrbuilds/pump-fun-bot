@@ -1,0 +1,9 @@
+{
+  "name": "yurbis",
+  "symbol": "yurbis",
+  "uri": "https://ipfs.io/ipfs/QmU7musf9cfRVj6tymbxsjNBmt9GEGXybv9NijuRzBdSMR",
+  "mint": "HRqidcLsbXcZJr1rfb9PVEPWrgSD2vhpcVUwtbYjnUb3",
+  "bondingCurve": "HTLC8APwdBB4zTRkBdxiaFzkddJW1WkZSq5uPKhWDzuL",
+  "associatedBondingCurve": "V2QHWdV2hCdgmdPmi2uLaAy8tbsu63XvXuBKZAi8npy",
+  "user": "rvgrLXNGS7pcY4y7pzonAaefzYPXk2b2qEfWPSWWK33"
+}

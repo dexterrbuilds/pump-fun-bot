@@ -1,0 +1,9 @@
+{
+  "name": "$BOOSTER COIN",
+  "symbol": "BSTR",
+  "uri": "https://ipfs.io/ipfs/QmbVXufjt3pbjw2kqr1qWdmMK1FWv1haAg5jqpRQ4jzmrA",
+  "mint": "7yG6pDHoQfZUgR6dSy5X3gZVXR2qGNg1aPEih2o2HB5i",
+  "bondingCurve": "5SVxYK2KyFEoxM4VUSh1jTE1Fq8DAQaw5ejjXGobouG5",
+  "associatedBondingCurve": "2YS9Wb3kXcceH4TP7KyuRYYoQK6xEsCFnkLefEbexh33",
+  "user": "32ZVpzk25R4w4WizucU5fyKokVN9MFkfT4KAKNgPtM6d"
+}

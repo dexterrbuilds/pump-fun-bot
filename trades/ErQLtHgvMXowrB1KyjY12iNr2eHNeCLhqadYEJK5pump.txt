@@ -1,0 +1,9 @@
+{
+  "name": "THIS WILL HIT 10M",
+  "symbol": "IMAGINE",
+  "uri": "https://ipfs.io/ipfs/QmQ6g7madk1L7m1WAYRjhZ9uFM4c4CyZjqTUit1nPjvRfU",
+  "mint": "ErQLtHgvMXowrB1KyjY12iNr2eHNeCLhqadYEJK5pump",
+  "bondingCurve": "6LnMhyT3fvCkyQheN3FYFj4uwv7AmJBkdn4jmJRi7QXd",
+  "associatedBondingCurve": "FEUnJvGVpMyxbEL5D8G5MxM9SN6r3BB8cSF5JoLJGCGE",
+  "user": "E62CXXgurWmWMxJubusCijKG8s1JY8J8HT3WqdWkRdjJ"
+}

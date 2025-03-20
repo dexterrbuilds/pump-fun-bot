@@ -1,0 +1,9 @@
+{
+  "name": "it sok to steal memes",
+  "symbol": "istsm",
+  "uri": "https://metadata.pumployer.fun/data/856f2655-8172-49ba-9dbe-789327abe1df.json",
+  "mint": "8SByJZSqFySSCVk4FgADsmS8onrJmLA7wDX1buFDoYFM",
+  "bondingCurve": "BMRfGRN25tVXZBmRddu4BsVLz5qKPoh1CcB2LHXp4VVb",
+  "associatedBondingCurve": "HQXDpyABKnJbaUAouSHNMVFtkeHajSVqU38L9PuiWU7j",
+  "user": "MNhBbrscBPmeid54buiqSgyWa4D8PY6uKHoK2wJsTJN"
+}

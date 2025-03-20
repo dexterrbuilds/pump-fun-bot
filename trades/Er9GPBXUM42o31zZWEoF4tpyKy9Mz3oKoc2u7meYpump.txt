@@ -1,0 +1,9 @@
+{
+  "name": "Wagging tails",
+  "symbol": "WT",
+  "uri": "https://ipfs.io/ipfs/QmQUh9qkdXyrJMBjbDk2XxHDWDhyk12GmR6qQQ4uEbG9D2",
+  "mint": "Er9GPBXUM42o31zZWEoF4tpyKy9Mz3oKoc2u7meYpump",
+  "bondingCurve": "DDA8Xjgpfwm5ueFjhTeZrdtN6P4DmRcwGRsNm1983eFv",
+  "associatedBondingCurve": "DFv796PMM8L61bgwaf6Q4pHuXLqAcXTAfj76gWByAKGi",
+  "user": "5iRzvug8d4ZH1rYJD4uNSPJqo1GcbPpQfxTuCunCSUNZ"
+}

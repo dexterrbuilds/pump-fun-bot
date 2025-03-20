@@ -1,0 +1,9 @@
+{
+  "name": "OAISIS",
+  "symbol": "OASIS",
+  "uri": "https://ipfs.io/ipfs/QmawBZcrzowNZZKZvjnQHaXSbj1h59HR5eDpoKR9fyYWs7",
+  "mint": "CyyYzzFV4Wt618E9XKzLrKQNqrUjjpppGnhBtcFTpump",
+  "bondingCurve": "AUvMLfiSwcdwUdTnWKhnMTv3YDq8Sa516n6U5BkrRKbJ",
+  "associatedBondingCurve": "6JV1apspenD6J2v1JmfXiCfmP4DDS6nKZN3pZijAJn6B",
+  "user": "BxyefGeCyySeCU2MCxvt5ps4r8JGd17a3MPEjLWQpFmr"
+}

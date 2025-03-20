@@ -1,0 +1,9 @@
+{
+  "name": "Economist Robot",
+  "symbol": "ECOROBOT",
+  "uri": "https://ipfs.io/ipfs/QmTs61MJHUWJHFeP7suVrkNFW4VCduA5nE3xjgcm4oZLs2",
+  "mint": "7515z1HEqJdYXqeSqQA7hKGLMeQA7fD3e2okrTghpump",
+  "bondingCurve": "Gd7bCbdf8toJYe1FDvKDhHnK8Dqr5p6U47HNWg6W28ZW",
+  "associatedBondingCurve": "5oxXGxGqq3Bw1DKejhmNgbHe492vTYkgEFF1WQT3Sev7",
+  "user": "8dnAbyqJnen8iTmaArSLEScoKVb6EsURQ4WzzTWVQW6T"
+}

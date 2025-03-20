@@ -1,0 +1,9 @@
+{
+  "name": "Sec New Dogecoin Price Ind\u0435x",
+  "symbol": "DCX",
+  "uri": "https://ipfs.io/ipfs/QmQuys2bgbSXNzt1kyxrofs25xPePeDhG77XndSSiubgRc",
+  "mint": "ENfA2mMCftR6YkUjKPcivbHNUMSqoz3i2enqPxq65ecS",
+  "bondingCurve": "HfaECSf7paUasWkchYHQrqd158jq8nUn74oXMM3FmFFQ",
+  "associatedBondingCurve": "6hSm8Ydj4iR6upUwAUd4RKeBLo1KR47gSV8v8ECAYCLM",
+  "user": "ALeMhY29CtXDmqdKMVhAs9SDrAckS3YTxuVKCNqmXZng"
+}

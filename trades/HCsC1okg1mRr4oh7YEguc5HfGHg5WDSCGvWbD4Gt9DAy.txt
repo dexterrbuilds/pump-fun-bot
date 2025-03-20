@@ -1,0 +1,9 @@
+{
+  "name": "Friggin Packet Yo Coin",
+  "symbol": "FPY",
+  "uri": "https://ipfs.io/ipfs/QmciEPU5scKbg42okgwRpsxuB87rvXBzz9Ghp5CwWvmWeR",
+  "mint": "HCsC1okg1mRr4oh7YEguc5HfGHg5WDSCGvWbD4Gt9DAy",
+  "bondingCurve": "EjuAr9PvrZ42pmiBUtgwD95tbQPSJfYE7unxyFYKyD6C",
+  "associatedBondingCurve": "EjL2cAqwqChLJBPvJ2Vo3K3AXbcbdVi1j8THFJPgWsUw",
+  "user": "87cEzAQHAmPsxXnk3PskmmCjRiGrKKksvrMQnDVL4v5p"
+}

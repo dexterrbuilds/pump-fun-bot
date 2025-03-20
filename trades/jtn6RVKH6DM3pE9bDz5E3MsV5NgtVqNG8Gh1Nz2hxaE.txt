@@ -1,0 +1,9 @@
+{
+  "name": "TEST",
+  "symbol": "TEST",
+  "uri": "https://ipfs.io/ipfs/QmTrZQXMwHbaCwAbYaWCw5neCD6wuZB3Y82MjgWp4Z1U9n",
+  "mint": "jtn6RVKH6DM3pE9bDz5E3MsV5NgtVqNG8Gh1Nz2hxaE",
+  "bondingCurve": "52E96q7Sp8XQHCuY23D6BSoA4oBGAeBjNQUMJ7vSaCYW",
+  "associatedBondingCurve": "HQ759qTBUHwexMmvYbuQrwtgAdVc9cMNK8y1ejUASbS4",
+  "user": "3hFpZHU6wqPhsCHapSYGZydVZUd1Nt1hQbonjeqFvrC4"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "\ud83e\udeda\ud83e\udd66",
+  "symbol": "\ud83e\udeda\ud83e\udd66",
+  "uri": "https://ipfs.io/ipfs/QmeVLBd9HUzxU8V7wsNHSaG4uuLSnvS1dfYJbGYQATowWY",
+  "mint": "6sx4fGSBKbLKtFEsNBc3zy4qcUKQdVVo4SWSsAQFpump",
+  "bondingCurve": "Gqw9U6148og4hBKufQ1f6J3rVkR2v9ENPwc5rcWw2tfq",
+  "associatedBondingCurve": "BdDPdUcQgqDtMxjUWkfENgkGVe9eEGAtA51FiFDJjb9u",
+  "user": "AZAXgJjWUArUWmj2nkRhkgAbMRDszwRCj9XTDA8kiyfX"
+}

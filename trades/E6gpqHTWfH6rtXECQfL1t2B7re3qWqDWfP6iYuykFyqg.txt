@@ -1,0 +1,9 @@
+{
+  "name": "MyMILADY",
+  "symbol": "MMIL",
+  "uri": "https://ipfs.io/ipfs/QmYbVGbgrZSDJKrr86JzKi2ZiCSQjHXZoyVgntJFyXkVSy",
+  "mint": "E6gpqHTWfH6rtXECQfL1t2B7re3qWqDWfP6iYuykFyqg",
+  "bondingCurve": "8LzE63pZ9DPMyFExDWCXkGdEd6Wr3wywAuR1AskviirZ",
+  "associatedBondingCurve": "BrNHL9Ym3YdiNFJHuor7E1SYs1tcJRNgkdFUGLMtjL9b",
+  "user": "EvJ1cV5sEJW1f5DDe4gw97qKZJ3KnMug67ZXGc176oNY"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Just Arrived",
+  "symbol": "JARVD",
+  "uri": "https://ipfs.io/ipfs/QmZPAju9z83ef5qDGFwjV6gF5wpriZBgQgSXhs52Jr26y4",
+  "mint": "431ez6awooNYR49FaJZ8EFsxwaQJRUJvYxgLEwr2Rc4y",
+  "bondingCurve": "FsACVfsHwz5LWQopx1muLL16KgCmScAAskRQKNKCMTem",
+  "associatedBondingCurve": "Cjgcr7nUpKfRsRm8QBQqAX5jL3KTfWmdmCpkFYwo8Mp4",
+  "user": "DzNVvBadPDFcBYD9ozASUfUUk3qYg3YebQcjJRvDQoc6"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "cant spell broccoli without",
+  "symbol": "BRO",
+  "uri": "https://ipfs.io/ipfs/QmcAZLbdRFfEvnQ2YoGMT1xXqsiapYSyPWJLtowxzMokBu",
+  "mint": "DgQdWTykhsboZukeeCckWWTbK5pimxDcQwAtSUiRpump",
+  "bondingCurve": "8xJohDFrrMBEK9LwsTEHFWDnNVbVHo4Y5YY4CQPTiVA6",
+  "associatedBondingCurve": "2jQtdhhKRnszz9uXf85GqHCNS8GBaqRDJjtQwjdTQ7s5",
+  "user": "6Zwm8dHufqQt3P6WZ87QxXLNafQWR4Zct2CDBBNiFoYy"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Jack Daniels",
+  "symbol": "10",
+  "uri": "https://ipfs.io/ipfs/QmNVi9RkohHp7R1Z1aN4HadqWzCvJrb7cBTKWfQUYY6wxR",
+  "mint": "DXR5BQJPWqUMXGxY2mzPLYGYpuCJVRhnfy6VMDQHRjq1",
+  "bondingCurve": "69PzZAEnR6Az7wQMMrcE86wMNVyA4gTjQXcNWwm6ov9p",
+  "associatedBondingCurve": "GDfMhJcUaYmPzMRUKh1uMMzQkN7YAKYMD9eAqH53Uo59",
+  "user": "8tAqPQv7jW4rmsP9E2f6AFaWRvff9xiBp2VMWFWFX6Q1"
+}

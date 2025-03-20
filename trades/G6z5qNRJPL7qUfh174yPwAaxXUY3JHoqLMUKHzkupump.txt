@@ -1,0 +1,9 @@
+{
+  "name": "IRS CTO",
+  "symbol": "IRS CTO",
+  "uri": "https://ipfs.io/ipfs/QmSjoMEreGEQNmUSpLLQY7FMmdXrSnZzQ3z7iyqnAes95v",
+  "mint": "G6z5qNRJPL7qUfh174yPwAaxXUY3JHoqLMUKHzkupump",
+  "bondingCurve": "4XuU6k7FF38i7drKm97dz7oh3Q4e3eS2Em32fgBVbMie",
+  "associatedBondingCurve": "3rp3vwVJgDz4Pe52QUawB8T4cRTahuptziRC8UmpRWqn",
+  "user": "4Kr8wN4b5VV3p9B9oxdE737oqm2d5pPm7JtLsDpdNKNz"
+}

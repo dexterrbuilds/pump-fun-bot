@@ -1,0 +1,9 @@
+{
+  "name": "GrokVerse",
+  "symbol": "GVERSE",
+  "uri": "https://ipfs.io/ipfs/QmNMEPafMGbbwa1HJ7AkPvRbNPutCLdcehRjbZq3pi7Q42",
+  "mint": "DgpF15koPM1wMbkRtogr92GVxM55KNrz2XNy6zn5Fxeu",
+  "bondingCurve": "J2RMxsgZtyRcpZLeZe1U8yCdrfy6kYiqKe93ixMPu5VM",
+  "associatedBondingCurve": "81JHMXmepmGmh3nhjTHm6JerdvhNCX1FobdqquHojKMx",
+  "user": "DWNanGPfnSYcJ9HoSS188hjs2QkV4VejpzHYvhGkadSz"
+}

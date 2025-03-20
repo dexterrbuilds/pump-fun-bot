@@ -1,0 +1,9 @@
+{
+  "name": "HIPPIE",
+  "symbol": "HIPPIE",
+  "uri": "https://ipfs.io/ipfs/Qme647bDygV3x9JRpQDEKe1zyBME63H73U6TjpYirKMiB2",
+  "mint": "9XDAD3xJkAET2pA9GhxafJ1VaQCwT3KeiApitFmmpump",
+  "bondingCurve": "TjyWQASFyjNY2N68tgCfhtF3LTY9UwoRG8QC3voWXw4",
+  "associatedBondingCurve": "CYwhmRZTjcvydcxuzSZpeY9HGNrDzckKL1XfMjHRMvYE",
+  "user": "FhjbizDaJWzQNwWrc2xBuMwc9WkrzDzAGa71YTgFFuS6"
+}

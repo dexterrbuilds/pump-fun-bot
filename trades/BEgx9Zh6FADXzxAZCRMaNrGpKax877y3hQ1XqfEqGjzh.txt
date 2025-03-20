@@ -1,0 +1,9 @@
+{
+  "name": "Stanger",
+  "symbol": "FLASH",
+  "uri": "https://ipfs.io/ipfs/QmYSmQn6rKixEKY4jiF28Unty9FXs4YTqVf78knLKTNyTu",
+  "mint": "BEgx9Zh6FADXzxAZCRMaNrGpKax877y3hQ1XqfEqGjzh",
+  "bondingCurve": "CGrSgeKFDtDFSvWX9wU4C7z69acaZberPhfwVsfBLpdH",
+  "associatedBondingCurve": "9Sws94GMdMfH3Xbx2qpCFKQKQH7LaSKDoZYmQ8gRUrYN",
+  "user": "3KTZqsQUXYRCe6mX5G37a7j2YTKZQaysycBUjf7KsWUu"
+}

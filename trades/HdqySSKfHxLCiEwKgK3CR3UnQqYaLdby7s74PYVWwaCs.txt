@@ -1,0 +1,9 @@
+{
+  "name": "NEW DEFI NAME",
+  "symbol": "DLT",
+  "uri": "https://ipfs.io/ipfs/QmYWBC1pg3sQ5UpQfev3i1PMf3LzaoAe5wC7i1P2cELfFx",
+  "mint": "HdqySSKfHxLCiEwKgK3CR3UnQqYaLdby7s74PYVWwaCs",
+  "bondingCurve": "Hu9eFtNzPX9zyZffSXzRXX2Pbj3t3D1v7x1KugDZLp4w",
+  "associatedBondingCurve": "7gYKGo8kEEE5ipf1de5P6FSWMzszFwSxFfDvC5pbtW34",
+  "user": "BDwG24T8gn4NTpRc3ynmcd2pnpH464GXqRaYXpMKJZTW"
+}

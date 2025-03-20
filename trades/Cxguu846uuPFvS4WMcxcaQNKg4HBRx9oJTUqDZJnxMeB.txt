@@ -1,0 +1,9 @@
+{
+  "name": "GROK AI ",
+  "symbol": "GROKAI",
+  "uri": "https://ipfs.io/ipfs/QmXKyZmoe6wgfmB6diGjLRFTQrn8UiNzge4krTBU7UYhpK",
+  "mint": "Cxguu846uuPFvS4WMcxcaQNKg4HBRx9oJTUqDZJnxMeB",
+  "bondingCurve": "4ox71uGVrED7odrUS2Z54h2bGSb2kuZ8UHgRa8aNs9zu",
+  "associatedBondingCurve": "48H7KuV8DNw5U6bCuAA2nSdM7Nt2yRDcrRy8Wjk7nYLX",
+  "user": "4GK6sqPQSWhRfiGTJASMwNW4Y9Prw4KwU5Etrukfv5N7"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "ScootCat",
+  "symbol": "SCOOT",
+  "uri": "https://ipfs.io/ipfs/QmUtrR13uY5Dg3Ban2vvng7QoNxW1sNNcGiLMCdpuBBscT",
+  "mint": "CFswutww2BbYr6pLKXcsZ7aWiD9rsDvpFdtN6JKBpump",
+  "bondingCurve": "9JBV1xZSWrYwUPEpM9wmUCc6kf7WSFq1i6Y3AZF9g8Vd",
+  "associatedBondingCurve": "CQiBatArsbbi8iuxqHpZhMCtNK4is2PFaQQFqdz6ngDN",
+  "user": "GrTrZKxzkvn8qoRYhNn9wajZy3G8FwsrJeGfu4GgrHiW"
+}

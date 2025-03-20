@@ -1,0 +1,9 @@
+{
+  "name": "HONEY BADAI",
+  "symbol": "JAILFLOKI",
+  "uri": "https://ipfs.io/ipfs/QmeVccacevoidsK2WrC63HVTtFCmB7BGoDHsz9RUPZHumZ",
+  "mint": "3UgKvxGYkQb2QJjvHgTmEsFCR2UD9vgXbNwosvNe7Pw3",
+  "bondingCurve": "7iZxZ4cDkuQiJ47cASoB2UvGug7VqT5EkXbASNqT48cv",
+  "associatedBondingCurve": "Bqecgz9Cm5ZJAhund4nEqPrGBjABVAAeoWAhsrkdGfKC",
+  "user": "CL42HeQWrgoe5HF8fD8XFt8pY6iSYa64zeoGDt1PdhVC"
+}

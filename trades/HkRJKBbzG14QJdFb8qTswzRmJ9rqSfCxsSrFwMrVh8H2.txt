@@ -1,0 +1,9 @@
+{
+  "name": "Jail Jork",
+  "symbol": "JAILJORK",
+  "uri": "https://ipfs.io/ipfs/QmYiiCHX4yWqvKqzUSmTMrZUj675aqismcfS5G9e9BUyXb",
+  "mint": "HkRJKBbzG14QJdFb8qTswzRmJ9rqSfCxsSrFwMrVh8H2",
+  "bondingCurve": "7Smxme1UkTrHBL2SDFn8tJesu1DAkFfvzQ6B11GFzBNV",
+  "associatedBondingCurve": "792yRUPMnK9s4zULrH42TvYtDLud9hovYaYXrhSxivyp",
+  "user": "6H1fRe9cK7tSLiAXGeiYqpbyQwHXm8gqRpZ6pdgfMbss"
+}

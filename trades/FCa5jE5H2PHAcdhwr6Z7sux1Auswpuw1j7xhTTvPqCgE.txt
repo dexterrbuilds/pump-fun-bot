@@ -1,0 +1,9 @@
+{
+  "name": "IWANTTHEGOLD",
+  "symbol": "LPRECHAUN",
+  "uri": "https://ipfs.io/ipfs/Qmb7YcCfQnPCfdaGNTar6AZr6HdhVVvVjp29UURKUfjZUc",
+  "mint": "FCa5jE5H2PHAcdhwr6Z7sux1Auswpuw1j7xhTTvPqCgE",
+  "bondingCurve": "3L9MZif4fZR1sWDF2gs7HX2GYy2ocAqVtmrXmEESyEGm",
+  "associatedBondingCurve": "FsDCqKcf4pNGrX15NnW3Qpks5fyeQiUv5iREmryiZNRL",
+  "user": "AEbBLevyfppSqx5ByQJPhCcoiCKux3gTHTVhwjingXjj"
+}

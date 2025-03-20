@@ -1,0 +1,9 @@
+{
+  "name": "FreedomLedger",
+  "symbol": "FDL",
+  "uri": "https://ipfs.io/ipfs/QmdiAdFUcWS1jfvLYeiQhuGzt5dXYxvJYeDNQNhHv9qzNk",
+  "mint": "7nHLhuAwQGa2oQJn5GB6i8d4WhfrfDc6pqttojb7VXD2",
+  "bondingCurve": "48s7iWwiBmKE7JNQAVZRFJgE6UKQYihi822RcrSoSrPC",
+  "associatedBondingCurve": "FuBjHLjMPJuFGDymoSrogn2gkYSB5Ruc44bumz6vB3PH",
+  "user": "9Qx6x4Jdk9YFMaVvutZ7gChPkcmyRkj1czPPj8T7WwqY"
+}

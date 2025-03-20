@@ -1,0 +1,9 @@
+{
+  "name": "Legacy media lies relentlessly",
+  "symbol": "LMLR",
+  "uri": "https://ipfs.io/ipfs/QmdFhSgqzMyCAZ6jcrTswHKsyPBazVfCzhj4fjuarAiELW",
+  "mint": "CH5HozaqaSSb7vK5QGi6wK499r526mUDtBWuiTFZRGpr",
+  "bondingCurve": "FCLkvjQcAbozYqWUo5sh7VCaYUikMdUeYM7cDjNUfY2E",
+  "associatedBondingCurve": "HyUhngWVZX51zmq2Rixzue1WCux1d33icoo7y3MtuMTi",
+  "user": "5GMUu9YkyZYanyeCGWdZ9ntDMogUUfxqQmmbzFDhyC9Y"
+}

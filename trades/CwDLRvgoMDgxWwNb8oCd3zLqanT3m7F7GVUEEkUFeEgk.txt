@@ -1,0 +1,9 @@
+{
+  "name": "vip coin",
+  "symbol": "vip",
+  "uri": "https://ipfs.io/ipfs/QmdKuYKWwuootSxnARmjXGg1sA2RfNyhpbHXwbYSkNkt7f",
+  "mint": "CwDLRvgoMDgxWwNb8oCd3zLqanT3m7F7GVUEEkUFeEgk",
+  "bondingCurve": "2k8ki48VhZ9q5nrTLiQ8NGcz3f2hfSH1qt9L5Vh1dRTB",
+  "associatedBondingCurve": "9bSxmuLtiSqTTBC3tDHGGqA31U7QSCkQ3Xe7yq2fF4wo",
+  "user": "2E4ipfqgS9gTP5LWRnuWSt4htuYnCQUZ7LR2et88R8AY"
+}

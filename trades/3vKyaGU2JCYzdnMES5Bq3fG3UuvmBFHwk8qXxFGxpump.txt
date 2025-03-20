@@ -1,0 +1,9 @@
+{
+  "name": "SEC Dogecoin ETF",
+  "symbol": "DOGECASH",
+  "uri": "https://ipfs.io/ipfs/QmX4PRaWCdF6RkYGVWuhEEvoiwa4pykzqEz1vch57bt769",
+  "mint": "3vKyaGU2JCYzdnMES5Bq3fG3UuvmBFHwk8qXxFGxpump",
+  "bondingCurve": "3rK8XwcqEFDdvVGjABJ2WnC8CTGnHU65t3S67fHrb2A7",
+  "associatedBondingCurve": "FcbNYMokuZWj5B1rMY7HhYMM39xFLTtvJvt1BrZwcTMu",
+  "user": "3JUDMUmbdeZDJ3CtUEESbGJQ5ekMdiTXvwjct3wUEnS1"
+}

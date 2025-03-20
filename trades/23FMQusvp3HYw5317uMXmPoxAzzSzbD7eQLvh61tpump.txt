@@ -1,0 +1,9 @@
+{
+  "name": "Flip Coin",
+  "symbol": "0.00000001",
+  "uri": "https://ipfs.io/ipfs/QmTEG4saF9bKqxm6thy5obTyTNJWPmuKbkYrvjmnRSvoPs",
+  "mint": "23FMQusvp3HYw5317uMXmPoxAzzSzbD7eQLvh61tpump",
+  "bondingCurve": "HU2h25cWhRgLr5W6HrQEjVuZ1JfT9R3T76ds4RvSuKwC",
+  "associatedBondingCurve": "F5rJBZVwgvaqM7CKd79wjm8djqY5SaK5jfN8MU6e5Js7",
+  "user": "AgG9kETZo6HUWYcxAwWCdEDZuoWP1xozG6T6Xw6fMPSM"
+}
